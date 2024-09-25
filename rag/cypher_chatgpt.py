@@ -18,89 +18,11 @@ https://python.langchain.com/v0.2/docs/how_to/graph_prompting/#few-shot-examples
 
 from langchain_community.graphs import Neo4jGraph
 from langchain.chains import GraphCypherQAChain
-from transformers import AutoModelForCausalLM, AutoTokenizer
-from abc import ABC
-from langchain.llms.base import LLM
-from typing import Any, List, Mapping, Optional
-from langchain.callbacks.manager import CallbackManagerForLLMRun
 from langchain_community.chains.graph_qa.cypher import CYPHER_GENERATION_PROMPT
 from langchain_core.prompts import FewShotPromptTemplate, PromptTemplate
 from langchain_openai import ChatOpenAI
 
 from openai_api import OPENAI_API_BASE, OPENAI_API_KEY
-
-
-device = "cuda" # the device to load the model onto
-# dir_model = "/home/chenxiyuan/PetProjects/LLM/Qwen2-1.5B-Instruct"
-# dir_model = "/home/chenxiyuan/PetProjects/LLM/Qwen2-7B-Instruct"
-dir_model = "/home/chenxiyuan/PetProjects/LLM/Qwen2-7B-Instruct-AWQ"
-model = AutoModelForCausalLM.from_pretrained(
-    dir_model,
-    torch_dtype="auto",
-    device_map="auto",
-    local_files_only=True,
-    )
-tokenizer = AutoTokenizer.from_pretrained(
-    dir_model,
-    local_files_only=True,
-    )
-
-class Qwen(LLM, ABC):
-    max_token: int = 10000
-    temperature: float = 0
-    top_p = 0.9
-    history_len: int = 3
-
-    def __init__(self):
-        super().__init__()
-
-    @property
-    def _llm_type(self) -> str:
-        return "Qwen"
-
-    @property
-    def _history_len(self) -> int:
-        return self.history_len
-
-    def set_history_len(self, history_len: int = 10) -> None:
-        self.history_len = history_len
-
-    def _call(
-        self,
-        prompt: str,
-        stop: Optional[List[str]] = None,
-        run_manager: Optional[CallbackManagerForLLMRun] = None,
-    ) -> str:
-        messages = [
-            {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": prompt}
-        ]
-        text = tokenizer.apply_chat_template(
-            messages,
-            tokenize=False,
-            add_generation_prompt=True
-        )
-        model_inputs = tokenizer([text], return_tensors="pt").to(device)
-        generated_ids = model.generate(
-            model_inputs.input_ids,
-            max_new_tokens=512
-        )
-        generated_ids = [
-            output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
-        ]
-
-        response = tokenizer.batch_decode(generated_ids, skip_special_tokens=True)[0]
-        return response
-
-    @property
-    def _identifying_params(self) -> Mapping[str, Any]:
-        """Get the identifying parameters."""
-        return {"max_token": self.max_token,
-                "temperature": self.temperature,
-                "top_p": self.top_p,
-                "history_len": self.history_len,
-                }
-
 
 
 chatgpt = ChatOpenAI(
@@ -128,6 +50,14 @@ cypher_prompt_example = [
     {
         "question": "MTF Beta-2 协助收容了几个基金会项目？",
         "query": "MATCH (tf:TaskForce) WHERE tf.name CONTAINS 'Beta-2' UNWIND tf.object_contained AS object RETURN COUNT(object) AS count",
+    },
+    {
+        "question": "所有和Harold Blank博士有关的scp项目",
+        "query": "MATCH (object:ScpObject)-[:HAS_TAG]->(tag:Tag)-[:IS_TAG_OF]->(character:Character {{name: 'Harold Blank博士'}}) RETURN COLLECT(object.item_number)",
+    },
+    {
+        "question": "非官方记录中的site-5一共有几个",
+        "query": "MATCH (facility:Facility {{is_official: false, name: 'site-5'}}) RETURN COUNT(facility)",
     },
     # {
     #     "question": "How many artists are there?",
@@ -176,28 +106,22 @@ cypher_prompt = FewShotPromptTemplate(
 
 
 if __name__ == '__main__':
-    # start neo4j server: sudo neo4j start
+    # start neo4j server in terminal: sudo neo4j start
     graph = Neo4jGraph(
         url="bolt://localhost:7687", 
         username="neo4j", 
         password="password",
     )
-    # print_schema(graph)
-    qwen = Qwen()
-    # qwen_cypher = QwenCypher()
 
     chain = GraphCypherQAChain.from_llm(
-        qwen, graph=graph, verbose=True, 
+        chatgpt, graph=graph, verbose=True, 
         cypher_prompt=cypher_prompt, 
         cypher_llm=chatgpt,
         
     )
-    # qwen2-7B：生成的cpyher语法出错：
-    # "MATCH (scp:Object WHERE scp.item_number = 'scp-cn-2452' RETURN scp.description"
-    # 加入cypher_prompt也没有改善
-    # qwen2-1.5B：加入cypher_prompt后生成cypher语法比7B好，但稳定性较差
-    # 需要多次尝试才能输出正确答案
     # question = '一共有多少个scp项目有“搞笑”或“人形生物”的标签？'
-    question = '给出3个等级为keter的scp项目的描述'
-    prompt = '\n直接输出提供的信息，不要进行任何修改和删减'
-    chain.run(question)
+    # question = '给出3个等级为keter的scp项目的描述'
+    
+    # question = '所有和dan博士有关的scp项目'
+    question = 'scp-1530被收容于哪个设施中'
+    print(chain.run(question))

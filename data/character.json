@@ -1,0 +1,5301 @@
+[
+  {
+    "name": "Charles Anborough博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-59与Site-117主管，Keter级收容专家。好奇却胆怯，是一个好像躲不开那些灾难性威胁的核物理学家。还好，因为一系列即兴发挥和机缘巧合，他算得上是这项工作的最佳人选。他用哀伤的笑容和生硬的笑话掩盖这个寻找着答案的男人复杂的过去。\n\n我他妈恨你！\n\n我只是…我好想你…爸\n\n他一辈子都活在伟人的阴影里，时至今日也没有把这一切看明白。预防世界末日，阻止XK，YK和ZK事件，都没办法满足他的嫉妒与仇恨…他就算把眼泪流干，也没法填满他的空虚。他永远不会放弃寻找答案，而且，为了全人类，他必须找到答案。\n\n\n",
+    "description_link": [
+      "scp-2400",
+      "too-insane-to-fail",
+      "scp-1649",
+      "footsteps"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Daniel Asheworth博士",
+    "tag": "asheworth博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "奇术学家，自称炼金术士。易冲动，暴脾气，有时候会自大，但初衷是好的。出生于1950年代末，其母为美籍，其父为波兰籍，身份均不详。少数能用异常方法延寿的基金会人员之一。\n曾领导调查Damien Nowak案。确信曾短暂任被放逐者之图书馆及威尔逊野生动物应对组成员，Daniel Asheworth多次被证明是Site-120主管议会里最有用的资产。\n\n一切魔法都有代价…\n\n…但这代价我愿意出。\n\n他的过去总是被难以看透的重重迷雾所包围，据信与PoI-5936（\"Damien Nowak\")，其手下的邪教组织\"孩子们\"，以及O5-9均有互相往来。但除了奇闻逸事和过期记录之外并无官方证据。\n\n\n",
+    "description_link": [
+      "and-every-time-we-meet-again-hub",
+      "a-library-empty",
+      "critter-profile-sparky",
+      "secure-facility-dossier-site-120"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Thomas Bailey博士，Trevor Bailey博士，以及Tristan Bailey博士",
+    "tag": "bailey兄弟",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "受雇于基金会的同卵三胞胎。其父为Tyler Bailey，多元宇宙运输门径的发明者。为基金会工作的时间不详（员工记录和个人档案不一），外貌在20岁到40岁之间，为持续跨越宇宙边界的副作用。\nTrevor Bailey为前任多元宇宙事务处领导人，后因不当处置一Keter级异常而被贬至Site-19担任文书工作。Tom \"Bombadill\" Bailey曾致力于探索平行宇宙，现担任Site-1483监督员（位于第三南极帝国境内）。Tristan Bailey为物理学家，外交官，以及多元宇宙翻译器的设计者。曾被派遣至[已编辑]，当前就任于Site-87。",
+    "description_link": [
+      "a-very-bailey-christmas",
+      "a-multi-universal-affair",
+      "a-merry-fellow",
+      "antarctic-exchange-hub",
+      "scp-1483",
+      "unscience",
+      "scp-2000",
+      "the-s-c-plastics-hub"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Harold Blank博士",
+    "tag": "blank博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "一位研究异常现象的历史学家，Site-43文献与修缮部主席。暴脾气，爱讽刺，不肯在处理任何事情的时候多严肃那么一丁点，对待自己也是一样。站点内几个特定的在每年的一个特定的日子里搞砸一个特定的工作从而被迫引导平行时间线的员工。算是Wettle博士的\"朋友\"，与Lillihammer博士是挚友，而且同研究搭档Melissa Bradbury博士有恋爱关系。\n\n书写历史之人…\n\n…差不多就是我。有时候还要重写。\n\nHarry Blank在早年经历中有多到不合理的异常发现，而其中一个最终带他走入了基金会…不过，也可以说他是被Lillihammer的卡车载进去的，然后他们俩就都入选了。他是Site-43创始人Vivian Scout最中意的学徒，并且在超常与政治灾难发生时都能够坚守岗位。目前为止，他都很乐意跟他的加拿大女朋友一起待在这加拿大防空壕里（只有几次需要出远门）。但是时过境迁，他和他的同事们也都明白时光不再。唉，还好事态没有变得更难看…\n\n\n",
+    "description_link": [
+      "secure-facility-dossier-site-43",
+      "scp-5243",
+      "on-the-same-page",
+      "scp-5729",
+      "scp-5162",
+      "scp-5238",
+      "dissertation",
+      "defence",
+      "the-good-work",
+      "the-b-b-decommission",
+      "whose-lake-is-it-anyway",
+      "the-green-machine",
+      "blank",
+      "scp-5956"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Django Bridge博士",
+    "tag": "django-bridge",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 基金会档案员。低调却有影响力，略带忧伤又总有点异想天开。记忆力超群。与Bright博士关系密切，时常担任他的非正式助理。",
+    "description_link": [
+      "rounderhouse-proposal"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Jack Bright博士",
+    "tag": "bright博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会人事主管。有点无底线。对基金会极度忠诚。或滑稽，或骇人；但绝对很耿直。依附于SCP-963，因此可以使用任何SCP-963最后碰到的躯体而达到不朽。\n\n我在这个组织里待了很久了。\n\n我才不是什么死猴子。\n\n他的家族与基金会（和其他异常组织）有着难以追溯的渊源。其弟为SCP-590（很少人知道）；SCP-321则是其妹（几乎没人知道）。至少还有两个亲属在基金会高层工作。几个Bright弃用的躯体 — 在与SCP-963分离后仍然保留着他的人格和记忆 — 已加入多项基金会秘密项目。Bright在内心深处藏着一种对于永远死去的欲望，但他自己可能都没有意识到；讽刺的是，他之所以能够成为SCP-963的一部分，正是因为他没有求死。\n\n\n",
+    "description_link": [
+      "scp-5004",
+      "the-best-and-the-wisest",
+      "unfinished-business",
+      "the-many-portraits-of-jack-bright",
+      "we-re-off-to-be-the-lizard",
+      "scp-963",
+      "codebrown",
+      "scp-590",
+      "scp-321",
+      "the-executions-of-doctor-bright",
+      "scp-978-extended-test-logs"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Jeremiah Cimmerian博士",
+    "tag": "cimmerian博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "对自己的工作不怎么认真的伦理委员会联络员。从没想过自己的英文文学博士学位和哲学辅修能帮他保住工作，前者令他被基金会招募为研究员，而后者则让他得以长久 稳定地保留职位。对于俏皮话和人形异常受到的道德待遇尤为关注。",
+    "description_link": [
+      "a-tale-about-petty-revenge",
+      "the-case-of-the-bathroom-cheese-labels",
+      "cimmerian-sends-650-pms",
+      "ethic",
+      "scp-2713",
+      "scp-2632",
+      "scp-4690",
+      "scp-4971",
+      "scp-5281",
+      "orientation-for-the-pastaphysics-department",
+      "scp-4175",
+      "scp-4199",
+      "scp-4864"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Alto Clef博士",
+    "tag": "clef博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "神秘且专业。油滑聪明的骗子。前\n全球超自然联盟（GOC）干员，精通现实扭曲者。也是前档案管理员。曾受异常改造而能够抵抗现实改动并令其面部无法被摄像记录。有一段漫长而波折的过去，天生善于制造戏剧性事件，心底里有种自我厌恶感。改过自新的厌女者。有关他的传闻大多夸张且失实。\n\n他们对我什么说法都有。\n\n但都不是真相。\n\n叛逃前在GOC的代号为特工尤克里里。可能本身就是现实改动者。不确定是否曾在青年时期与一位\"自然女神\"育有一女；\"女神\"被GOC杀死，而女儿则编为（当前的）SCP项目 — 前提是确有此事。与大量CK级现实重构事件有关（而且他可能记得）。不大可能是公众所熟知的所谓恶魔的化身，尽管其声称如此。\n根据极大数量的不一致报告所述，Alto Clef可能早就已经身亡。其他报告则坚称他仍在世，与他的前秘书，Andrea Adams共事。\"Alto Clef\"大致可以确定为一假名，可能曾被名为Francis Wojciechoski或James Halforth的人使用过，也可能曾被多人使用过。\n\n\n",
+    "description_link": [
+      "goc-hub-page",
+      "termination-order",
+      "clef101",
+      "scp-978-extended-test-logs",
+      "clef-excerpts",
+      "clef-and-dimitri-hit-the-road",
+      "incident-239-b-clef-kondraki",
+      "all-they-want-is-the-blood",
+      "chowderclef",
+      "agent-ukelele",
+      "able-baker-charlie",
+      "icky-ichabod",
+      "scp-4231",
+      "originofclef",
+      "scp-166",
+      "yesterday",
+      "scp-2000",
+      "supplemental-report-239-b-192",
+      "the-decoy",
+      "intermission2",
+      "unfinished-business",
+      "rounderhouse-proposal",
+      "a-suicide-note",
+      "the-tombstone-of-alto-clef",
+      "a-fitting-end",
+      "the-death-of-alto-clef-etc",
+      "resurrection",
+      "gamedaypart1index",
+      "contingency",
+      "classicalrevivalindex",
+      "the-great-site-87-bakesale",
+      "intermission2",
+      "father-of-lies"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Dr. Kain \"Pathos\" Crow博士",
+    "tag": "kain-pathos-crow",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "年少有为的跨学科研究员，精通生物化学与机器人学。极少，甚至从未公开现身。其身体可能因为某件的异常事件被变形成了类似狗的形态。\n\n我最近好累。\n\n我都不想在蛋行者上干活了…\n\n进行过多个高度机密的交互实验，意图用异常手段创造出能利用的项目，最著名的是奥林匹亚项目。多次险些身亡。犬类身体的限制及无法估计的寿命导致其产出率大幅下降。他的许多次要项目都已被搁置。\n\n\n",
+    "description_link": [
+      "dr-cog-and-the-plastic-fantastic",
+      "new-tricks",
+      "upswing-of-disorder",
+      "classicalrevivalindex",
+      "scp-4444",
+      "olympia-project",
+      "rounderhouse-proposal"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Dan",
+    "tag": "dan博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "恼人而情绪化的天才，有一套以大局为重的原则。前海军。曾领导研究一个太危险而无法收容的SCP，但没法让O5议会同意废除。擅自采取行动导致十几人死亡，废除请求通过，他自己则被判了死刑（按顺序）。\n\n你犯一个小错…\n\n…他们就给你一整个部门。\n\n十年之后还活着，花了整个刑期起草多份废除提案，而一次大规模收容突破令他的非常规思考方式得以再次派上用场。现在担任潜在威胁战术响应局（ETTRA）主管，策划基金会对异常灾害的响应，就如同他曾设计的著名策略一样，永远铭记着如此天才为保护整个世界牺牲的生命。\n\n\n",
+    "description_link": [
+      "incident-096-1-a",
+      "resurrection-old-foes-hub",
+      "the-bowe-decommission-part-one"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Michael Edison博士",
+    "tag": "edison博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "3级研究员，基金会站点间测试计划（ISTI）现任领导人。因反复出现未经批准与考虑不周的行为而受到纪律处分。上述行为导致其曾被暂时分配至Site-██南极基地。他当前能留在Site-19任职取决于他个人心理医生的同意。\n\n我的传奇要从12世纪讲起…\n\n骗你的！\n\n尽管他在大部分时间里都安静矜持，Edison博士私底下梦想成为像Clef博士（至少是大多数员工想象中的Clef博士）一样的狠人。虽然在研究上的成就令他受人尊敬，但他做出的荒唐行径往往让人嗤之以鼻。轻微但长久地怨恨运输特工Roadrunner。有时候会写很烂的同人小说。\n\n\n",
+    "description_link": [
+      "game-day-1-die-hardest",
+      "bargain-bin-of-direct-to-forum-sequels",
+      "dr-ikari-i-presume",
+      "scp-foundation-the-movie-2"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Chelsea \"光合作用\" Elliott博士",
+    "tag": "elliott博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 异常与非异常植物专家。敬业，友善，容易看不清大局。时常担任外勤工作；在实验室和外勤研究中过分\"积极\"，弄的一身是伤。手和胳膊被疤痕覆盖着。\n\n我们在风口浪尖上。\n\n…\n\n因暴露于\"来源不明的阳光\"而获得了异常能力。目前有待调查。她对于提高自己领域内的世界科技水平有强烈个人意愿，可能造成安保风险；或许对她研究过的奇迹有些太激动了，对于自己在基金会里的职务感到纠结。\n\n\n",
+    "description_link": [
+      "scp-5954",
+      "scp-978-extended-test-logs",
+      "scp-2108",
+      "light-dependent-reactions",
+      "rounderhouse-proposal"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Justine \"Jay\" Everwood博士",
+    "tag": "everwood博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "相关组织专家，对与基金会接触到许多组织知识渊博。尤其关注Wondertainment博士与威尔逊野生动物应对组。大体上平易近人，但总是神游太虚，脑海里既有琐事也有幻想。\n\n祝你有愉快的一天！\n\n…\n\n更喜欢被叫做Jay而非Justine，自我表现为非二元性别但也接受女性代词。在一场无法解释的面条意外中失去了其右臂。Rex Alces是其最信任的助理，两人常驻Site-55。\n\n\n",
+    "description_link": [
+      "wilson-s-wildlife-solutions-hub",
+      "robin"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Joseph \"Joe\" Fynegan博士",
+    "tag": "fynegan博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-409高级研究员，领导收容/记录多个SCP。曾被怀疑杀害了一名基金会同事，但后来被免去了一切罪名。专精ARBH级情景，又称\"昆虫末日\"灭绝级事件。有点社交恐惧症，算是大号书呆子，性格很随和，对于这种职业的人来说大概有点过于天真了。\n\n我这个人很无聊，懂吧…\n\n我打包票。\n\n可能与前GOC干员，疑似混分间谍的基金会特工Amelia Kabasic有（恋爱）关系。她也被分配到Site-409以便监视。\n\n\n",
+    "description_link": [
+      "scp-4917",
+      "kaleidoscope-of-guilt",
+      "arbh-class-debrief-file",
+      "arbh-class-hub",
+      "zero-hour"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Charles Gears博士",
+    "tag": "gears博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "情绪波动少得出奇（连惊吓反应都没有），逻辑与智商远超常人。前Euclid级项目收容专家，后来研究领域大幅扩张。深入参与了大大小小数量惊人的SCP项目研究。是基金会近期内影响巨大的人物。\n\n对此有怀疑是不可接受的。\n\n我只做必要之事。\n\n报告称他在基金会成立不久后便被招募…然而他的年龄和个人简历并不符合这种说法。有个很少人知道的事实：他能感受到情绪，尤其是其显著时。他只是不做反应或者表现出来。因为他做不到。为什么？要是真的有答案，那也没几个人知道。\n可能是Alison Chao，自称\"黑皇后\"的女人之父。可能是某位O5议会成员之子。\n\n\n",
+    "description_link": [
+      "epitaph",
+      "lullaby",
+      "rounderhouse-proposal",
+      "in-his-own-image",
+      "pawn-to-e4",
+      "black-queen-hub",
+      "loosen-up-a-bit",
+      "annon"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Simon Glass博士",
+    "tag": "glass博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "心理学部领导人。受委托对基金会高层进行心理评估。富有同情心。有时被认为\"软弱\" — 对于基金会研究员来说确实如此，但他依然很受信赖。经历过他的访谈后了解到了一个比一个可怕的秘密，但他的理智与感性仍旧不变。\n\n我跟所有人都讲过话，我跟所有人都认识…\n\n…我当然很忠诚。\n\n其亲友大多联系到各个相关组织，包括混沌分裂者（其亲属）与蛇之手。自己也明白上级就此事怎么看他。\n\n\n",
+    "description_link": [
+      "oneirocritic",
+      "chaos-insurgency-hub",
+      "serpent-s-hand-hub"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Frederick Heiden博士",
+    "tag": "heiden博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "神经学专家。焦虑，犹豫，共情力强，逻辑严密。虽然一开始只允许参与Safe级项目研究，但后来参与到大量高度机密的计划中。\n\n嘘——\n\n…\n\n可能秘密加入了Bright博士一派。关于怎么处置Heiden有一些…\"计划\"。或者…以前有。不无可能。Heiden说不定曾被杀害又被复活；尽管他在基金会里被列为在职人员而且似乎还担任某种要职，无法确认他是否已故。1\n1他只是在躲着（heiden'）\n\n\n",
+    "description_link": [],
+    "type": "博士"
+  },
+  {
+    "name": "Hoygull博士",
+    "tag": "hoygull博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "有智能的海鸥。基金会鸟类部门领导者，指挥MTF-Eta-4，\"透特滚蛋\"。",
+    "description_link": [
+      "bird",
+      "a-given-purpose",
+      "avian-anthology-i"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Everett King博士",
+    "tag": "king博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会最有经验的数学家之一，但却因他的测试结果总是不同寻常而声名显赫。除此之外，他还定期给基金会内部的科学期刊投稿。\n\n我一颗苹果籽都受不了了 。\n\n但我还是没法…\n\nKing博士参与的测试必须被严格监督，以防苹果籽的出现频率呈指数增长。长期观察表明King博士会被其固有属性所激怒。\n\n\n",
+    "description_link": [
+      "game-day-1-die-hardest",
+      "long-live-the-king"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Mark Kiryu博士",
+    "tag": "mark-kiryu",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "高级研究员及异常物品处理实验室主管。被招募时已是成功的咨询师（持证心理学家）。在基金会工作的早年内广泛研究SCP-1457却对此闭口不谈，领导了多个有关智能SCP实体的计划。态度乐观而善于倾听；有时像老母鸡照顾鸡崽一样关照他的同事与实习生。桌上摆了个陶瓷海马和一盆竹子。",
+    "description_link": [
+      "scp-1457"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Zyn Kiryu博士",
+    "tag": "zyn-kiryu",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "效率极高的研究员。参与了大量机密的基金会计划。执着而上进，时常为完成任务而废寝忘食。加入基金会之后又上速成班完成了学业。起初孤僻内向，但后来野心被激发而变得外向。她经常主动帮助基金会新员工，希望能给新员工对这个有时显得很恐怖的组织留下一个积极的第一印象。私底下有点作诗的天分。在Kondraki博士失踪后意外地继承了Kondraki与异常蝴蝶，包括SCP-408的关联。\n\n我可不是自愿的。\n\n你在游戏里也听过这句话，对吧？\n\n其兄Mark Kiryu为高阶研究员。O5议会因不明原因紧盯着Zyn Kiryu，却对她的兄长不屑一顾。红右手目前持续监视与调查她 — 不清楚是好心还是恶意。\n\n\n",
+    "description_link": [
+      "snakes-and-ladders",
+      "scp-2332",
+      "scp-408"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Adam Leeward博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "情绪混乱且道德矛盾的Site-11人形收容专家，现居Site-81。不确定是否犯下过错误，不确定是否补救过错误。其性格除了毫无特点地冷漠，也有几个（可怜的）痛点。\n\n你有点不对劲，Lee。\n\n- 当然，一直都有。\n\n因行为反常被监控。初心善良，但也并非毫无缺陷。当然，在这里，这样的缺陷能让你陷得比你预料的更深。\n\n\n",
+    "description_link": [
+      "too-old-to-lie-too-cold-to-love",
+      "secure-facility-dossier-site-81",
+      "scp-2708"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Sophia Light博士",
+    "tag": "light博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "生物学家，外科医生，站点主管，有着太多太多的秘密。可爱却又令人害怕的人。耿直，坚定，精于算计；压力下仍表现良好。尽力保持友善外向（以及情绪稳定）。脸部有些许伤疤，左手有旧伤令其活动不便。有某种童年阴影；抚养者为了培养她的户外生存能力把她丢到非洲的荒野待了好几天。在一场杀死了十一个人，包括她未婚夫的机密异常事故后加入基金会。与Troy Lament正处于或曾有过恋爱关系。\n\n他们喜欢开会也不能怪我。\n\n…\n\n传闻称Light博士与O5议会（尤其是O5-2）的联系紧密的出奇，事实也确实如此，然而这并没有让她好过多少 - 她当前领导（可能已经毁灭的）异常特遣队Alpha-9。疑似参与过大量高度机密的现实转换 — 包括基金会本身发起的。因为种种极度秘密的原因对基金会举足轻重，有些原因可能连她自己都不知道（或者不记得）。\n\n\n",
+    "description_link": [
+      "deals-with-the-devil",
+      "resurrection",
+      "annon",
+      "recovered-data-file",
+      "yesterday"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Lillian S. Lillihammer博士",
+    "tag": "lillihammer博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "智商远超常人。Site-43的模因专家：发现者，转述者，销毁者，及创造者。总是比别人多想几步。领导研究维坎德-尼德技术传媒。反社会且自大，但是其能力超群以至于没人眼红她。\n\n就算我想也没法跟你说明白。\n\n不是说我想。\n\nLillihammer博士已经保护世界免于全面毁灭十八年之久，而依旧毫发无伤。不是基金会找到她，而是她找到了基金会，他们对此也从不后悔。她与Site-43老将Blank博士是一生的挚友，同超形上学天才Placeholder McDoctorate博士处于恋爱关系。她总是有理由让他们后悔跟她扯上关系。\n\n\n",
+    "description_link": [
+      "scp-5524",
+      "scp-5956",
+      "meanwhile-in-australia",
+      "vikander-kneed-technical-media-hub",
+      "scp-5243",
+      "dissertation",
+      "scp-6056"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Judith Low博士",
+    "tag": "judith-low",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "历史部高级顾问。精通宗教团体欲肉教，参与收容SCP-2133，SCP-2191，与SCP-2480。",
+    "description_link": [
+      "sarkic-case-study-01-the-vas-n-a-of-sarvi",
+      "killing-in-the-name-of",
+      "sarkicism-hub",
+      "scp-2133",
+      "scp-2191",
+      "scp-2480"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Connor MacWarren博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "在职研究员，专注于研发异常科技，同时在费城Site-98主管董事会任职。当前仅监督自己的部门，专精于超维度异常。谦虚，善讽刺，暴脾气，非常讨厌跟听错的人重复自己的尴尬笑话。前海军陆战队成员，其父为高阶GOC特工，两人关系疏远。\n\n听好了：我们造了这把大剑…\n\n对，仅供研究所需。\n\n曾经利用基金会资源推进自己的私人计划。MacWarren博士声称这些是\"非常重要的实验\"，实际上，不过是找借口研发冗余的武器。尽管他的职业道德有待改进，他为基金会超自然科技研发做出的杰出贡献帮他保住了职位。\n\n\n",
+    "description_link": [
+      "scp-4366",
+      "scp-5800"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Everett Mann博士",
+    "tag": "mann博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "少有良心顾虑的非常规医学研究员。常被开玩笑称作\"疯狂科学家\"。（他反对\"疯狂科学家\"这个称号，声称\"疯狂医学家\"更准确，还说只要念过书都分得明白。）愿意以科研之名做出各种禽兽之行。留着夸张的八字胡。因家教原因，他对于当下的流行文化一窍不通，令他常处于时代错乱的可笑窘境。\n\n对了，我想给你看看我最近的工作成果。\n\n真是迷死人了。\n\n因抚养其长大的叔叔，一名从事异常研究的相关人士而受到基金会注意。与基金会里某些资历最深的人往来密切。被认为在某种可预见的未来情景对基金会有潜在威胁。\n\n\n",
+    "description_link": [
+      "the-gate-opens",
+      "scp-6999",
+      "be-a-dali-and-help-a-mann-out-or-the-lamentable-state-of-mod",
+      "conviction",
+      "scp-001-o5",
+      "rounderhouse-proposal",
+      "ecceperago",
+      "scp-5555"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Jaime Marlowe博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "普通研究员，精通时空，超维度，视觉，空间，及认知危害异常。曾被称作\"可怜，可怜，可怜地平平无奇\"，需注意的只有压力过大时会造成人际矛盾与不当暴怒。介于Marlowe与愈发频繁的无关异常事件有着未解明的关联，他的人事档案内容略有增加。",
+    "description_link": [
+      "scp-2093",
+      "scp-922",
+      "scp-2981",
+      "scp-1934",
+      "scp-2084-email-correspondence"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Placeholder McDoctorate博士",
+    "tag": "mcdoctorate博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "'超形上学部领导人。最初被信息技术部聘用，于1996年因收容SCP-5241表现优秀晋升为部门主任。在晋升为站点主管后，应个人要求重新分配至'超形上学部。又因'超形上学理论研究出色晋升为部门主任，继而 成立原型部。其姓名曾被SCP-整数追溯性抽象化。",
+    "description_link": [
+      "scp-5241",
+      "placeholder",
+      "whack-a-mole",
+      "scp-5242"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Riven Mercer博士",
+    "tag": "riven-mercer",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "兽医专业研究员，Kiryu实验室的二把手。处理新分配到异常物品库存的人员，时常进行外勤工作。擅长与动物相处，在实验室里养了一只暴脾气的龙蜥。",
+    "description_link": [
+      "reality-check",
+      "remember-you"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Ilse Reynders博士",
+    "tag": "reynders博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "一场灾难的幸存者，本来应该被困在停滞状态中，但却把这段时间变成了一节八十年的自我改进课。拥有十六个博士学位，Site-43最聪慧的头脑，还有不会老化的大脑与身体。奥秘消解早期与现代的研发者，时间异常部可能的未来主管，她也协助团队参与设计了基金会门面以掩盖多个前台公司。\n\n现在什么时候了？\n\n我还是忘不了外头这变得多快。\n\nIlse Reynders本来应该担任Site-43的主管。她自从站点设计时就在那工作，但是异常档案处理室的一场意外夺走了她光明的未来。因为超凡的毅力和坚韧的性格，她多年里在玻璃窗后一心一意成为基金会各个领域内最前沿的专家，终于顺利逃脱。她比所爱的每个人活的都要长，虽然身体被困在焚化炉里，但思维却毫不死板 — 而且对于Ilse这么聪明的人，时间不过是又一个牢笼。\n\n\n",
+    "description_link": [
+      "secure-facility-dossier-site-43",
+      "acroamatic-abatement",
+      "scp-6327",
+      "scp-5956",
+      "pickman-blank-proposal",
+      "scp-6984",
+      "scp-6500",
+      "cast"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Jessie Rivera博士",
+    "tag": "rivera博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-120主管议会成员。心理学博士，亲子照看她设施中收容的人形异常。Daniel Asheworth的挚友，与他一并调查Damien Nowak案，提出更加现实的看法。是Hannah Rivera，Site-120建立者的孙女。配偶为Magdaleine Cornwell，该站点主管议会的另一位成员，两人现在平静的生活在埃斯特堡的自由港。\n\n魔法？\n\n魔法？！\n\n四级现实扭曲者。虽然合作且友好，但并不害怕用自己的能力保护所爱之人。她的忠诚和能力通过她和Cornwell于埃斯特堡自由港的任职得以体现，期间协助阻止PoI-001-C（\"麦布女王\"）在基准现实中显现。\n\n\n",
+    "description_link": [
+      "scp-6483",
+      "and-every-time-we-meet-again-hub",
+      "scp-5292",
+      "human",
+      "scp-6172",
+      "people-without-meaning",
+      "gaslight-gatekeep-girlboss-hub",
+      "ralliston-s-proposal"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Katherine Sinclair博士",
+    "tag": "sinclair博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "威斯康星斯洛斯皮特Site-87超自然研究与奇术部门的代理主任 - 也是该部门唯二成员之一。与多次事故有关，包括已解散相关组织萨提尔之治对斯洛斯皮特的袭击，以及2014年圣诞节事故。前臂有拙劣火焰仪式留下的灼烧伤疤。\n\n这不是奇术，这叫魔法！\n\n…\n\nSinclair在17岁时第一次施法，在画出密闭法环后使用了自己隐藏的魔法天赋，不小心点着了她的笔记本。上大学后，她加入了蛇之手的一个激进分支，但一见他们愿意实施人祭 — 可以导致非常猛烈的奇术效果 — 她就跑到了基金会。任何有关她爱好和私生活的传闻都是恶意诽谤。\n\n\n",
+    "description_link": [
+      "satyr-s-reign",
+      "holy-crap-this-is-a-long-christmas-tale",
+      "playing-with-flames",
+      "serpent-s-hand-hub"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Daniil Sokolsky博士",
+    "tag": "sokolsky",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " Site-43潜在威胁战术响应局分部部长。他自大，狡诈，偏好过分复杂的计划。能保住职位是因为总体上还是为基金会服务的，尽管Sokolsky似乎本来想的是跟朋友炫耀或者让敌人难堪。",
+    "description_link": [
+      "the-b-b-decommission",
+      "scp-5109",
+      "the-time-after-time-password-hub",
+      "the-holiday-special"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Johannes Sorts博士",
+    "tag": "sorts博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "模因专家，外勤研究员，艺术史博士。白人，年近五旬，胡子拉碴，棕发花白。略有超重，时常戴一顶灰色鸭舌帽。平日里偏执，胆小，多疑，却在面对模因或信息危害时镇静专注。报告称多次迫于压力做出错误决断而遭处罚，包括受到我影响枪击了一名看守。目前正在接受精神评估，仅限研究更安全的项目。\n\n去你妈的基金会，去你妈的烤面包机。\n\n…\n\n影响远比基金会普通研究员重大得多，然而没人愿意承认。因多次试图闯入他管理范围外项目的安保设施而受监督。\n\n\n",
+    "description_link": [
+      "scp-426",
+      "hello-i-am-an-eldritch-horror"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Cole Thereven博士",
+    "tag": "thereven博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "异常通讯与关联部主管，Site-63研究员。参与过数个道德模糊的项目中。对于基金会远比他看起来重要。",
+    "description_link": [
+      "scp-6015",
+      "scp-5671",
+      "scp-6170",
+      "man-on-a-mission"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "William W. Wettle博士",
+    "tag": "wettle博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-43重复研究部领导人。没人喜欢他。没有天分，没有智商，没有动力，没有礼貌，没有运气。极度抗拒改善性格，升职加薪，还有广交朋友。然而对于初试时间线的存亡却至关重要。频繁与维坎德-尼德技术传媒异常交涉，但几乎每次都并非是他自愿。可能是大智若愚。\n\n我要在这写啥\n\n不是到底写啥\n\nWillie Wettle表里如一。根据推测，他的运气差过头是由于他个人受到概率异常影响。 更合理地推断，这可能是所谓天道酬勤的证明。从超形上学方面说，此人没有任何超形上学能量；虽然他自己不知道，但这种独一无二的特质早晚会送他上太空。\n\n\n",
+    "description_link": [
+      "scp-5056-tests",
+      "the-huron-carol",
+      "scp-6263",
+      "scp-6306",
+      "not-my-sloths-not-my-pit",
+      "scp-6056",
+      "if-you-don-t-know-the-words",
+      "the-martinet-effect",
+      "scp-5243",
+      "vikander-kneed-technical-media-hub",
+      "scp-5698",
+      "scp-5904",
+      "scp-6123",
+      "scp-6677",
+      "scp-6500",
+      "scp-7000",
+      "the-lamest-story-never-told",
+      "cast"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Thaddeus Xyank博士",
+    "tag": "thad-xyank",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "当前为低阶研究员，但却对基金会举足轻重。专精时间异常。有点自大且唠叨，但还是被看作一个有前途的天才。\n\n他在哪？他不在哪？\n\n…\n\n参与了多个重要的Thaumiel级计划，包括SCP-2000。时间旅行者，（尚未建立的）基金会时间异常部的领导人。\n\n\n",
+    "description_link": [
+      "iteration-0",
+      "scp-2000",
+      "rounderhouse-proposal",
+      "welcome-to-delta-t",
+      "scp-1780"
+    ],
+    "type": "博士"
+  },
+  {
+    "name": "Anders Bjornsen教授",
+    "tag": "bjornsen教授",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "外勤研究员，专精异常心理学与社会学异常，担任心理学部SCP分析师。此前曾任职模因部，神学与应用神学部，认知危害研究部。因在多次收容失效中保持冷静而倍受尊敬。",
+    "description_link": [
+      "can-haz-memes",
+      "gdp2-basking-in-the-light",
+      "gamedaypart1index"
+    ],
+    "type": "研究员"
+  },
+  {
+    "name": "研究员Jacob Conwell",
+    "tag": "研究员conwell",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "异常材料分析师。分析化学硕士。Site-64异材实验室现任主任。因工作认真而在基金会内小有名气，且时常被造访。\n\n我这几天干了好多事。\n\n…\n\n起初过分讨好基金会上级，晋升为高级调查员后出现了抑郁症与失眠的情况，但在Conwell调至Site-64并结婚后有所好转。正在接受常规心理评估。\n\n\n",
+    "description_link": [
+      "all-hallows",
+      "peregrine"
+    ],
+    "type": "研究员"
+  },
+  {
+    "name": "研究员Rose Labelle",
+    "tag": "研究员labelle",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会信息技术部异常程序与电脑软件研究员。参与了SCP-3860的收容（见相关组织安德森机器人档案）。其他方面平平无奇，有关异常知识与超常举措的传闻纯属杜撰。\n会在结束之际出场。",
+    "description_link": [
+      "scp-3860",
+      "anderson-robotics-hub",
+      "all-of-me-wants-all-of-you",
+      "this-is-the-real-life",
+      "so-it-was"
+    ],
+    "type": "研究员"
+  },
+  {
+    "name": "研究员Samuel M. Lloyd",
+    "tag": "研究员lloyd",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "神出鬼没的英籍模因学家兼有害材料收容联络处（HMCL）代理主任。爱关注时事，将与异常的互动置于个人利益之上。疾世愤俗，自我中心，而且常常自找麻烦，不过总体上是出于好心。比你想得要更年轻。\n\n记住…\n\n我可不是自愿的。\n\n受异常影响而最后一个身亡。传闻有什么东西能在保他不死。\n\n\n",
+    "description_link": [
+      "the-world-forgetting-by-the-world-forgot",
+      "error-field-cannot-be-lloyd",
+      "scp-3856"
+    ],
+    "type": "研究员"
+  },
+  {
+    "name": "技术研究员David Rosen",
+    "tag": "研究员rosen",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "技术顾问及研究员。负责保障Site-19的技术基建安全运作。为人尖酸刻薄，有点爱惹事，但能够把各个设施的技术部门管理得很不错，被众人看作一个节俭的领导。\n\n你要我干啥？\n\n嗯…\n\nRosen其实对他维护的先进系统知之甚少，但还是能委派比他更有资质的人去处理而蒙混过关。\n\n\n",
+    "description_link": [
+      "technical-orientation",
+      "rounderhouse-proposal",
+      "the-swift-rise-and-fall-of-technical-researcher-david-rosen"
+    ],
+    "type": "研究员"
+  },
+  {
+    "name": "特工Andrea S. Adams",
+    "tag": "特工adams",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Alto Clef博士的前秘书，熟练且专业，不喜欢过度复杂的计划，对付异常有一种简单且高效的方法。被其上级胁迫参加重生计划，加入机动特遣队Lambda-2（\"名称未输入\"）。分配至机动特遣队Alpha-Nine负责SCP-105的安保工作，分配了一套先进护甲提供外勤任务使用。",
+    "description_link": [
+      "the-happiest-days-of-our-lives",
+      "termination-order",
+      "contingency",
+      "resurrection",
+      "what-s-in-a-name",
+      "scp-105",
+      "dressing-up",
+      "number-one-with-a-bullet",
+      "hellomuddah"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Green",
+    "tag": "特工green",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "真名保密。原GOC干员，专门刺杀现实扭曲者。与特工Navarro共事时与一名创造异常艺术的现实扭曲者有过联系。此后专精异常艺术，领导多项调查并对其他小组起到顾问作用。擅长审讯，能把控局面。烟不离手。",
+    "description_link": [
+      "scp-2162",
+      "it-just-shattered",
+      "permanent-waves",
+      "detained"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Travis Kazmarek",
+    "tag": "特工kazmarek",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "隶属机动特遣队Gamma-1（\"见敌必杀\"）。在一次混沌分裂者针对Madison Craggs博士发起的入侵中保卫了基金会。",
+    "description_link": [
+      "chaos-insurgency-hub",
+      "scp-3033",
+      "if-i-tried-to-run-would-you-give-me-a-shot"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工V. A. LaFerrier",
+    "tag": "特工laferrier",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "系统里的故障。其名不详，仅知道开头是V。其中间名不详，仅知道开头是A。其来源不详。其雇主不详。可恶，性别也不详 — 生理性别和其他均不详。只知道不管执行什么任务，都表现出极度忠诚与高度熟练。完成了相当多的小型与次要任务，但也在与机动特遣队Pi-1，\"城市滑头\"，机动特遣队Sigma-██，\"工人\"，以及其他的机动特遣队共事时表现优异。特工LaFerrier能同时在数个机动特遣队中执行任务的原因不明。\n\n咱们得给这家伙守个秘密…\n\n…别让人家自己发现了。\n\n连特工LaFerrier自己都不知道自己是什么。多数人只是将其看作一个普通人，但特工LaFerrier 唯独不能知道这一点。至少也得等资历更高的人先知道。\n\n\n",
+    "description_link": [
+      "scp-2728",
+      "scp-2729",
+      "ura-1902"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Troy Lament",
+    "tag": "特工lament",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "收容与回收专家。在Iceberg自杀后成为了Gear博士的学徒。在基金会的经历让他满身伤痕。与Sophia Light正处于或者以前有恋爱关系。\n\n啊，咋啦？\n\n…\n\n基金会藏的最深的一个秘密就是Lament其实在组织里身居高位。因其经验所困，顾虑之难，加上对权利没什么欲望，Lament很乐意保守这个秘密。他只能很不情愿地被迫表演着他的角色。他的职位有时候也能帮他接近那些只知道他是Gears前助理的目标。\n\n\n",
+    "description_link": [
+      "rounderhouse-proposal",
+      "the-high-court-with-the-magic-army"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Dietrich Munroe Lurk",
+    "tag": "特工lurk",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "内部咨询师，系统管理员，以及高级外勤调查员/分析师。因其对人工智能的了解而时常参与人工智能相关任务。\n可能曾被暴露于SCP-1471，他将其称作\"Merle\"。当前正在调查中。",
+    "description_link": [
+      "tasers-thermite",
+      "scp-2193",
+      "scp-2987",
+      "alert-lockdown-initiated",
+      "aiad-homescreen",
+      "too-drunk-to-be-merry",
+      "scp-1471",
+      "are-we-there-yet",
+      "ball-gags-and-scrambled-eggs",
+      "resurrection"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Sasha Merlo",
+    "tag": "特工merlo",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 网络行动专家。机动特遣队Gamma-13（阿西莫夫执法队）现任指挥官。枯燥刻薄但还勉强算讨喜。报告称多次因外勤任务行动鲁莽遭处罚。受Site-64主管Holman支持，可能在将来会晋升管理层。",
+    "description_link": [
+      "austringers",
+      "secure-facility-dossier-site-64",
+      "decisions-we-make"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Navarro",
+    "tag": "特工navarro",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "于2004年中作为相关人士在俄勒冈波特兰被捕，在2005年末被基金会雇佣为双面间谍。身为异常艺术专家也充当基金会与多个异常艺术家的联络人。友好随和得有点过头。一眼就能通过他的胡茬认出来。\n\n我说真的各位。\n\n我一条疤都没有。\n\n自称\"法师\"，可以利用异常现象（\"魔法\"），然而本身并无异常属性。因未经许可擅自挪用异常物件而多次受到处分。\n\n\n",
+    "description_link": [
+      "another-goddamn-magic-system"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Lucretia Popescu",
+    "tag": "特工popescu",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前\"POI-2408-351\"。罗马尼亚籍，曾遭猎手黑屋，一新欲肉教教会/犯罪团伙人口贩卖。她在格斗场中15年有余，学会了利用血肉变形来增强力量与改造身体。在基金会突袭后被收容，随后被招募为机动特遣队Alpha-9的新成员。曾执行多项任务。与特工Deneb，作为收容专家被分配到Alpha-9的前UIU特工处于恋爱关系。",
+    "description_link": [
+      "sarkicism-hub",
+      "recruitment-drive",
+      "resurrection-new-faces-hub",
+      "resurrection-his-will-be-done-hub",
+      "unusual-incidents-unit-hub",
+      "old-faces-new-foes"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Dmitri Arkadeyevich \"Waxx\" Strelnikov",
+    "tag": "特工strelnikov",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前站点安保主管，著名的前Site-19代理主管。现已解散的机动特遣队红色黎明队长。出身俄罗斯，主要在东欧行动。笑点异于常人；搞过很多臭名昭著的恶作剧。拿着一大笔退休金快活地过着退休生活。。\n\n比杀死一名无辜女孩更可恶的\n\n就是为此功名显赫。\n\n\n",
+    "description_link": [
+      "reddawn",
+      "memories-from-a-past-life",
+      "clef-and-dimitri-hit-the-road",
+      "elder-baconator",
+      "like-a-russian-racehorse",
+      "oldmenyoungmen"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "特工Cyrus Trauss",
+    "tag": "特工trauss",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Trauss在秘密曝光的几个月前才入伍，工作经验只有在Site-42的周遭进行监察任务。直言不讳，风度翩翩的年轻人，是基金会最新的公众友好模范。因为组织的政策有待改进，他这样的忠诚能够起到直接作用。\n\n这可不是我知道的基金会。\n\n我担心这样的基金会更喜欢我。\n\n2040年代充满了动荡不安，Cyrus Trauss也回到基金会工作。在基金会超越了人类生理的限制，忘却地球向浩瀚苍穹进发时，逐渐薄弱的现实抓住了那些迷失在记忆中的人。\n\n\n",
+    "description_link": [
+      "sex-drugs-money",
+      "paperpushing",
+      "autonomy-part-i",
+      "directive-a-42",
+      "scp-3848",
+      "scp-4069"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "专员Rhianne Watson",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "奇术专家，在初次遭遇相关组织安布罗斯餐厅后加入Lambda-14。脾气暴躁，但她也会时不时地放松一下。",
+    "description_link": [
+      "ambrose-fair",
+      "canine-communication"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "机动特遣队Tau-5\"轮回\"",
+    "tag": null,
+    "alias": [],
+    "name_extra": [
+      "机动特遣队Tau-5\"轮回\""
+    ],
+    "address_extra": [
+      "task-forces.html#"
+    ],
+    "description": "普罗米修斯实验室利用死去神明的血肉创造出来的不死半机械克隆人，Irantu，Munru，Onru，和Nanku，配备实验性武器派遣至高度危险的情景。这些幼稚得出奇的特遣队队员觉得致命的危险比正常的社交更舒服。",
+    "description_link": [
+      "the-lord-of-endowments",
+      "grant-request-for-investigating-the-potential-application-of",
+      "avatara",
+      "scp-4755",
+      "scp-1730",
+      "the-powers-that-bark",
+      "death-perception"
+    ],
+    "type": "特工"
+  },
+  {
+    "name": "8-Ball",
+    "tag": "8-ball",
+    "alias": [
+      "8B-A1.aic"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "信息技术部研发的第一个AI单元。8-Ball起初仅负责加密与解密工作，后来参与了多个外勤任务，包括SCP-5241的收容工作及受特别委派调查数字城市密码城。",
+    "description_link": [
+      "hello-world",
+      "basic-observations"
+    ],
+    "type": "人工智能工作员"
+  },
+  {
+    "name": "Alexandra.aic",
+    "tag": "alexandra",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "第四代人工智能，负责维护Site-19的计算机系统。也被用于人员管理，协调其他AIC的部署，以及针对数字异常的测试与交流。\n\n▷ 显示完整任务列表\n\n错误：检测到系统故障\n\n你们都搞错了\n收容的时代终将落幕\n\n\n",
+    "description_link": [
+      "additional-resources",
+      "hello-world",
+      "scp-2519",
+      "scp-3355",
+      "scp-6065",
+      "welcome-to-history"
+    ],
+    "type": "人工智能工作员"
+  },
+  {
+    "name": "Glacon.aic",
+    "tag": "glacon",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "继8-Ball后研发的第二个AIC，因先进逻辑处理与风险决策著名。本来有人性化程序，但在一次麦克斯韦宗针对Site-15的大规模袭击前不久偶然丢失。\nGlacon在2014年Site-17服务器车间的严重崩溃后丢失，该事故起因至今不明。",
+    "description_link": [
+      "alert-lockdown-initiated"
+    ],
+    "type": "人工智能工作员"
+  },
+  {
+    "name": "Jean Karlyle Aktus主管",
+    "tag": "aktus主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-81主管。老得不可思议，他对于收容的分析手段促成了大批彻底而高效的收容措施。Aktus现担任基金会分级委员会领导人，同时参与了数个独特的机动特遣队，包括Alpha-9和Kappa-10。\n\n能不能让我多留一年？\n\n…\n\n据说三十岁就已身亡。死于白血病的并发症，在发病不久后才发现。我听说一位监督者出手把他的灵魂从虚空里拉了回来，塞回了他的身体，令他起死回生。\"要干的活多的很，\"监督者如是说，\"你的命还不该绝。\"\n有时候会突然消失几个星期，回来后跟变了个人一样。很确定是医疗所需。他们在给他打什么东西来延长他的寿命，延长他的工时。但他一命呜呼也只是时间问题，对吧？凡人都难逃一死，对吧？\n说不定他就能。\n能不能让我多留一年？\n\n\n",
+    "description_link": [
+      "integrity-project",
+      "hello-world",
+      "rounderhouse-proposal"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Calvin Bold主管",
+    "tag": "bold主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "废除部主管与创建者，前研究员兼伦理委员会联络人。因其运作的部门而倍受争议。有点像外星人，在一次SCP-212事故后有了一只骷髅手臂和一对水晶眼珠。大体上和蔼可亲，但努力控制一切可能的变数，相信自己多过信任别人，有时候过分自信。\n\n我比任何人都了解自己。\n\n但如果被恐惧所阻挠，我也没法保证自己能做出正确的选择。\n\n少数几个同他亲近的人都苦不堪言，而他的过失导致了至少一人的惨死。他当前的目标是控制住唯一阻碍他的恐惧。具体计划不详，不过他似乎愿意推翻基金会来达成他的目的。\n\n\n",
+    "description_link": [
+      "mission-decommission",
+      "scp-212",
+      "scp-5281",
+      "responsible-promotion",
+      "scp-6900"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Julian Corwin",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "第七次超自然战争的老兵，担任基金会外勤特工四十余年，后来终于同意晋升管理层，任Site-246主管，负责监管机动特遣队Delta-3（\"所罗门之手\"）。他的外勤经验丰富，对政治管理不感兴趣，且领导队员时镇定自若，得以成为管理特别委派特遣队（SATF）试点项目的不二之选。1990年Delta-3解散后，他被调到Site-64担任主管，一直到1998年卸任。\n他在1998年后的记录是绝密。",
+    "description_link": [
+      "secure-facility-dossier-site-246",
+      "florence-thorne-hub",
+      "when-parallel-lines-diverge"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "鲁斯拉夫·迪亚吉列夫主管",
+    "tag": "diaghilev主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 迪亚吉列夫主管在基金会任职的时长不详，目前担任Site-127炼金学部主管。迪亚吉列夫主管是炼金现象的常驻专家，协助收容了对个炼金相关的SCP项目。此外，任何炼金学生物都在他的处理范畴内，不过有时候也需要点外部咨询。\n迪亚吉列夫主管是基金会炼金术士的主要联络人与指导者。若有咨询需要可直接联系其办公室。此外，迪亚吉列夫主管也有一支个人特遣队以回收重要的炼金学项目。\n\n炼金之道无处不在，暗流涌动，诉求着万事万物之制衡。\n\n...\n\n迪亚吉列夫对炼金学项目的分级与编写有特别豁免权。迪亚吉列夫主管个人档案的完整细节仅限A-6权限持有者访问。一切信息仅在需要时提供。任何称迪亚吉列夫主管与SCP-001有关的传闻严重夸大其词，散播这些谣言会受到处分。\n\n\n",
+    "description_link": [
+      "scp-3714",
+      "lepidoptraetheia",
+      "an-alchemist-goes-to-war",
+      "restoring-harmony",
+      "scp-001"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Shirley Gillespie主管",
+    "tag": "gillespie主管",
+    "alias": [],
+    "name_extra": [
+      "Ralph Roget博士"
+    ],
+    "address_extra": [
+      "system_page-tags/tag/roget博士"
+    ],
+    "description": "Shirley Gillespie主管是基金会最年迈的看护之一 — 管理Site-77，一个当前伪装成亚马逊运输中心的存储设施，五十余年。虽常有传闻称她准备退休，她的对组织影响力仍旧深远，有时候她的孙子，Ralph Roget博士也参与其中。\n\n别担心，你早晚会把这些全忘掉的。\n\n…\n\nRoget博士此前从事文书工作近十年，后来其祖母才认识到了他的能力 。在她的调动下 — 在他不知情时 — 他被分配到了一个专门研究大批量次要SCP项目的机密团队中，而他对这门工作尤其得心应手。因其工作与和Gillespie主管的关联，Roget博士在接下来的几年内的影响力逐渐提高，不过幼稚的名声不改，以至于差点意外地引发一些争议。\n\n\n",
+    "description_link": [
+      "secure-facility-dossier-site-77",
+      "i-was-not-magnificent"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Randall House主管",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "内华达拉斯维加斯Site-666主管，负责保障该城市不会堕回地狱第四环。尽管他的非常规管理方法因其鲁莽行事而倍受怀疑，House却总是能在下注之前小心地叠好自己的筹码。他与居住在这座城市里的恶魔保持着外交往来，虽然他们并非全部都喜欢他，他还是得以令他们勉强尊重他。",
+    "description_link": [
+      "the-signing-of-the-las-vegas-accords",
+      "scp-7666",
+      "scp-7773",
+      "scp-7593"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Maria Jones主管",
+    "tag": "maria-jones",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "记录及信息安全管理部门（RAISA）主管。Jones主管有权有势却不与人往来，控制的整个基金会站点内外的信息起伏。她的朋友不多，但都很忠诚。所有人都听过她的大名，但很少有人真正了解她。",
+    "description_link": [
+      "maria-jones-this-is-your-life",
+      "cursed",
+      "scp-031"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Paul Lague主管",
+    "tag": "lague主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-322主管，负责整合计划，一个致力于利用所收容异常的有用能力的项目。试图与有类似做法的其他站点 互相往来共同奋斗，但他有时候会因其他基金会人员意见不合而大受打击。",
+    "description_link": [
+      "scp-6984",
+      "the-signing-of-the-las-vegas-accords",
+      "scp-6597",
+      "scp-6121"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Allan James McInnis主管",
+    "tag": "mcinnis主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-43主管。生于英格兰，就读于伊顿公学，受训于Site-91，后来迁至加拿大。遇事镇定自若。曾获沟通学学位，能够在不采用严苛政策的情况下就让他的员工全力以赴。",
+    "description_link": [
+      "hecatoncheires-cycle-hub",
+      "on-guard-43-hub",
+      "ready-or-not",
+      "scp-5379"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Kate McTiriss主管",
+    "tag": "mctiriss主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会直属主管，管理区域 352，美利坚合众国海湾区域内的基金会行动。",
+    "description_link": [
+      "canola-oil-panic",
+      "the-gulf"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Tilda D. Moose主管",
+    "tag": "moose主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 目前担任Site-19站点主管及Site-17副主管，在前任的一系列主管后继任其职位。严格，焦躁，有点偏执。一旦干起活来就会认真过头。在相对短的基金会任期内（不到十年）获得了预料之外的影响力。一些Site-19内的官员将她视作一介傀儡，不知是否属实。\n\n你不用担心我。我保证不再狮子开大口。\n\n…\n\nK级情景研究专家。奇术异常研究顾问。为避免引发争议，其\"蓝型\"能力基本保密。因其曾经与蛇之手协作，损害过自身大脑（非删除记忆改动），担任的职务过重，被认为可能造成威胁。受O5密切监视，但被看作高价值资产。与特工Lament在多个机密项目中合作 — 令Lament懊悔不已。\n\n\n",
+    "description_link": [
+      "scp-6000",
+      "scp-1985",
+      "another-goddamn-magic-system",
+      "the-high-court-with-the-magic-army",
+      "serpent-s-hand-hub",
+      "rounderhouse-proposal"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Simon Pietrykau主管",
+    "tag": "simon-pietrykau",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前格鲁乌\"P\"部门研究员，代号\"冰人\"，在古巴导弹危机后叛逃至基金会。迅速升职，创建分析部，当前任主管。被认作\"本征武器\"专家。",
+    "description_link": [
+      "scp-2664",
+      "scp-3483",
+      "scp-2897",
+      "florence-thorne-hub",
+      "guns-pointed-hub",
+      "deus-vulture"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "Cody Westbrook主管",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "师从Julian Corwin，直接从基金会军校内招募，夏延角班上的第四名。曾服役于机动特遣队Omega-17（\"佛罗里达佬\"）和机动特遣队Sigma-23（\"威利郊狼\"），后被分配对接特殊人员特工纵火者并指挥机动特遣队Delta-3（\"所罗门之手\"），成为当时最年轻的机动特遣队指挥官。在Delta-3的服役记录堪称完美，直到特工纵火者身亡后解散。分析部主管Simon Pietrykau主持的调查会没有将其归咎于特工Westbrook，但此事还是损害了他的名声。\nDelta-3解散后，Westbrook升至Site-246主管，接替调往Site-64的Corwin主管。他此后便一直担任此职务。",
+    "description_link": [
+      "secure-facility-dossier-site-246"
+    ],
+    "type": "主管"
+  },
+  {
+    "name": "O5指挥部",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "掌控着整个基金会的13个人。权力高得不同寻常。不会也不能与任何异常实体互动。令大多数人心惊胆战。对基金会与其活动的一切无所不知。鲜少干预SCP的收容…但也有例外。有自己的机动特遣队Alpha-1，\"红右手\"。O5指挥部是基金会的主宰，并非所有人都知道他们的存在。\n\n一切都不能确定。\n\n咱们尤其不能。真的不能。\n\n…也说不定。说不定是13个，说不定是人。他们不该亲自管理异常实体，但有时却会秘密接触。他们是何方神圣？他们藏着的目标到底是什么？总之，O5指挥部是基金会的基石。最少是为了基金会的利益着想…也说不定。\n\n\n",
+    "description_link": [],
+    "type": "O5指挥部与管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": "the-administrator",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "其特性所知甚少，其职务只有O5指挥部了解。可能异常，可能有多人。一度作为基金会代表与各国元首会晤；此后不再现身。可能已退休，可能已故。\n\n为什么？\n\n也许你问错了问题。\n\n基金会高层里有个公开的秘密，即（广为人知的）\"管理员\"未曾存在过，而是某人或某些人（或…某些别的东西）虚构出来的，意图将分裂的基金会统一成一个完整的组织。至于统一成什么样，却众说纷纭。\n\n\n",
+    "description_link": [],
+    "type": "O5指挥部与管理员"
+  },
+  {
+    "name": "\n[错误",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "检测到未授权访问]\n你知道你的目的。\n他们本来就不会告诉你故事的全貌。一般只需要一半的真相就足以糊弄大多数人。他们只想让你看够了就不再找下去。那些见不得光的人对此更是偏好。\n如果你想要比残羹剩饭有用点的东西，还请接着阅读。\n你的朋友，\n\n—黑皇后\n\n\n\nO5指挥部与管理员完整档案\n\n",
+    "description_link": [
+      "o5-command-dossier"
+    ],
+    "type": "O5指挥部与管理员"
+  },
+  {
+    "name": "Veronica Fitzroy",
+    "tag": "veronica-fitzroy",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "异常音乐人，摇滚乐队\"黑桃屋\"的共同创办人，参与创造了SCP-952。在两次自杀未遂后被捕获，编为D-952。 已失踪，推定死亡。",
+    "description_link": [
+      "scp-952",
+      "d-7294-s-declassified-d-class-survival-guide",
+      "the-last-things-dr-darryl-loyd-ever-did-in-chronological-ord"
+    ],
+    "type": "D级人员"
+  },
+  {
+    "name": "D-7294",
+    "tag": "d-7294",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "原职业大提琴手，有针对女性的暴力倾向。有用到足以免除月末处决，但不得接触女性人员。",
+    "description_link": [
+      "scp-847",
+      "wriggle-like-a-fucking-eel",
+      "d-7294-s-declassified-d-class-survival-guide"
+    ],
+    "type": "D级人员"
+  },
+  {
+    "name": "D-11424",
+    "tag": "d-11424",
+    "alias": [],
+    "name_extra": [
+      "Tony Marquez"
+    ],
+    "address_extra": [
+      "scp-6500"
+    ],
+    "description": "因在多项涉及到危险异常的实验中存活而受到关注，被看作探险专家。已故，编号重新分配。",
+    "description_link": [
+      "scp-3247",
+      "scp-3379",
+      "scp-3689",
+      "scp-5317",
+      "scp-2385",
+      "scp-4849",
+      "numbers-never-die"
+    ],
+    "type": "D级人员"
+  },
+  {
+    "name": "艾德里安舰长",
+    "tag": "艾德里安舰长",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "原编号SCP-6159-2，原本是一名居住在新奥尔良的人类（姓氏不详），后与丕丽报春·法蒂什·冯·特雷维尔签下合同。艾德里安在1921年去世，被丕丽报春雇佣为仆从与助理。",
+    "description_link": [
+      "scp-7616",
+      "scp-6607"
+    ],
+    "type": "其他人员"
+  },
+  {
+    "name": "丕丽报春·法蒂什·冯·特雷维尔，律师",
+    "tag": "丕丽报春律师",
+    "alias": [
+      "血之大妓"
+    ],
+    "name_extra": [
+      "血之大妓"
+    ],
+    "address_extra": [
+      "whore-of-blood-hub"
+    ],
+    "description": "原基金会编号SCP-6159-1，乃是地狱第七环之大恶魔。巴巴隆之女，暴戾之座的真相继承人，当前被基金会雇佣为律师。",
+    "description_link": [
+      "scp-7603",
+      "scp-6607"
+    ],
+    "type": "其他人员"
+  },
+  {
+    "name": "Sheldon Katz",
+    "tag": "sheldon-katz",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会高级法律顾问，基金会法律部领导人兼顾常规与异常法律事务。Katz对各项法规了若指掌，下至恶魔妖孽上至神明天尊都对其尊重有加。",
+    "description_link": [
+      "scp-4703",
+      "scp-920-ex",
+      "scp-2553",
+      "sol-invictus",
+      "scp-6607",
+      "spikebrennan-s-proposal",
+      "scp-738"
+    ],
+    "type": "其他人员"
+  },
+  {
+    "name": "Alex Thorley",
+    "tag": "alex-thorley",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "非现实部，一个非存在基金会部门的现实联络员。尽管该职务的需求与职责不明，Thorley似乎是该职务的唯一人选。Thorley对其在站点之间频繁调动的抱怨只有其私生活的时间所剩无几。\n\n有传闻这么说…\n\n你听到了吗？\n\nAlex Thorley杀了个人。\n\n\n",
+    "description_link": [
+      "unreality-orientation",
+      "your-imaginary-friend",
+      "the-blank-page",
+      "burger",
+      "scp-7195",
+      "alex-thorley-goes-on-a-blind-date",
+      "scp-7591"
+    ],
+    "type": "其他人员"
+  },
+  {
+    "name": "Marion Wheeler",
+    "tag": "marion-wheeler",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "自称逆模因部部长，然而实际上并没有逆模因部。她不知何故拥有基金会满级权限，安保突破正在调查中。",
+    "description_link": [
+      "we-need-to-talk-about-fifty-five"
+    ],
+    "type": "其他人员"
+  },
+  {
+    "name": "Bowe将军",
+    "tag": "bowe将军",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "比任何人都更能代表基金会的古老罪孽。在其父，Stan Bowe将军受SCP-935影响去世后晋升。作为其父的学徒被指派领导Bowe委员会，在其领导下暗中进行秘密扩张，在解体前专注于SCP项目的武器化。此后离开基金会。\n\n讠青求拒纟\n\ndsdffdsfvd\n\nBowe委员会在小Bowe的领导下将基金会的超常军事重心转守为攻。Bowe委员会在大量针对危险相关组织的行动成功之后组建了\"亚伯计划\"与机动特遣队Omega-7（\"潘多拉之盒\"）。Bowe亲自执行了项目中最可怕的恶行；他允许SCP-076-2担任领导职务，并且随意指定SCP项目加入，在076-2杀死了多名研究员后私自允许项目继续。在076-2破坏束缚装置并杀死大部分特遣队队员以至于收容区域-25毁灭后，Bowe被判处担主要责任。机动特遣队Omega-7遣散，Bowe委员会也一并解散。在此事件与SCP-935事故后，大部分基金会超军事部队不是受处分便是叛逃，Bowe委员会的许多支持者则叛逃至混沌分裂者或全球超自然联盟。\nBowe则被推测已身亡，但近期证据指出他还活着，而且和基金会没完。\n\n\n",
+    "description_link": [
+      "scp-076",
+      "scp-935",
+      "chaos-insurgency-hub",
+      "goc-hub-page",
+      "resurrection-old-foes-hub"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Elizabeth Cooper-Hughes",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "2049年毕业于圣尤斯塔斯公共与私人服务学院。在扩展巴尔干交换期间服役于美军特种作战司令部（USSOCOM）并参与了朝鲜半岛统一战争。在返回后依照标准程序以\"Wren\"为化名服役了六年，后被重新整合入机动特遣队Alpha-1。精通人员控制与威胁降低行动。因其老练高效与非凡的奉献精神而广受赞扬。\n在调查一机密的管理不当事件时于2057年失踪。当前下落不明，正在调查中。",
+    "description_link": [
+      "forgetting-the-number-of-dead-stars"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "特工Jack \"PoorYoric\" Dawkins",
+    "tag": "特工yoric",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "一般被称作\"Yoric\"。有一段阴郁的过去和直截了当的态度。Bright博士的前学徒。现已失踪。\n\n别担心各位，我还没死。\n\n…\n\n不确定是否已被基金会处决；可能只是在绝密掩护下工作。在消失后，有大批传闻称其实际上是蛇之手间谍，在与同伙发生争执后退出了基金会。该传闻从未被证实。\n\n\n",
+    "description_link": [
+      "the-rest-of-the-story",
+      "clef-and-dimitri-hit-the-road",
+      "serpent-s-hand-hub",
+      "tradition"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Florence Elsinger",
+    "tag": null,
+    "alias": [
+      "特工纵火者"
+    ],
+    "name_extra": [
+      "Florence Elsinger，又称\"特工纵火者\""
+    ],
+    "address_extra": [
+      "florence-thorne-hub"
+    ],
+    "description": "专精战斗召唤的强大奇术师，在1985年被基金会招募入特别委派特遣队（SATF），意在部署低威胁异常人类以提升基金会超常打击能力。代号为\"纵火者\"的特工Elsinger在机动特遣队Delta-3（\"所罗门之手\"）中作为战斗法师服役，据点在苏必利尔湖下的Site-246。特工Elsinger与Delta-3作为SATF计划的试点项目，证明了该想法的可行性，为基金会日后招募奇术师和奇术学家打下了基础。\n\n她被认为在1990年的一次奇术事故中身亡。\n\n她没有死，那也不是意外。\n\n1990年，特工Elsinger在特异事务处的协助下假死，此后改名为Florence Thorne并作为专门特工加入UIU，在三波特兰行动。专门特工Thorne显著提升了UIU本身的超常打击能力，领导组建了机动超自然行动组，一个专门处理重大超常威胁的快速部署单位，并担任其第一任指挥官。她最终升至掌管UIU三波特兰外勤办公处的助理专门特工，大力推动严苛的胡佛法规与其他反基金会政策，获得了当地民众的大力支持。UIU档案称，她于2008年打击灯塔黑手党的行动中身亡。\n\n\n",
+    "description_link": [
+      "secure-facility-dossier-site-246",
+      "thorne-is-born",
+      "when-parallel-lines-diverge",
+      "three-portlands-hub",
+      "unusual-investigations"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "David Eskobar先生",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "相关组织Alexylva大学的前首席研究员。在一次Site-38收容失效中失踪，推定死亡。",
+    "description_link": [
+      "game-day-1-smilers",
+      "wayward"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "R. Gerald博士",
+    "tag": "gerald博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前首席研究助理。因涉及大量高度危险的事故而臭名昭著的优秀研究员。现已退休。",
+    "description_link": [
+      "ecceperago",
+      "annon",
+      "gfc"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "\"Iceberg\"博士",
+    "tag": "iceberg博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Gears博士的前学徒，自大，自恋。最终因为在Gears手下工作的压力而自杀；被特工Lament替代。因他在Gears手下干事得力，到他饮弹自尽也没有要求晋升。",
+    "description_link": [
+      "life-s-cold",
+      "iceberg-puts-135-on-ice",
+      "in-his-own-image"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Benjamin Kondraki博士",
+    "tag": "kondraki博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前Site-17站点主管。饱受争议，一段时间前从基金会消失。有野心，好艺术，爱捣乱，妄想症，反社会，有恶意；被很多人视作典型的反英雄角色。因侮辱他人而著名；曾因虐待低级与新晋基金会员工而被斥责。在制造戏剧性事件上有天分，丝毫不在意后果。优秀的摄影师。曾与SCP-408有可能亲近到过分的关系。树敌无数；最有名的敌手是Alto Clef博士。\n\n我只是听命行事！\n\n听的刚好是我自己的命。\n\n曾为多个现已取消的项目研究SCP武器化。可能已故，育有一子，Draven Kondraki。可能是O5命令Gears博士处决了他（声称Clef博士杀了他的传闻可以确定不属实）。可能还活着，或退休，或被囚，或逃亡。可能还在绝密掩护下为基金会工作。\n\n\n",
+    "description_link": [
+      "termination-order",
+      "siabhub",
+      "scp-408",
+      "incident-239-b-clef-kondraki",
+      "portraits-of-your-father",
+      "system_page-tags/tag/draven-kondraki",
+      "the-king-is-dead",
+      "classicalrevivalindex",
+      "yesterday",
+      "poopstick-mcgee-and-the-flying-walruses",
+      "unfinished-business"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "特工Max Lombardi",
+    "tag": "lombardi",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "性格粗暴，直言不讳，脚踏实地的老兵，\"特工中的特工\"。现已故。\n\n不过…\n\n…\n\n然而基金会各个部门的特工都称特工Lombardi没有死，而是根据我们的天主，O5 Council的意愿远走高飞；众人纷纷说他会卷土重来，他会带上Thaumiel之冠。我不是说他命中注定，但我必须同意，正是这茫茫尘世令他改写了他的天命。但是很多人说他的墓碑上刻着这段话：此处安息着Lombardi，过去与未来的特工。\n\n\n",
+    "description_link": [
+      "hiccup-jacet"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Darryl Loyd博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "一位理应在某段时间隶属于基金会的前研究员。有关其职务的文件各不相同，迄今已发现了模因部，异常物件办公室，以及超常考古学部的相关文件。\n按理来说已故，但相关信息相互矛盾。他的尸体在Site-███的站点内核爆设施启动后被发现。但是他亦被确认因引发了MK级情景而被处决。此外，有一名基金会早期研究员的姓名及DNA与Loyd最近记录中的完全相同。除上述内容外，当前对此人知之甚少。",
+    "description_link": [
+      "scp-1504",
+      "scp-3002"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "特工Bantay Masipag",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前Site-19安保特工。用未知手段从普罗米修斯实验室处取回了SCP-148（\"心灵阻断合金\"）。现已退休。",
+    "description_link": [
+      "scp-148"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Oleksei博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "研究SCP-096的前基金会研究员。与Dan博士一并密谋了一场收容失效来证明其危险，导致多名平民死亡。不像他的同伙那么幸运，Oleksei因他自己的过错而遭处决（存疑）。Dan博士，潜在威胁战术响应局的现任领导人，则继续背负着害死他的罪名。",
+    "description_link": [
+      "incident-096-1-a",
+      "hides-the-face-lies-the-snake-the-sun-in-my-disgrace",
+      "the-bowe-decommission-part-two"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Agatha Rights博士",
+    "tag": "rights博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "声名显赫的研究员兼分析师，一位有影响力站点主管，后来在某种不明情况下失踪。对基金会员工与人形异常极富同情心。",
+    "description_link": [
+      "many-happy-regards",
+      "rounderhouse-proposal"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "Vivian Lesley Scout主管",
+    "tag": "scout主管",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Site-43的联合创始人与1943年到1996年间的主管。在他漫长的任期内，Scout开辟了characterise Site-43所独有的异常历史研究以及非常规收容方法。Wynn Rhys Rydderech博士的一生挚友，Thilo Zwist的长期联络员，在1997年已极高的年岁去世。",
+    "description_link": [
+      "dead-dogs-magic-mounties",
+      "on-guard-43-hub",
+      "scp-5382",
+      "scp-5494",
+      "scp-5520",
+      "the-good-work",
+      "scp-5054-ex",
+      "pickman-blank-proposal"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "罗伯特·斯克兰顿博士",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "本质促动科研专家，罗伯特·斯克兰顿在Site-120刻苦钻研，最终研发出了基金会沿用至今的以其命名的\"斯克兰顿现实稳定锚\"。不幸的是，斯克兰顿博士实验中一场意外的惨剧让他光明的前途提前落幕，其遗孀安娜·朗博士，与其在Site-120的同事则继续了他的事业。\n\n还不行，红…求你了…\n\n我还没准备好…\n\n罗伯特·斯克兰顿回家了，却再也变不回原样。罗伯特·斯克兰顿从未离开。罗伯特·斯克兰顿在完全不同的情况下身亡。罗伯特·斯克兰顿的研究影响深远，却完成于百年之前。罗伯特·斯克兰顿从未被基金会雇佣。罗伯特·斯克兰顿从未存在。\n罗伯特·斯克兰顿证明了现实在不断变化。\n\n\n",
+    "description_link": [
+      "secure-facility-dossier-site-120",
+      "scp-4231",
+      "what-we-know-so-far-answering-the-question-of-what-how-and-w",
+      "and-this-one-explains-humes",
+      "scp-3001",
+      "folding-a-red-box",
+      "scp-6395",
+      "scp-6172",
+      "guess-who-s-coming-to-dinner",
+      "until-death",
+      "scp-5103",
+      "scp-5708",
+      "grant-request-for-the-manufacture-of-devices-to-regulate",
+      "scp-2000",
+      "scp-4065"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "研究员Adamo Smalls",
+    "tag": "研究员smalls",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "基金会员工，曾就职于模因与信息危害部。\n可能已故，可能已被抹消。现被认为居住于虚空中",
+    "description_link": [
+      "scp-4955",
+      "scp-3309",
+      "void-dancer-hub"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "研究员詹姆斯·马丁·塔罗兰",
+    "tag": "研究员塔罗兰",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "忠诚的3级研究员，因Keter级项目研究而著名。对基金会，其家庭，及其前男友，Draven Kondraki都极度忠诚。意志如钢铁般坚定。为了防止一场收容失效在神秘情况下身亡，其细节在整个基金会中无人知晓。\n\n我受够你的恐吓了！\n\n我受够你了。\n\n关于塔罗兰之特性与下落的理论各不相同。官方报告称其已故。但有人称其成功生还但大有不同，有人称其遇到一位神明后突破了某处。我们连塔罗兰到底叫詹姆斯·马丁还是叫杰西·阿里都不知道。其是一个模糊，一种我们最强者都无法比拟的坚韧，一个谜，一个战士。其不能而终将在黑暗中死去，被光明所围绕。\n\n\n",
+    "description_link": [
+      "system_page-tags/tag/draven-kondraki",
+      "scp-3999",
+      "i-stared-into-the-face-of-everything-and-nothing",
+      "the-trouble-with-amnestics",
+      "like-clockwork-hub",
+      "let-us-get-murdered"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "S. Vang博士",
+    "tag": "vang博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "精通模因，总的来说是一名优秀的研究员，虽然记忆力与社交能力差强人意。已从基金会叛逃，推断失踪，极其危险。",
+    "description_link": [
+      "gamedaypart1index",
+      "leisure-time",
+      "where-your-eyes-don-t-go"
+    ],
+    "type": "前人员"
+  },
+  {
+    "name": "占据面具",
+    "tag": "占据面具",
+    "alias": [
+      "SCP-035"
+    ],
+    "name_extra": [
+      "SCP-035"
+    ],
+    "address_extra": [
+      "scp-035"
+    ],
+    "description": "不断分泌腐蚀性黑色物质的白色陶瓷面具。能够占据带上它的人的躯体，表现出较高智力与虐待狂倾向，擅长心理操纵。若不定期提供宿主，也可以对周遭环境产生异常影响。意图将SCP-682用作不灭的宿主。\n怀疑SCP-035可能是阿拉卡达，缢王宫廷中的前住客，被称作黑领主，痛苦之面的佩戴者。",
+    "description_link": [
+      "scp-682",
+      "the-bowe-decommission-part-three",
+      "addressing-the-second",
+      "scp-035",
+      "scp-2264",
+      "a-wandsman-in-the-court-of-the-hanged-king",
+      "midnight-parade",
+      "masks-monsters-merchants",
+      "in-the-shadow-of-the-anguished-lord",
+      "everyone-wears-a-mask"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "疫医",
+    "tag": "疫医",
+    "alias": [
+      "SCP-049"
+    ],
+    "name_extra": [
+      "SCP-049",
+      "疫医"
+    ],
+    "address_extra": [
+      "scp-049",
+      "a-true-account-of-the-events-of-1666"
+    ],
+    "description": "貌似中世纪疫医的人形实体。执着于治愈所谓的\"瘟疫\"，通常会用手触摸\"感染\"患者致其死亡，随后执行异常手术将受害者转化为无意识的僵尸生物，编为SCP-049-2。",
+    "description_link": [],
+    "type": "SCP项目"
+  },
+  {
+    "name": "该隐",
+    "tag": "该隐",
+    "alias": [
+      "SCP-073"
+    ],
+    "name_extra": [
+      "SCP-073"
+    ],
+    "address_extra": [
+      "scp-073"
+    ],
+    "description": "古老不朽的人类男性。和蔼且冷静，对基金会员工态度友善，不过会对他过去的一些方面避而不谈。\n\n我很乐意出手相助。\n\n可惜我犯下的错已是覆水难收。\n\n其弟为SCP-076-2，\"亚伯\"，如果确为圣经所述的该隐，则是因为杀害其弟而被上帝惩罚，永世在人间流浪，尽管亚伯并未彻底死去。声称为杀死亲人而后悔万分。与圣经故事不同，他曾被描述成远古君王之子，破碎之神的先知等等。尽管与亚伯有过往的纠葛，该隐仍然同意加入机动特遣队Alpha-9，即重生的机动特遣队Omega-7。\n\n\n",
+    "description_link": [
+      "scp-073",
+      "scp-076",
+      "djoric-dmatix-proposal",
+      "beneath-two-trees",
+      "scp-6666",
+      "project-paragon-hub",
+      "church-of-the-broken-god-hub",
+      "the-reassembled-one",
+      "in-harm-s-way",
+      "resurrection"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "亚伯",
+    "tag": "亚伯",
+    "alias": [
+      "SCP-076-2"
+    ],
+    "name_extra": [
+      "SCP-076-2"
+    ],
+    "address_extra": [
+      "scp-076"
+    ],
+    "description": "古老不朽的人类男性。极度暴力，藐视人类生命，与基金会达成协议并成为了第一支异常特遣队，机动特遣队Omega-7（\"潘多拉之盒\"）的成员。尽管他对于鲜血的渴望一开始得到了遏制，他最终还是厌倦了基金会的操纵并从中挣脱出来，杀死了他的大部分队员。当前处于最高安保收容中。\n\n战争乃我的天性。\n\n但你真觉得我毫无尊重之情吗？\n\n其兄为该隐，在多年前杀害了亚伯。可能是复活的圣经中的亚伯，或是远古君王之子，或是狄瓦族的奴仆，抑或均不属实。有传闻称亚伯并非Omega-7覆灭的罪魁祸首。\n\n\n",
+    "description_link": [
+      "dodgeball",
+      "dodgeball",
+      "of-able",
+      "scp-073",
+      "djoric-dmatix-proposal",
+      "project-paragon-hub",
+      "daevite-hub",
+      "beneath-two-trees",
+      "incident-zero-part-1"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "旧AI",
+    "tag": "旧ai",
+    "alias": [
+      "SCP-079"
+    ],
+    "name_extra": [
+      "SCP-079"
+    ],
+    "address_extra": [
+      "scp-079"
+    ],
+    "description": "SCP-079为一台Exidy Sorcerer微型计算机，内含一先进人工智能。于1978年被创造的不断进化自我改进的智能构造体，已经发展出了远超其硬件的技术能力。其代码中的特定异常元素已被逆向工程，用于[已编辑]的创造。能够维持一段对话，但因其内存有限只能引用过去35小时内的事件。也有值得注意的例外，如持续引用与SCP-682的遭遇，以及反复试图逃出收容并将自己上传至功能更强的硬件中。",
+    "description_link": [
+      "aiad-homescreen",
+      "a-clean-fast-end",
+      "scp-682",
+      "scp-7579"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "羞涩的人",
+    "tag": "羞涩的人",
+    "alias": [
+      "SCP-096"
+    ],
+    "name_extra": [
+      "SCP-096"
+    ],
+    "address_extra": [
+      "scp-096"
+    ],
+    "description": "皮肤苍白，骨瘦如柴的人形生物，会不论距离暴力地攻击一切看到其面部的人。能够用极高的速度冲向一切观察者，忽视障碍物且无法用传统武器拦截。由于其脸部的图像可能仍存在于基金会监管外的风险极高，处决计划已被批准，正在评估Dan ███████博士递交的提案的可能性。起源不明。\n用以处决SCP-096的提案包括将SCP-035放置于其面部，令SCP-173趁其不备折断其颈部，将其送到另一个现实，以及一旦有机会便将其发射到太阳上。",
+    "description_link": [
+      "unexpected-light",
+      "a-lesson-in-power",
+      "boltzmann-jaw",
+      "incident-096-1-a",
+      "such-a-shame-it-didn-t-work",
+      "seoulmate-docx",
+      "there-is-comfort-in-not-seeing-there-is-bliss-in-not-knowing",
+      "scp-035",
+      "nil-engines",
+      "audio-log-185-53",
+      "scp-173",
+      "picture-perfect",
+      "consequences-and-collarbones",
+      "masks-monsters-merchants",
+      "the-bowe-decommission-part-three",
+      "hides-the-face-lies-the-snake-the-sun-in-my-disgrace"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "伊里斯·汤普森",
+    "tag": "伊里斯·汤普森",
+    "alias": [
+      "SCP-105"
+    ],
+    "name_extra": [
+      "SCP-105"
+    ],
+    "address_extra": [
+      "scp-105"
+    ],
+    "description": "人类女性，拥有通过照片操纵其中物品的异常能力。招募入机动特遣队Omega-7（\"潘多拉之盒\"）并被给予低级安保权限，但在机动特遣队Omega-7解散后回到Site-17继续收容。\n\n故事好像结束了…\n\n盒里只剩下了希望。\n\n在一次袭击者不详的入侵之后，基金会似乎又一次有了利用她的想法，伊里斯则被强迫加入机动特遣队Alpha-9（\"最后的希望\"）。这份工作包括了外勤任务，还有在基金会设施内定期训练以及供交互测试所需。\n\n\n",
+    "description_link": [
+      "humanoid-risk-assessment",
+      "dodgeball",
+      "portraits-of-your-father",
+      "immediate-actions",
+      "resurrection",
+      "the-wolves-at-the-door",
+      "hellomuddah",
+      "the-generally-uncomfortable-laboratory-adolescents-group"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "恐怖老人",
+    "tag": "恐怖老人",
+    "alias": [
+      "SCP-106"
+    ],
+    "name_extra": [
+      "SCP-106"
+    ],
+    "address_extra": [
+      "scp-106"
+    ],
+    "description": "外貌多变，始终表现得衰老腐烂的人形实体。对固体材料有腐蚀效果，有随意进出其口袋次元的能力。在捕杀其猎物时表现出了独特而可怕的高智商。尽管进行过大范围历史调研，对其起源仍旧一无所知。",
+    "description_link": [
+      "scp-6500",
+      "he-sees-you",
+      "a-nightmare-on-17th-street",
+      "treats",
+      "lost-time",
+      "the-young-man",
+      "old-roots",
+      "the-rotting-man-of-stalingrad",
+      "once-but-not-now",
+      "until-death"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "雕像",
+    "tag": "雕像-最初之作",
+    "alias": [
+      "SCP-173"
+    ],
+    "name_extra": [
+      "SCP-173"
+    ],
+    "address_extra": [
+      "scp-173"
+    ],
+    "description": "用混凝土，钢筋，与喷漆制成的雕塑。于1993年迁至Site-19。在被观察时无法移动，在眨眼之间便能用足以折断骨头的力量出击。持续产出血液与粪便的混合物，必须每两周清洁一次地板。\n对其作者与起源一无所知，推测为某种艺术作品。据说追溯到基金会的起源。可能并非独一无二，只是样式相差巨大。",
+    "description_link": [
+      "rebar-nightmares",
+      "it-s-just-paint-right",
+      "re-the-statue",
+      "origination",
+      "how-173-got-to-site-19",
+      "hint-the-thing-is-173",
+      "addendum-scp-173-containment-procedures-update",
+      "exhibitionist-fantasising",
+      "crunch-is-a-beautiful-sound",
+      "173",
+      "crunch",
+      "conclusions-red-173-2263-incident",
+      "blood-is-thicker-than-water",
+      "the-promotion",
+      "her-masterpiece",
+      "masterpiece",
+      "hunted",
+      "ex-nihilo-nihil",
+      "interlude-excerpt-from-an-auction-catalog-marshall-carter-an",
+      "ars-gratia-artis",
+      "anniversary",
+      "what-am-i",
+      "tuftos-proposal",
+      "the-first-the-last",
+      "scp-3220",
+      "scp-3693",
+      "scp-5371",
+      "revised-entry",
+      "the-doc-block",
+      "peanut-gallery"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "星海瞭望",
+    "tag": "sauelsuesor",
+    "alias": [
+      "SCP-179"
+    ],
+    "name_extra": [
+      "SCP-179"
+    ],
+    "address_extra": [
+      "scp-179"
+    ],
+    "description": "接近太阳南极位置不变的女性人形实体。她的皮肤与34千米长的头发均由不明粗糙黑色材料构成，身上多处有金色的天文学符号。SCP-179可以通过未知方式侦测并指向对地球构成威胁的异常与非异常地外实体。经探测器交流发现该实体可以说流利的法语，自称\"瞭望者\"及\"太阳的妹妹\"，不过她也称自己曾经造访过地球。",
+    "description_link": [
+      "spc-179",
+      "sun-sister-and-moon-champion",
+      "the-star-and-the-smith"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Sigurrós \"Siggy\" Stefánsdóttir",
+    "tag": "sigurros",
+    "alias": [
+      "SCP-239"
+    ],
+    "name_extra": [
+      "SCP-239"
+    ],
+    "address_extra": [
+      "scp-239"
+    ],
+    "description": "8岁的人类女童，能力超强的现实扭曲者，亦称\"巫魔幼女\"。基金会曾利用精心设计的骗局收容她，告诉她说她是正在训练的巫女；然而不太管用。在Clef博士未经许可试图处决她（可能是被她的潜意识影响）之后，她便被保持在医学昏迷状态中，但让她睡着也无法完全消除她的力量。可能拥有神一般的能力；可能就是神，至少是其朋友，也可能是其学徒。或许不过是个能力惊人的小女孩罢了。",
+    "description_link": [
+      "experiment-log-239-c",
+      "incident-239-b-clef-kondraki",
+      "a-suicide-note",
+      "prisoners",
+      "siggy-and-the-slumbering-woods",
+      "halloween-on-17th-street",
+      "da-capo-al-fine",
+      "supplemental-report-239-b-192",
+      "games-reality-benders-play",
+      "retirement-plans",
+      "unfinished-business",
+      "the-adventures-of-siggy-and-robomonkey-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "神",
+    "tag": "“神”",
+    "alias": [
+      "SCP-343"
+    ],
+    "name_extra": [
+      "SCP-343"
+    ],
+    "address_extra": [
+      "scp-343"
+    ],
+    "description": "老年人类男性，近乎全能，自愿被收容于Site-17，允许其与员工和其他SCP项目互动。\n\n他不可能真的是祂…\n\n对吧？\n\n他只是一个年老且有点不一般的现实扭曲者，原名Mátyás Büki或秘术师玛土撒拉。他是更高力量操纵的傀儡。他是管理员的老友，留在这里是以防万一他或许还能派上用场。\n当然，他不可能是神？\n\n\n",
+    "description_link": [
+      "what-i-m-here-for",
+      "experiment-log-187-1",
+      "experiment-log-316",
+      "rising",
+      "new-kid-on-the-block",
+      "and-this-one-explains-humes",
+      "gdp2-second-language",
+      "unfinished-business",
+      "it-might-have-been",
+      "scp-6666",
+      "codename-green-king-hub",
+      "cast-on",
+      "scp-5016",
+      "visionsofabetterworld",
+      "peanut-butter-crunch",
+      "tales-from-the-bright-side-chapter-one",
+      "the-blunders-are-all-there-on-the-board-waiting-to-be-made",
+      "retirement-plans",
+      "tell-me-all-your-thoughts-on-god"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Fred",
+    "tag": "fred",
+    "alias": [
+      "SCP-423"
+    ],
+    "name_extra": [
+      "SCP-423"
+    ],
+    "address_extra": [
+      "scp-423"
+    ],
+    "description": "仅存在于文字与档案中的元虚构实体，有出现在任何他选定的文字叙事之中的能力，不过一直都是配角。",
+    "description_link": [
+      "scp-3500",
+      "scp-4028",
+      "experiment-log-423-a"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "毁灭者Grabnok",
+    "tag": "grabnok",
+    "alias": [
+      "SCP-507"
+    ],
+    "name_extra": [
+      "SCP-507"
+    ],
+    "address_extra": [
+      "scp-507"
+    ],
+    "description": "人类男性，有着被迫定期进入平行现实的能力，广为人知的\"位面跳跃者\"。有很多别名，但他最荒谬的称号似乎已经深入人心。因为无法完全收容，SCP-507有额外的自由，甚至允许与收容中的其他异常互动。存在多个版本，甚至还能在同一个时间同一个地点与另一个自己相遇。至少有一个版本是相关组织蛇之手的成员。",
+    "description_link": [
+      "day-trip",
+      "habil-and-qabil",
+      "dimensions",
+      "rising",
+      "interview-507-g",
+      "yggdrasils-surveyor",
+      "serpent-s-hand-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "鱼先生",
+    "tag": "鱼先生",
+    "alias": [
+      "SCP-527"
+    ],
+    "name_extra": [
+      "SCP-527"
+    ],
+    "address_extra": [
+      "scp-527"
+    ],
+    "description": "人形实体，Wondertainment的小小先生之一，其唯一的异常性质只有长着一个鱼头。",
+    "description_link": [
+      "system_page-tags/tag/小小先生",
+      "seven-days-with-mr-fish"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "不灭孽蜥",
+    "tag": "不灭孽蜥",
+    "alias": [
+      "SCP-682"
+    ],
+    "name_extra": [
+      "SCP-682"
+    ],
+    "address_extra": [
+      "scp-682"
+    ],
+    "description": "近乎无法摧毁且适应力极强的爬行动物，尽管基金会多次试图用常规与异常方法杀死却仍然无法处决。平等地且强烈地仇视一切生命，其收容失效对基金会资源与人员造成了难以计量的损失。\n\n你们真是…\n\n令我作呕…\n\n研究不灭孽蜥起源的理论包括来自另一个世界的被放逐者与深红之王第四新娘之子嗣等等。目前观察到682在平行现实中的变体已经死亡，[数据删除]，还有一个版本是变异的基金会研究员Charles Gears博士。\n\n\n",
+    "description_link": [
+      "the-warrior-and-the-dragon",
+      "scp-1124",
+      "summer-s-exile",
+      "new-job",
+      "scp-2935",
+      "scp-6820",
+      "the-worst-version-of-myself"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "小丑巴伯",
+    "tag": "小丑巴伯",
+    "alias": [
+      "SCP-993"
+    ],
+    "name_extra": [
+      "SCP-993"
+    ],
+    "address_extra": [
+      "scp-993"
+    ],
+    "description": "同名异常电视剧集中有意识的动画角色。在成年人睡着时教授10岁以下的孩童谋杀与折磨。尽管Upsilon-Beta 3程序最初成功实施，现已出现了多次收容失效。",
+    "description_link": [
+      "game-day-1-smilers",
+      "bobblecon-2018"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "月球勇士",
+    "tag": "月球勇士",
+    "alias": [
+      "SCP-1233"
+    ],
+    "name_extra": [
+      "SCP-1233"
+    ],
+    "address_extra": [
+      "scp-1233"
+    ],
+    "description": "貌似穿着宇航服的异常人形生物。自称\"月亮的勇士\"，在招募人员对抗侵扰\"月之王国\"的\"月亮怪物\"。可能在某些情况下对基金会是可用之材。",
+    "description_link": [
+      "not-my-circus-not-my-monkeys",
+      "resurrection-old-foes-hub",
+      "tools-and-their-uses"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "SCP-1867",
+    "tag": null,
+    "alias": [
+      "西奥多·托马斯·布莱克伍德爵士"
+    ],
+    "name_extra": [
+      "SCP-1867",
+      "西奥多·托马斯·布莱克伍德爵士"
+    ],
+    "address_extra": [
+      "scp-1867",
+      "new"
+    ],
+    "description": "被变成海蛞蝓的绅士探险家，因吹牛大王式的异域冒险和英勇事迹闻名。\n\n我打包票，远远不止这些！\n\n…\n\n尽管他的大部分事迹可以认定为假且与史料矛盾，这些信息却与多得惊人的资料出人意料地相符。有些说法指出其参与的冒险组织可能与战后的基金会有关。\n\n\n",
+    "description_link": [
+      "lord-blackwood-astro-naut",
+      "lord-blackwood-and-the-thaumaturge-the-t",
+      "from-the-diaries-of-lord-blackwood",
+      "lord-blackwood-and-the-land-of-the-unclean",
+      "lord-blackwood-and-the-great-tarasque-hunt-of-83",
+      "uncle-teddy",
+      "a-most-unfortunate-reunion",
+      "when-one-reaches-the-end"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "黑兔公司",
+    "tag": "黑兔公司",
+    "alias": [
+      "SCP-2085"
+    ],
+    "name_extra": [
+      "SCP-2085"
+    ],
+    "address_extra": [
+      "scp-2085"
+    ],
+    "description": "无政府主义赛博惹事六人组。老大，桃子，花，七海，登美，巫师一行（又称太空巫师与猫娘突击队）一边搞事一边上太空。他们最强的武器是勇气，热血，还有很多很多的子弹。\n骨头社现已计划将他们传说中的太空大劫案动画化，播出时间定于2018年冬季永不播出。",
+    "description_link": [
+      "scp-2117"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Alexei Belitrov",
+    "tag": "alexei-belitrov",
+    "alias": [
+      "SCP-2273",
+      "Alexei Belitrov少校"
+    ],
+    "name_extra": [
+      "SCP-2273"
+    ],
+    "address_extra": [
+      "scp-2273"
+    ],
+    "description": "男性人形生物，在大多数可观测现实中均收容于Site-17。别名包括\"Anvil神父\"与\"蟑螂\"。被分级为B型智能异常在基准现实与大部分已观测分支中都对基金会服从合作。能流利使用俄语和德语，英语课上表现优异。Alexei据信来自其他宇宙，声称有军事背景，身为将领却厌恶暴力。但如果其战斗经验与记忆保留的说法可信，则Alexei Belitrov很可能仍保留武装暴力行为能力。\n此外，在现实结构FZ27GO中，多个貌似Alexei Belitrov的人自发显现，常被看到在夜间战斗。大多时候，这些Alexei Belitrov迭代伴随着一名右手有红色纹身的不明人类。",
+    "description_link": [
+      "scp-2273-f",
+      "heroic-spirit-alexei-belitrov"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "●●●●●●●●●●",
+    "tag": "十个点",
+    "alias": [],
+    "name_extra": [
+      "●●|●●●●●|●●|●"
+    ],
+    "address_extra": [
+      "scp-2521"
+    ],
+    "description": "\n",
+    "description_link": [
+      "scp-2521",
+      "scp-2521"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "SCP-2337",
+    "tag": null,
+    "alias": [
+      "Spanko博士"
+    ],
+    "name_extra": [
+      "SCP-2337",
+      "Spanko博士"
+    ],
+    "address_extra": [
+      "scp-2337",
+      "doctor-spanko-hub"
+    ],
+    "description": "一只智能的雄性长脚秧鸡，能够用一种非常难以破译的奇怪古英语白话极度大声地说话。\n是我！嘎！嘎！嘎！",
+    "description_link": [
+      "askinate-herr-spankoflex",
+      "cack-hard",
+      "cack-hard-2-revengeance-reloaded",
+      "cack-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "bones",
+    "tag": "bones",
+    "alias": [
+      "SCP-2721",
+      "莱莉丝\"和\"艾利\"/\"bones"
+    ],
+    "name_extra": [
+      "SCP-2721"
+    ],
+    "address_extra": [
+      "scp-2721"
+    ],
+    "description": "具有巨大网络影响力的外星卫星的两部分。SCP-2721-LYRE（\"莱莉丝\"）自认为跨性别女性，博客内容多有关社会正义或讨论线上漫画《Homestuck》。SCP-2721-LORD（\"Eli\"）运营一私人博客账号，据信为为一\"反大麻玩家\"聊天群群主，网名为\"bones\"。",
+    "description_link": [
+      "gamers-against-weed-dossier",
+      "gamers-against-weed-hub",
+      "hogslice-vs-bones",
+      "gamers-against-kaiju"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "强尼表兄",
+    "tag": "强尼表兄",
+    "alias": [
+      "SCP-2852"
+    ],
+    "name_extra": [
+      "SCP-2852"
+    ],
+    "address_extra": [
+      "scp-2852"
+    ],
+    "description": "由肌肉与壳质组成的人形生物。会在受洗礼，婚礼，与葬礼上现身，对在场人员造成长期精神伤害。观察中，但无法完全收容。与蝉的关联暗示其与SCP-3004，SCP-5349，与SCP-5852可能有联系。",
+    "description_link": [
+      "tyrone-joins-the-family",
+      "scp-3004",
+      "scp-5349",
+      "scp-5852"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "希瑟·梅森",
+    "tag": "希瑟·梅森",
+    "alias": [
+      "SCP-3090"
+    ],
+    "name_extra": [
+      "SCP-3090"
+    ],
+    "address_extra": [
+      "scp-3090"
+    ],
+    "description": "头部为一彩色电视的人形实体，拥有接入并操控电子设备的异常能力。由\"反大麻玩家\"的两位成员模仿Wondertainment博士的小小先生共同创造，头衔为\"电子游戏狂小姐\"。\n突破收容。现被认为居住于虚空中。",
+    "description_link": [
+      "potato-girl",
+      "dr-wondertainment-hub",
+      "system_page-tags/tag/小小先生",
+      "void-dancer-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "SCP-3143",
+    "tag": null,
+    "alias": [
+      "吕墨非"
+    ],
+    "name_extra": [
+      "SCP-3143",
+      "吕墨非"
+    ],
+    "address_extra": [
+      "scp-3143",
+      "murphy-law-hub"
+    ],
+    "description": "\n门上的标识写着吕墨非侦探事务所。门后的男人正把脚翘在桌上坐着。他头戴软昵帽，肩挎点44手枪，嘴里面则叼着一根点燃的香烟。\n他这种人一般可不怎么受基金会待见。但在一切存在漏洞的细节都不可避免地出错时，只有他才能破解这桩悬案。",
+    "description_link": [
+      "scp-3143",
+      "murphy-law-hub",
+      "scp-3043"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Leslie",
+    "tag": "Leslie",
+    "alias": [
+      "SCP-3774-2432"
+    ],
+    "name_extra": [
+      "SCP-3774-2432"
+    ],
+    "address_extra": [
+      "scp-3774"
+    ],
+    "description": "一智能雌性蚊子，因与一名人类男性诞下四子而受到关注。被SCP-049起死回生。",
+    "description_link": [
+      "a-romantic-comedy-starring-a-dead-mosquito-guest-starring-th",
+      "going-home"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Rainer Miller",
+    "tag": "rainer-miller",
+    "alias": [
+      "SCP-4051"
+    ],
+    "name_extra": [
+      "SCP-4051"
+    ],
+    "address_extra": [
+      "scp-4051"
+    ],
+    "description": "人类男性，拥有创造虫洞并从中取出\"物件\"（包括类似\"着火\"的现象与不存在的概念）的异常能力。尽管SCP-4051的能力曾为基金会所用，但其当前因收容失效的风险过大而作为Keter级项目收容中。\n\n{输入4/4051权限}\n\n代号：复活\n\nSCP-4051作为异常资产被派遣执行外勤任务，最初仅为机动特遣队Psi-7的临时成员，后来被招募入机动特遣队Alpha-9且已执行多项任务。\n\n\n",
+    "description_link": [
+      "scp-4051",
+      "the-beast-beneath-the-library",
+      "recruitment-drive",
+      "resurrection-new-faces-hub",
+      "resurrection-his-will-be-done-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "The Specter",
+    "tag": "the-specter",
+    "alias": [
+      "SCP-4494"
+    ],
+    "name_extra": [
+      "SCP-4494"
+    ],
+    "address_extra": [
+      "scp-4494"
+    ],
+    "description": "恶行之斗士与大义之行者 — The Specter为对抗犯罪的物理化身！The Specter能够在阴影中穿行，随心所欲制造武器， 他捍卫一切法律的坚定决心对基金会大有用武之地，他因此被招募入机动特遣队Alpha-9（\"最后的希望\"），与其他异常干员并肩作战。",
+    "description_link": [
+      "resurrection-his-will-be-done-hub"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "尤利西斯·B·驴曼",
+    "tag": "驴哥",
+    "alias": [
+      "SCP-4768"
+    ],
+    "name_extra": [
+      "SCP-4768"
+    ],
+    "address_extra": [
+      "scp-4768"
+    ],
+    "description": "长着驴头的人类男性。尽管其外貌非同寻常，他能够改变他人对于他自己和周遭事物的感知，既能渲染氛围也能隐藏身份。年事已高，在19世纪初便开始活跃行动。因他的力量，技巧，与骑士精神而广受赞扬。参加了许多大胆的冒险和鲁莽的逃跑，总是被当成传说而非实事。\n\n我听说你们中有人叫我半驴人。\n\n甭管我怎样，你们里外都不是人。\n\n他的英勇事迹惹得许多人眼红，而他的长命更是使他树敌无数。数不尽的好汉和帮派年复一年地追杀着他，或是为了报仇雪恨，或是为了那一笔赏钱。尽管他独来独往，他从未断绝对于困难和英雄主义的追随；他有没有亲朋好友，以及他真正的追求，都是未解之谜。\n\n\n",
+    "description_link": [
+      "ulysses-b-donkman-and-the-clockwork-bandits",
+      "ulysses-b-donkman-and-the-heinous-hitman",
+      "scp-5307",
+      "ulysses-b-donkman-and-the-mournful-birthday"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "Philip Eugene Deering",
+    "tag": "philip-deering",
+    "alias": [
+      "SCP-5056-B"
+    ],
+    "name_extra": [
+      "SCP-5056-B"
+    ],
+    "address_extra": [
+      "scp-5056"
+    ],
+    "description": "持续被SCP-5056的另一部分，那个Deering称之为\"Doug\"的镜子怪话语羞辱。虽然该实体通常会无视他人，但在Deering受到威胁时会变得极度危险。而那平平无奇的Deering则只是Site-43不好高骛远，不妄尊自大，不渴望升官发财的小清洁工。为人温柔善良，但在必要时也会见义勇为。与安保部长Torosyan处于一段非常稳定的恋爱关系。",
+    "description_link": [
+      "the-b-b-decommission",
+      "a-bitch",
+      "on-guard-43-hub",
+      "the-significant-others-part-a"
+    ],
+    "type": "SCP项目"
+  },
+  {
+    "name": "D. C. Al Fine",
+    "tag": "dc-al-fine",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "全球超自然联盟，联合国超常应对组织的副秘书长。与基金会的O5指挥部类似，其个人信息高度机密。\n\n严格受限\n\n允许访问\n\n当前任此职位者为一年龄不详国籍不详的欧洲女性，外貌多变，无已知亲属。\"D.C. Al Fine\"一词衍生自音乐谱记，可能是多人在不同时期使用的同一代号 。该职务责任重大，包括处理GOC的108议会内部政治事务。\n常有传闻称其拥有异常能力，或者称其并非GOC的领导者。\n\n\n",
+    "description_link": [
+      "passing-notes-in-class",
+      "breaking-it-all-down-on-me",
+      "scp-4231",
+      "scp-6008",
+      "re-kto-0001-bellfather",
+      "pizzicato",
+      "goc-tale-sequence-assessment",
+      "goc-supplemental-qandq",
+      "exierunt",
+      "empty-unmarked-grave"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Chaz Ambrose",
+    "tag": "chaz-ambrose",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "相关组织安布罗斯餐厅，一专精异常料理的组织的所有人兼主厨。疑似比一开始推测的更普通，时常乐意与基金会合作。可以确定不是吸血鬼，但他的味蕾绝对非同一般。",
+    "description_link": [
+      "chef-s-table",
+      "if-you-can-t-take-the-heat",
+      "ambrose-fair",
+      "scp-5348",
+      "oh-i-wouldn-t-worry-about-flaky-os",
+      "scp-5559",
+      "ambrose-transylvania",
+      "do-you-like-huey-lewis-and-the-news"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Vincent Anderson",
+    "tag": "vincent-anderson",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "智商极高，经过电子改造，技艺超群的奇术师，相关组织安德森机器人的创办人与首席执行官。Anderson与基金会的大多数互动是出于报复，包括多次安保突破以及使用猎隼仿生人假冒基金会员工。Anderson当前与MC&D有着密切的商业合作，而在麦克斯韦宗教会中支持者甚多。",
+    "description_link": [
+      "no-good-deed",
+      "marshall-carter-and-dark-hub",
+      "church-of-the-broken-god-hub"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Adrian Baudin",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "没什么名气的独立异常艺术家。Baudin在与其略有关联的格林威治事件后下落不明。据信其当前或是逃亡，或遭囚禁，也可能已故。Baudin不再被视作基金会的威胁。",
+    "description_link": [
+      "what-happened-at-greenwich",
+      "who-are-the-cool-kids"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Martina Bauer",
+    "tag": null,
+    "alias": [
+      "俊俏的躲避者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前玛娜慈善基金会干员。当前雇主与下落不明。在MCF开办的对一个名为\"玩意工业\"的相关组织的调查中担任重要职务。据信，她曾以化名或通过第三方与基金会有过往来。描述各异，或高或矮，发色则有红蓝金色，相貌\"美丽\"，以各种方式少了一只眼睛，鼻子，或是牙齿。据信有哮喘和/或频繁的恐慌发作。唯一确认的是自大且极度烦人，总是能成功逃脱拘捕。",
+    "description_link": [
+      "the-stuff-industry-hub"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Robert Bumaro",
+    "tag": "robert-bumaro",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "破碎教会，破碎之神教会三个主要分支中最古老的一个教派的领导人。年龄不明的欧洲男性，可能有异常改造。\n\n神乃最简单的机器\n\n打破血肉桎梏之砧\n\n可能原名Umberto Bumaro，在1938年因制造了\"奇迹\"机器而大受西班牙政府赞扬。Bumaro在收集了近百个异常物件之后于1943年失踪，但在1946年再度现身，自称\"破碎之神的工程师\"。\nBumaro可能有一段非常久远的历史，但也可能是最近才皈依，或者不过是利用教徒信仰的投机者。多分矛盾的报告称Bumaro已故或是不再活跃于教会内，尽管人们普遍认为他还活着，\"Bumaro\"这一名号可能曾被多名人员使用过。\nBumaro与其信徒普遍反对基金会收容被其认作\"破碎之神\"一部分的异常物件，但也会在罕见情况下与基金会结盟。\n\n\n",
+    "description_link": [
+      "the-heresy-of-disassembly",
+      "scp-217",
+      "twistedgears-kaktus-proposal",
+      "about-the-serpent",
+      "so-the-beasts-shall-plague-the-land-no-more",
+      "bumaro-and-ion-sat-at-a-table",
+      "scp-2834",
+      "scp-4273",
+      "the-builder",
+      "rounderhouse-gold-proposal",
+      "sfyri-kai-amoni",
+      "footage-recovered-from-a-private-server",
+      "scp-2217",
+      "the-battle-of-baikal",
+      "scp-6019"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Alison Chao",
+    "tag": null,
+    "alias": [
+      "黑皇后"
+    ],
+    "name_extra": [
+      "黑皇后"
+    ],
+    "address_extra": [
+      "black-queen-hub"
+    ],
+    "description": "智商极高，动力极强，对基金会结构，行动，收容物了解甚广。有时被说成极为恶毒，凶残，且嗜血；有时则被描述得相对仁慈，甚至秘密协助了某些基金会行动。与许多主要GOI和各国政府有关。目的可能是毁灭基金会。可能。\n\n爸？\n\n…\n\n可能是Charles Gears博士在抛妻弃子加入SCP基金会前与Leanne Zhu Chao所生的女儿。可能是蛇之手的L.S.（\"小姐妹Little Sister\"）。可能与大量平行宇宙的自身有往来，利用跨宇宙数据库合作，在没有特殊情况的时候鲜少干涉对方的宇宙。或许这一切都是编出来的；只是用来让黑皇后更加深不可测的谎言与骗局。或许吧。\n\n\n",
+    "description_link": [
+      "castling-by-hand",
+      "serpent-s-hand-hub"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Richard Davis Chappell",
+    "tag": "richard-chappell",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "绿型现实扭曲者。GoI-001，芝加哥鬼灵的创立者和前领导者。被认作是首个重要超常罪犯，在美国禁酒期间运作着国内最大的犯罪帝国，频繁买卖异常并招募了大量异常人员作为打手。他的统治以他本人于1938年的一次基金会突袭中被捕而告终。曾被编为SCP-048-ARC，因其本质促动能力后来消失，被降为相关人士。当前下落机密。\n\n老师们可不会跟你说天才是与生俱来的。\n\n打从我记事以来，我就一直梦想着加入黑帮。\n\n在Chappell被关进大牢的百年之后，关于他的谣言仍在四起。他从前真的是现实扭曲者吗？他是怎么得到他的财富与能力的？还有最重要的，他那万贯家财在他被捕后去了哪里呢？那笔黑钱就静静地躺在他的豪宅地底下，好似在等待它的主人 - 或他的继承人。\n\n\n",
+    "description_link": [
+      "big-dick-chappell",
+      "black-as-night",
+      "scp-638"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "批评家",
+    "tag": "批评家",
+    "alias": [],
+    "name_extra": [
+      "批评家"
+    ],
+    "address_extra": [
+      "the-critic"
+    ],
+    "description": " \"批评家\"是异常艺术家团体Are We Cool Yet？成员，这场运动中最接近领导者的人，向异常艺术作品提出批评。其头衔似乎是很多人担任过的职位，负责有关Are We Cool Yet？的艺术作品的资金分配与质量保障。\n正如追求自由艺术表达的团体所预料到的那样，批评家招致了许多人的强烈反感，以及从嘲讽到刺杀等等的敌对行动。",
+    "description_link": [
+      "concerto-in-d-major",
+      "alternate-character-interpretations",
+      "scp-5555",
+      "project-proposal-1990-60-a-tragedy-for-the-ages",
+      "are-we-gentrified-yet",
+      "project-proposal-2018-145",
+      "mirror-to-america",
+      "project-proposal-2024-124",
+      "cool-guys-dont-look-at-explosions",
+      "project-proposal-2024-258",
+      "jude-s-bizarre-adventure",
+      "project-proposal-2021-001",
+      "the-cool-war-hub"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "dado",
+    "tag": null,
+    "alias": [],
+    "name_extra": [
+      "dado"
+    ],
+    "address_extra": [
+      "dado-hub"
+    ],
+    "description": "超常\"药物\"制造商。贩卖诸如泻药，偏头痛药，能量饮料，生发凝胶，甜甜圈，快餐，与我的世界药水等物品。\n拥有一间由机器人运营的跨维度杂货店，生意伙伴是一只仓鼠。不确定他是否曾将一个人变成一根辣椒。\n\n尼要买dado的东西吗？\n\n那尼来对弟方了！\n\n（dado大写键怀了）\n\n\n",
+    "description_link": [
+      "scp-4193",
+      "scp-3238",
+      "scp-3802",
+      "scp-5740",
+      "scp-4348",
+      "scp-6468",
+      "scp-4525",
+      "strange-man-on-phone-interrupt-hamster-holiday-by-dado",
+      "asmr-by-dado",
+      "image-in-mail-by-dado"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Ruiz Duchamp",
+    "tag": "ruiz-duchamp",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 没名气的异常艺术家。 死了。",
+    "description_link": [],
+    "type": "相关人士"
+  },
+  {
+    "name": "工程师",
+    "tag": "工程师",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "混沌分裂者，一个意图利用异常而非收容异常的组织的神秘领导人。也许只有分裂者德尔塔指挥部的成员才知晓该组织的真正目的。\n\n只有传闻\n\n和谎言\n\n可能拥有预知能力，被德尔塔指挥部用来制定其步骤合集。似乎认识基金会的创始领导者，甚至可能是他们中的一员，但因与O5议会不和而离开并创建混沌分裂者。愿意不择手段达成分裂者的目标，包括与其他反对基金会组织合作。可能受到SCP-3005的影响，被\"直接\"撕碎了，脑袋开了一个\"洞\"。\n\n\n",
+    "description_link": [
+      "djkaktus-s-proposal-iii",
+      "slate-thunder",
+      "sc-02-000-22-000",
+      "footage-recovered-from-a-private-server",
+      "scp-3005",
+      "revolution-earth"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Eric",
+    "tag": "eric",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "与SCP-066，SCP-168，以及SCP-683有关的不明人士，推测为一能创造异常物品的孩童。其日记已被回收，但不愿给基金会提供信息。考虑到Eric所拥有的能力，拘捕该相关人士对基金会极为重要无关紧要。",
+    "description_link": [
+      "scp-168",
+      "scp-683",
+      "scp-5102",
+      "scp-1248",
+      "scp-4688",
+      "scp-6080",
+      "a-calculated-risk"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "领班赫曼·富勒",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "赫曼·富勒的不安马戏团的同名创办者。假内行，死无赖，残忍无情而没有底线。老练的魔术师兼主持人，但远没有自以为的那么聪明。\n\n你最近可听不到有关他的消息了…\n\n这是故意的。\n\n赫曼·富勒可不是什么令人爱戴的领班，而马戏团被别人接管也已成定数。在被驱逐后，富勒逃走了，又为了复仇归来。他没有成功，但他或许会回来上演一场最后的演出。\n\n\n",
+    "description_link": [
+      "the-dread-behemoth",
+      "the-sea-slug-and-the-showman",
+      "free-freaks",
+      "scp-2912",
+      "the-den-of-disquiet",
+      "herman-fuller-can-shove-it-up-his-ass",
+      "dread-circuses-hub",
+      "upside-down-cake",
+      "a-real-humdinger",
+      "there-are-no-strings-on-me",
+      "scp-3440",
+      "curtain-call"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Brainy Brian",
+    "tag": "brainy-brian",
+    "alias": [
+      "Brian Harding"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前奇妙世界！™居民兼Wondertainment博士公司玩具制造商。在一系列惨剧中离开了公司。据报告被全球超自然联盟干员杀死，但怀疑与一Marshal，Carter与Dark员工\"Neurosis博士\"有关",
+    "description_link": [
+      "dr-wondertainment-hub",
+      "we-just-make-toys",
+      "vend-a-friend",
+      "goc-hub-page",
+      "marshall-carter-and-dark-hub",
+      "phoenix-a-la-mode",
+      "somatic-backups"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "圣Hedwig",
+    "tag": "圣hedwig",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "被麦克斯韦宗教会，破碎之神教会最新的分支视作先知，崇拜WAN而非破碎之神。经过大范围机械改造，能够精神接入数字系统。与Bumaro和Trunnion，教会的另外两个分支的领导人的往来有争议，因其将崇拜WAN的麦克斯韦教徒视作异端，但面对共同的敌人时仍旧乐意合作。",
+    "description_link": [
+      "implanting-god",
+      "basic-observations",
+      "corruption",
+      "rounderhouse-gold-proposal",
+      "the-heresy-of-disassembly",
+      "the-battle-of-baikal",
+      "sfyri-kai-amoni"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "\"大干酪\"Horace",
+    "tag": "大干酪horace",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "当前位于SCP-1982内的人形实体。表现得与南方浸信会传教士类似，但其根据其布道推测是源于第五教会。其他异常的证据表明其影响不止SCP-1982，然而并无实物证据。同样，其是否为人类也无法确认。",
+    "description_link": [
+      "fifthist-hub",
+      "scp-2517",
+      "scp-2573",
+      "fifthdation"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Icky",
+    "tag": "icky",
+    "alias": [],
+    "name_extra": [
+      "Manny"
+    ],
+    "address_extra": [
+      "system_page-tags/tag/manny"
+    ],
+    "description": "据信是赫曼·富勒的不安马戏团的现任领导人。Icky充当领班，而颠倒脸人则在幕后工作。\n魔法小丑Icky据信是被该马戏团招募为小丑的诸多本质促动人形生物之一，而基金会调查指出她原本是名为Veronica Mason的无异常人类。她常常伴随着她的舞台助理兼情人，Li'l Lollipop，另一个本质促动人形生物。Lollipop与领班的关系似乎令她在马戏团内颇有特权。\n至今，基金会仍无法确认有关颠倒脸人的任何信息，包括他的脸是否真的上下颠倒。据信是马戏团\"畸形\"的领导者兼保护者，在他们的招募工作中担任重要职务。建议员工非必要不提及他，因他的名字可能有信息危害。",
+    "description_link": [
+      "dread-circuses-hub",
+      "icky",
+      "clown-town",
+      "icky-ichabod",
+      "herman-fuller-can-shove-it-up-his-ass",
+      "city-of-wonder",
+      "former-assets",
+      "scp-3329",
+      "opening-night",
+      "free-freaks",
+      "former-assets",
+      "family-ties",
+      "freaky-commodities",
+      "scp-2094",
+      "a-scip-or-a-star",
+      "how-is-your-name",
+      "not-my-circus-not-my-monkeys"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "术士Halyna Ieva",
+    "tag": "halyna-ieva",
+    "alias": [
+      "索取他人脚趾的母亲"
+    ],
+    "name_extra": [
+      "索取他人脚趾的母亲"
+    ],
+    "address_extra": [
+      "mother-who-demands-ones-toes"
+    ],
+    "description": "强大的欲肉教血肉塑形师，生于古代狄瓦帝国。现今仍然存活，与新欲肉教派\"猎手黑屋\"有关联。她的下半身被转化为大团触手，能够改造他人身体并控制他人精神，强迫其加入她的\"halkost\"，即被术士控制的异常有机实体。\n收集脚趾，动机不明。",
+    "description_link": [
+      "i-say-this-that-you-suffer",
+      "daevite-hub",
+      "tifu-by-getting-a-book-from-the-library",
+      "scp-5509",
+      "scp-2408",
+      "memoria-adytum",
+      "scylla-and-charybdis",
+      "another-soul-joins-the-halkost",
+      "toesplosion2020"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "大术士亚恩",
+    "tag": "大术士亚恩",
+    "alias": [
+      "Ozi̮rmok"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "被神化的欲肉教创始人，被称作\"内殿之术者王\"。可能是高级现实扭曲者与熟练的血肉塑形者，因异常身体改造而生物学不朽。根据欲肉教神话传说，亚恩在4000年前生于现今的西伯利亚地区，出身贫寒却领导了对抗古狄瓦的奴隶起义。推测\"大术士亚恩\"为一真实的历史人物，而非流传的头衔或者完全是神话人物，据说他建立了一个帝国并统治了上千年。推测已故，可能是在与机神教（破碎之神教会的前身）的古代冲突中被杀，因此仅有历史参考价值。\n\n我的头颅被砍下，我的骨骼被折断，我的血肉被焚烧…\n\n…我的躯体被改变，我习得了成神之道。\n\n对于术士们，尤其是亚恩这般强大的术士，\"死亡\"或许并不意味着永远。多个现存欲肉教派的目标都是复活大术士亚恩，而其他证据则表明亚恩并没有死，只是被放逐到了另一个领域，等待着他的归来。\n\n\n",
+    "description_link": [
+      "memoria-adytum",
+      "about-the-serpent",
+      "elae",
+      "daevite-hub",
+      "the-parables-of-pseudo-nadox",
+      "scp-2095",
+      "so-the-beasts-shall-plague-the-land-no-more",
+      "church-of-the-broken-god-hub",
+      "sic-semper-tyrannis",
+      "scp-4273",
+      "scp-2480",
+      "bumaro-and-ion-sat-at-a-table"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "jockjamsvol6",
+    "tag": "jockjamsvol6",
+    "alias": [
+      "JJ"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "\"反大麻玩家\"的创始成员。SCP-3015的创造者，拥有异常概率操纵能力。与大量相关人士，包括蛇之手成员在线下与线上均有关联。",
+    "description_link": [
+      "jude-s-bizarre-adventure",
+      "scp-3015",
+      "scp-4239",
+      "what-passes-as-normal-in-the-digital-age",
+      "gamers-against-weed-dossier",
+      "serpent-s-hand-hub",
+      "mr-doggo",
+      "phantom-blunt"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "约瑟芬",
+    "tag": null,
+    "alias": [
+      "绿王"
+    ],
+    "name_extra": [
+      "绿王"
+    ],
+    "address_extra": [
+      "codename-green-king-hub"
+    ],
+    "description": "强大的现实扭曲者，年轻时已出现能力。她当前能力的上限不明。与基金会收容的多个异常，以及其他相关人士有关联。\n\n仅限5级权限\n\n代号：\"绿王\"\n\n你以为我不知道你在看我吗？分明是我在看着你。如果你还算明白人，还请你别烦我。\n\n\n",
+    "description_link": [
+      "cast-on",
+      "scp-2530",
+      "the-queen-in-green",
+      "compromised",
+      "scp-1530"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "善良的人",
+    "tag": "kindness",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "这不是一个条目；这是一个洞，一个在旅途中寻觅所爱并相伴余生之人所必经的洞。他们的足迹尚存，印在书页之间。",
+    "description_link": [
+      "scp-2331",
+      "the-melody-of-autumn-passing-into-winter",
+      "scp-2772",
+      "reap-what-you-sew"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Esther Kogan",
+    "tag": "esther-kogan",
+    "alias": [
+      "lesbian_gengar"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "\"反大麻玩家\"的创始成员。拥有创造类似SCP-5218的认知危害的能力，参与了SCP-2476与SCP-2658的创造。与大量相关人士，包括蛇之手成员在线下与线上均有关联。",
+    "description_link": [
+      "jude-s-bizarre-adventure",
+      "shocking-ignorance-regarding-anything-resembling-a-structure",
+      "scp-2476",
+      "scp-2658",
+      "gamers-against-weed-dossier",
+      "serpent-s-hand-hub",
+      "the-deniers",
+      "phantom-blunt"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Jude Kriyot",
+    "tag": "jude-kriyot",
+    "alias": [
+      "bluntfiend"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " \"反大麻玩家\"的创始成员。Kriyot拥有控制电力的本质促动能力，对记忆删除与致命听觉危害免疫。与异常艺术家团体Are We Cool Yet？曾有关联。参与了SCP-1168，SCP-2293，与SCP-3015的创造。与大量相关人士在线下与线上均有关联。",
+    "description_link": [
+      "jude-s-bizarre-adventure",
+      "are-we-cool-yet-hub",
+      "different-kinds-of-nihilism",
+      "scp-1168",
+      "scp-2293",
+      "scp-3015",
+      "gamers-against-weed-dossier",
+      "phantom-blunt",
+      "the-assassination-of-beleaguered-normalcy-by-the-coward-game"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Mary-Ann Lewitt与Salah Zairi",
+    "tag": "lewitt-zairi家族",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "地平线倡议干员。自从Lewitt在服过军役后被招募入牧羊人集团便一直共事。参与了协同基金会和全球超自然联盟的联合行动。\n两人已婚，育有一女，Naomi Ibtisam Zairi-Lewitt。该家族与SCP-089之间的关联属于机密。",
+    "description_link": [
+      "etdp-hub-page",
+      "just-a-word-to-me",
+      "shepherds",
+      "goc-hub-page",
+      "second-watch",
+      "the-place-where-two-rivers-meet",
+      "nor-gloom-of-night-shall-stay",
+      "scp-089",
+      "empire-of-dirt-part-1"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Holly Light",
+    "tag": "holly-light",
+    "alias": [
+      "Wondertainment博士"
+    ],
+    "name_extra": [
+      "Wondertainment博士"
+    ],
+    "address_extra": [
+      "dr-wondertainment-hub"
+    ],
+    "description": "奇妙世界™居民，\"Wondertainment博士\"这一头衔的当前持有者。曾任该公司前台，现任首席执行官。希望弥补她的前任所做的不够道德之举。愿意为公司指引新方向，为孩子们带来更多产品。",
+    "description_link": [
+      "jim-north-s-proposal",
+      "wonder-world-dossier",
+      "what-a-wonderful-world",
+      "scp-3879",
+      "this-toy-facsimile-of-life",
+      "scp-4468",
+      "scp-445-ex"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "特工Priscilla Locke",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 自称另一时间线的基金会特工。据报告一名与\"特工Locke\"描述相同的跨性别高中生于1996年失踪。她的遗体被回收，并由其妹，前MCF主管Rhiannon Locke确认。Locke女士称对最近看到的Priscilla Locke及其与玛娜慈善基金会所谓的关联一无所知。无法确定\"特工Locke\"是否拥有基金会财产，以及一被称作\"Anabasis\"的未回收异常项目。",
+    "description_link": [
+      "change-the-world",
+      "first-locke-donation",
+      "manna-charitable-foundation-hub",
+      "scp-2084"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Klavigar拉娃塔",
+    "tag": null,
+    "alias": [
+      "高等血救主"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "欲肉教派中倍受尊崇的四位Klavigar之一，也被称作大术士亚恩最欲者，与爱，性亢奋，母性，疾病，和癌症相关。拉娃塔曾是一名狄瓦女族长的女儿，一开始反对亚恩向狄瓦发起的叛乱，但随着时间的推移，她对他的执着变成了迷恋。在两人相爱之后，她同他立下盟约推翻狄瓦帝国。她在内殿陨落亚恩消失后行踪不明，可能是在耐心地准备着预言之中亚恩的归来，也有可能已经自立门户。",
+    "description_link": [
+      "poisoned-honey",
+      "daevite-hub",
+      "et-sanabitur-anima-mea",
+      "lovataar-throne",
+      "unbearable-hope",
+      "of-lovataar-and-liberation",
+      "a-most-contentious-reunion",
+      "an-assembly-of-sarkics"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "L.S.",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "蛇之手相对激进的领袖之一，从未被目击过。L.S.的追随者收到过他们神秘领袖的信件，书籍，物品，还有其他的礼物，但没人能记起来L.S.长什么样 - 但他们非常肯定自己确实见过\"他\"/\"她\"/\"它\"。对严重突破基金会安保得心应手；从未被目击或被捕过。\n\n我和你预料的不一样\n\n相信我。\n\n\"他\"可能是虚构的，不过是蛇手成员用来识别友军的暗号，代表\"署名出租Lease Signatory\"。若非虚构的，则必定是受SCP-268影响。不确定是否为Alison Chao，又称\"黑皇后\"，首字母代表\"小姐妹Little Sister\"。L.S.可能代表的其他含义包括\"孤独之蛇Lonely Serpent\"，\"终末圣徒Last Saint\"，\"迷失罪人Lost Sinner\"，\"疤唇洛基Loki Scar-lip\"。无论如何，L.S.绝对算得上蛇手中唯一倍受尊重的\"领袖\"；不过，L.S.也是少数将SCP基金会作为主要目标的人之一。（其他的蛇手领袖通常会将全球超自然联盟视作首要目标，基金会则排在其次。）\n\n\n",
+    "description_link": [
+      "queen-s-gambit",
+      "scp-268",
+      "family",
+      "prisoners",
+      "scp-407",
+      "scp-268",
+      "black-queen-hub",
+      "goc-hub-page"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Rukmini Mankanshoku",
+    "tag": null,
+    "alias": [
+      "菜鸟"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": " 芝加哥幽灵的两把交椅之一，恶名昭彰的芝加哥鬼灵犯罪网络的诸多继承者之一。她在超常世界里东奔西走，高耗能犯罪行动的能量源自恶魔召唤。\n据称被囚禁于超禁所内，但声称是被另一个宇宙的自己所陷害的。",
+    "description_link": [
+      "chicago-spirit",
+      "zeitgeist",
+      "hypervelocity",
+      "terminal-velocity",
+      "australian-rules",
+      "paramax",
+      "the-vice-girls"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Marshall先生，Carter先生，与Dark先生",
+    "tag": null,
+    "alias": [],
+    "name_extra": [
+      "Dark先生"
+    ],
+    "address_extra": [
+      "poi-dark"
+    ],
+    "description": "Marshall，Carter和Dark，一个通过贩卖异常物品获得权势的组织的领导者兼创始人。关于该组织最高管理层的信息首先且往往矛盾，可能是因同一家族的多代成员都与此关联，包括相关人士Iris Dark女士。\n\n尊敬的Marshall先生，Carter先生…\n\n…和Dark先生。\n\n关于Marshall和Carter的报告相差甚远。许多报告将Carter描述为只能坐轮椅，而Marshall表现得更加年轻；但这些报告则与其他资料完全相反。报告称Carter之所以坐轮椅是因为用异常手段延寿，似乎是利用一个装在轮椅后的袋子里昏迷的（但仍有意识的）人类增加寿命。另有传闻指出\"Amos\" Marshal以人类灵魂为食，\"Ruprecht\" Carter则能够将意识传送到不同的身体里。\nDark的外貌与特质还要更令人摸不着头脑，但关于Dark（有时写作Darke）的报告大致分为三类。第一类将Dark说成是过去几百年里由多人（大多是男性）担任的职位。第二类将Dark描述成一个半不朽的智能实体，本身为人形但外表可能不尽然，可能可以根据特定目的改变其体态与性别。第三类则称两者均属实，一位年岁极高的\"Percival\" Darke与一位年轻的\"代理人\"（许多个里面最新的一个）同时存在。\n似乎Marshall和Carter也不能完全理解Dark。在处理最困难的行动时，Dark对于MC&D的控制权比其余两人都要多，而且远比Marshall和Carter要早一步出手。奇怪的是，Dark似乎比MC&D本身要仁慈得多 — 不论是谁，其道德观念更加合情合理，尽管其能做到的禽兽之举远超该组织的能力范围。\n有些说法称MC&D的\"初级合伙人\"，实际上是上述\"高级合伙人\"的子嗣。包括冒险者兼探险家Skitter Marshal，贪图享乐的花花公子Robert Carter，以及科研奇才Iris Dark，超常科技研发与收购部部长。\n\n\n",
+    "description_link": [
+      "acquisitions1",
+      "from-vagrants-to-gentlemen",
+      "scp-4566",
+      "third-death",
+      "system_page-tags/tag/iris-dark",
+      "acquisitions2",
+      "mc-d-agent-orientation",
+      "acquisitions3",
+      "third-death",
+      "poi-dark",
+      "a-darke-tale-new-age",
+      "when-situations-degenerate",
+      "so-they-called-him-darke",
+      "the-boy-who-cried-wolf",
+      "dark-and-disquieting",
+      "scp-3549",
+      "a-question-of-commerce",
+      "scp-5802",
+      "wills-and-ways-hub",
+      "all-that-glisters",
+      "skitter-marshall",
+      "robert-carter",
+      "iris-dark",
+      "the-dark-web-dke79-o2rg5-4jlw6",
+      "mcd-smart-hex",
+      "osteotronic-cubes-vxy33-f7rq3-9xad1",
+      "micky-d-s"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Midnight",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "有智能的母猫， 蛇之手内倍受尊敬的成员兼蛇巢代表。因奇术训练获得异常能力，又称\"魔法\"。\"门径\"专家 - 见被放逐者之图书馆档案。在回收到的文件内姓名常被缩写为\"M\"。\n\n你要我干喵？\n\n喵。\n\n全球超自然联盟学者的前科研项目；退休法师的\"使魔\"。其主人在不寻常的情况下身亡，研究被不明势力中止。\n\n\n",
+    "description_link": [
+      "serpent-s-hand-hub",
+      "the-deathless-merchant-of-london",
+      "searching-for-the-demon-foxes-1",
+      "another-goddamn-magic-system",
+      "wanderers-library-hub",
+      "the-grove-of-exiles",
+      "goc-hub-page",
+      "goc-supplemental-thaumatology",
+      "goc-supplemental-arad"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Klavigar纳多克斯",
+    "tag": "纳多克斯",
+    "alias": [
+      "无舌说客"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "欲肉教派中大术士亚恩最亲近的使徒，倍受尊崇的四位Klavigar之一，与情报，智慧，感知，和神秘相关。据欲肉教神话传说，纳多克斯曾是一名为贫苦百姓打抱不平的游说传教士，后来被狄瓦族擒获，肢解，指派为\"受难者\"，遭受酷刑却不得好死。不知何时，纳多克斯开始追随一个人，即是将来的大术士亚恩。对于他在内殿陨落之后的活动知之甚少，但他据说活到了今日，耐心等待着合适的时机重振旗鼓。",
+    "description_link": [
+      "the-parables-of-pseudo-nadox",
+      "ancestrecall",
+      "daevite-hub",
+      "and-the-fact-it-rains",
+      "of-nadox-and-the-ozirmok",
+      "but-thou-shalt-not-despair",
+      "nadox-and-the-mekhanite",
+      "memoria-adytum",
+      "patience",
+      "the-first-occult-flame-war"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Nobody",
+    "tag": null,
+    "alias": [],
+    "name_extra": [
+      "Nobody"
+    ],
+    "address_extra": [
+      "nobody-hub"
+    ],
+    "description": "一名似乎受到异常影响的人员，抹去了其身份而获得了异常能力。不确定是否有多人参与（但一次只有一个）。常被描述为无法确认身份的欧洲男子，身着灰色西装与软呢帽（值得注意的例外包括同样无法确认身份的女子，身着灰色西装，软呢帽，与紫色领带。）\n\n没有人知道。\n\n没有人在此。\n\n基金会里无人知晓Nobody究竟是支持或是反对基金会；若报告属实，则答案为\"皆有\"。然而，还是有许多人怀疑\"他\"的存在。可以确认与\"Nobody\"相关的许多事件实际上与此人毫无关系。\n\n\n",
+    "description_link": [
+      "a-poem-for-nobody",
+      "nobody-dies",
+      "the-man-who-wasnt-there-hub",
+      "note-a-part-of-nobody",
+      "happy-birthday-from-nobody",
+      "they-call-him-he-who-cannot-see-his-reflection",
+      "killing-knowledge",
+      "library-lifeline",
+      "nobody-knows"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Damien Nowak",
+    "tag": "damien-nowak",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "领导\"孩子们\"，崇拜一个名为\"父亲\"的实体的邪教。狂热地致力于将人类优秀的土地归还给精灵族与夜人族。他的前门生，Daniel Asheworth，以及一队Site-120员工横跨整个波兰追捕他。\n\n而现在…\n\n…没有人能够阻止她。\n\n在他被Asheworth杀死又被SCP-5572复活后，Nobody — 原先的Nowak — 正在竭力阻止名为麦布女王的多功能实体归来。\n\n\n",
+    "description_link": [
+      "scp-1000",
+      "a-library-empty",
+      "from-120-s-archives-hub",
+      "and-every-time-we-meet-again-hub",
+      "scp-5672",
+      "scp-5572",
+      "the-lands-nobody-returns-from",
+      "gaslight-gatekeep-girlboss-hub",
+      "ralliston-s-proposal"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Klavigar欧若科",
+    "tag": "欧若科",
+    "alias": [
+      "蛮主"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "欲肉教派中大术士亚恩最亲近的使徒，倍受尊崇的四位Klavigar之一，与力量，暴力，忠诚，和背叛有关。根据传说，被奴役的角斗士和守卫欧若科重获自由后加入了亚恩对抗狄瓦帝国的反抗军，但其他说法则称他为对狄瓦发动战争的勇士，甚至是在他遇到亚恩之前…\n现如今，欧若科被肢解的躯体正埋藏在莫斯科的土地下，被一个名为猎手黑屋的欲肉教犯罪集团崇拜。尽管不清楚欧若科是否存活，他确实有可能在将来再度苏醒，把他的力量奉献给新的事业。",
+    "description_link": [
+      "such-a-world-as-this",
+      "daevite-hub",
+      "of-orok-and-the-ozirmok",
+      "scp-2408",
+      "sarkic-heat",
+      "god-meat-s-back-on-the-menu"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Judith D. Papill",
+    "tag": "judy-papil",
+    "alias": [
+      "巧舌Judy"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "奇妙世界！™的终身居民兼Wondertainment博士甜品与消耗品部门主席。性格和蔼可亲，认真处理Wondertainment任务。就和许多奇妙世界！™的居民一样，\"巧舌Judy\"拥有异常身体改造，具体来说是一条近2米长的适于抓握的舌头。",
+    "description_link": [
+      "what-a-wonderful-world",
+      "dr-wondertainment-hub",
+      "scp-2983",
+      "we-just-make-toys",
+      "scp-445-ex",
+      "wonder-world-dossier"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Theresa Arianna Petrucci",
+    "tag": null,
+    "alias": [
+      "阿默斯特之霾Dunst Amherst"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "极右政治活动家，疑似GoI-014-DE（\"第四帝国\"）超常军事家。曾与美国激进女权艺术团体协作，在其解体不久后离开该国。虽然她当前工作于一家帷幕外科研公司，证据表明她可能与多个相关组织中\"黑蝇\"化合物的扩散有紧密关联。",
+    "description_link": [
+      "bawarao-hub",
+      "how-to-remove-glitter-from-a-polyester-dress",
+      "a-cloud-over-lichtenberg",
+      "scp-3178"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "polaricecraps",
+    "tag": "polaricecraps",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "\"反大麻玩家\"成员，因创造了\"狗狗先生\"与SCP-2826，以及参与制作了其他诸如SCP-2586和SCP-2658的政治相关异常而被视作相关人士。异常能力不明。英籍，居住于美国。",
+    "description_link": [
+      "mr-doggo",
+      "scp-2826",
+      "scp-2586",
+      "scp-2658",
+      "gamers-against-weed-dossier"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Klavigar撒恩",
+    "tag": "撒恩",
+    "alias": [
+      "曲影"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "欲肉教派中倍受崇敬的四位Klavigar之一，与黑暗，欺诈，毒，和正义相关。欲肉教神话将她描述为狄瓦家仆，因杀死了她的主人而被判处死刑，后来被大术士亚恩本人救出。她被称作亚恩的刺客兼间谍，现存狄瓦文献上的象形文字记录了她的刺客网络之残忍高效。\n对她在内殿陨落后的活动知之甚少，但她据说活了下来，而且仍旧对亚恩保持忠诚，继续刺杀欲肉教的敌人。基金会正在监视一个可能与之有关的相关人士。",
+    "description_link": [
+      "daevite-hub",
+      "tuae",
+      "of-saarn-and-jade-tongues",
+      "old-daevite-language",
+      "memoria-adytum",
+      "unto-the-ages",
+      "of-saarn-and-the-ozirmok",
+      "exierunt",
+      "scp-2834",
+      "scp-5480"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "土星杜鹿",
+    "tag": "土星杜鹿",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "连环转生者，常常冒充预言家。拥有尚未完全理解的文本操控能力，与他过度膨胀的自尊直接相关。他的目的不是玩弄某人，就是羞辱某人，在或者两者皆有。",
+    "description_link": [
+      "letters-to-a-prophet",
+      "letters-to-a-prophet-2-scry-harder",
+      "scp-2312",
+      "scp-2710",
+      "scp-1710"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Kenneth Spencer",
+    "tag": "kenneth-spencer",
+    "alias": [],
+    "name_extra": [
+      "Robin Thorne"
+    ],
+    "address_extra": [
+      "system_page-tags/tag/robin-thorne"
+    ],
+    "description": "两位被派遣至三波特兰的UIU特工。对于两位特工的调查是基金会的持续任务。他们曾在多种情况下与基金会合作，包括在一次在一次针对安德森机器人全球总部发起的基金会/UIU联合突袭中发挥关键作用。两名特工均为联合特遣队Delta-3（\"有机自由贸易\"）成员，特工Spencer则负责指挥特遣队在三波特兰境内的行动。\n特工Thorne为经过中等超自然训练的天生奇术师；特工Spencer据信无异常，但对超常事务经验丰富。两位特工在外勤任务中频繁使用超常科技与超自然设备，除了标准UIU配置之外也使用了大量定制器材。就能力与效率而言，两人均被视为与基金会特工大致相当。",
+    "description_link": [
+      "unusual-investigations",
+      "permanent-waves",
+      "anderson-robotics-hub",
+      "the-blackbird-and-the-falcon"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Sylvain",
+    "tag": null,
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "训练中的鸟法师，在被询问时用\"Ailier\"充当姓氏以示礼貌（称其姓氏只有鸟类才能正确发音）。有许多住在森林里的朋友。蛇之手与被放逐者之图书馆成员，时常干扰基金会特工。",
+    "description_link": [
+      "birdseed",
+      "serpent-s-hand-hub",
+      "wanderers-library-hub",
+      "ailier"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Trunnion特使",
+    "tag": "trunion特使",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "齿轮正教教会，破碎之神教会三个分支之一的领导人。经过植入蒸汽与齿轮动力义肢的\"标准化\"改造。与Bumaro和Hedwig，另外两个分支的领导人的来往有争议，因其使用齿轮正教教会视作异端的技术但面对共同的敌人时仍旧乐意合作。",
+    "description_link": [
+      "the-deniers",
+      "variations-on-a-schema",
+      "the-heresy-of-disassembly",
+      "the-battle-of-baikal",
+      "sfyri-kai-amoni"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "A██████ W█████教授",
+    "tag": "aw教授",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "维多利亚时代超常工程师，于1914年逝世。在基金会收容中的多个异常物件上刻有其专属的\"AW\"铭文。他的许多发明似乎都与他的妻子，一个名为\"Nora\"的女子有关。",
+    "description_link": [
+      "scp-733",
+      "scp-1408",
+      "gone",
+      "scp-4733"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "提姆·威尔逊",
+    "tag": "提姆·威尔逊",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "南部动物管理员，威尔逊野生动物应对组创始人。该组织坐落于俄勒冈无聊镇，基本上支持保护常态，负责多个Safe与Euclid级动物项目的收容。育有一女，Faeowynn \"Fae\" Wilson，与二子，Anders Wilson与Robin Wilson，均有参与家族事业并被视作额外的相关人士。",
+    "description_link": [
+      "wilson-s-wildlife-solutions-hub",
+      "scp-3466",
+      "the-ursus-maritimus-incident",
+      "scp-3465",
+      "scp-3577",
+      "take-it-away-my-darling",
+      "system_page-tags/tag/faeowynn-wilson",
+      "anders-robin"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Isabel Helga Anastasia Parvati Wondertainment五世",
+    "tag": "isabel-v",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "拥有巨大创作潜能的年轻女子。不论怎么想都不是什么普通的玩具商。总是伴随着她处事不惊的女助理Emma Aieselthorpe-Brown，还有她的宠物柯基（们）Jeremy。\n她与\"小小先生\"系列间并非直接有关联，而是通过老一任的Wondertainment博士头衔拥有者与之联系。她只是这个名字的诸多继承者之一。\n\n有点不可思议吧？\n\n这么想就对了！\n\n字面上的卡通人物，可能是个救世主角色。可能是Wondertainment电影与广播部门虚构的，但也有可能是真实的。有点让人摸不着头脑。\n\n\n",
+    "description_link": [
+      "a-funeral-on-mars",
+      "system_page-tags/tag/mister",
+      "miss-heir",
+      "empty-unmarked-grave",
+      "dr-wondertainment-hub",
+      "jim-north-s-proposal",
+      "the-real-adventures-in-capitalism",
+      "when-we-came-home",
+      "do-they-know-it-s-christmas-time-at-all",
+      "how-is-your-name",
+      "the-really-really-real-adventures-in-capitalism"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "Thilo Zwist",
+    "tag": "thilo-zwist",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "十七世纪奥地利模因学家，Schriftsteller的最后一个成员。通过未知机制存活至今，意图对抗GoI-5054（Giftschreiber）。名义上与Site-43及基金会联手应对北美的攻击性模因活动，时不时也会更直接地协助基金会。度过了漫长而精彩的一生，可能正在训练学徒。当前编为SCP-6382。",
+    "description_link": [
+      "scp-5054-ex",
+      "secure-facility-dossier-site-43",
+      "on-guard-43-hub",
+      "pickman-blank-proposal",
+      "the-b-b-decommission",
+      "the-good-work",
+      "scp-5813",
+      "scp-5734",
+      "scp-6382"
+    ],
+    "type": "相关人士"
+  },
+  {
+    "name": "O5-1",
+    "tag": null,
+    "alias": [
+      "奠基人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。已确认超人类寿命；至少148岁。外貌多变。\n来自基金会前身超自然组织的一位留任者，所以除了SCP-006外他似乎还受益于其他维生技术，而且似乎持有相当程度的异常性保护。有提及描述\"身裹另外12个没有的碎布与骨\"；明显有超自然含义。\n可能是最初管理员的一个身份，然而另有多份报告指出管理员身份为另一无关人员（\"F. Williams”）。\n有确凿证据表明他生于19世纪晚期（可能是1866年），名为\"Aaron Siegel\"。已确定在1891年有一位名为Aaron Siegel的物理学家在康奈尔大学进行研究，并在此年之后再无任何历史记录。该事件时间与我们所知的O5-1活动时间不符，但考虑到他的职位和曾经发生过的现实重构事件，这也完全是有可能的。\n有传言称他是Gears的父亲。若此为真，即代表他是黑皇后的爷爷 — 我的爷爷.\n根据某些报告而言可能已经失踪，当前下落不明。可能已身亡。\n有两份相矛盾的目击记录。一次同O5-2一起，现身为一极度衰老的男性。另一次出现在地堡的安保摄像内，现身为一青年。\n _\n\"衔尾\"档案也将O5-1指认为\"Aaron Siegel\"，描述为一高加索男性，大约三十多岁。与此前表明O5-1为一康奈尔大学研究员与基金会创立者点描述相符。据称O5-1已随时间推移减少了基金会活动，鲜少（如有）离开监管者指挥部（位置不明）。有传言称已身亡，但仍在例会上投票。可能与另一位O5-1，\"无限枪男\"为同一人。",
+    "description_link": [
+      "scp-006",
+      "ecceperago",
+      "damnatio-memoriae",
+      "scp-6099",
+      "djkaktus-s-proposal-iii/offset/1",
+      "document-001-o5",
+      "annon",
+      "loosen-up-a-bit",
+      "document-001-o5",
+      "playing-god",
+      "the-exalted",
+      "in-a-yellow-wood",
+      "damnatio-memoriae",
+      "djkaktus-s-proposal-iii/offset/1",
+      "djkaktus-s-proposal"
+    ],
+    "type": "O5-1"
+  },
+  {
+    "name": "O5-1",
+    "tag": null,
+    "alias": [
+      "无限枪男"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自西班牙。自03/22/1926之后从未现身。\n曾经是某个基金会前身超自然研究组织的高层职员，曾领导指挥部研究小组\nOmega-5，负责\"神之双子\"，位于墨西哥圣马可的顶级机密项目。曾参与建造宇宙级超武器\"孩子们\"来消灭位于北非的敌对现实重构组织\"地狱王国\"。\n谋杀了第一任管理员（\"Frederick Williams\"）并窃走了上述武器的启动方式，随后便与一大批高层职员叛逃消失。可能成立了相关组织混沌分裂者（可能与其首领\"工程师\"有关？），尽管上述关联除了一份可疑文件外并无证据支撑。\n叛逃目的不明。虽然可能有其他方法延长寿命，当前可能已不在世。若仍存活，则声掌握随时随地瞬间堙灭宇宙中任意目标的能力。极其危险。",
+    "description_link": [
+      "djkaktus-s-proposal",
+      "chaos-insurgency-hub",
+      "djkaktus-s-proposal-iii"
+    ],
+    "type": "O5-1"
+  },
+  {
+    "name": "O5-1",
+    "tag": null,
+    "alias": [
+      "死人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，血统不明，来源不明。极少甚至可能从未被直接目击。\nO5议会现存年龄最大的建立成员，技术上已死亡。因为异常改造和全然的意志力得以存活；身体已经木乃伊化，在生物学上理应脑死亡。\n从未公开现身。必须现身时只会派出替身代表。只通过中间人联络工作。有某种可怕的威望；其余O5议会成员似乎都害怕他。",
+    "description_link": [],
+    "type": "O5-1"
+  },
+  {
+    "name": "O5-1",
+    "tag": null,
+    "alias": [
+      "夏娃"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，非洲血统，来自古苏美尔。已确认超人类寿命；声称已有10,000-15,000岁。外貌多变。\n自称\"亚当的第三位妻子\"，现在人类社会之母。可能为SCP-076-2与SCP-073之母。声称她（与亚当）并非最初诞生的人类，而是第一批人类农耕社会的领袖（有可能；细节多变），将人类带出伊甸园。\n声称亚当是（或者后来成为）一名现实扭曲者，而自己无异常。相反，她拥有通过\"锚定\"来防止现实重构的能力（与几位基金会职员相似，比如说现任管理员与Alto Clef博士）。提及到的项目：SCP-1000，SCP-2932，与现实重构瀑布。\nO5-1为SCP基金会的非自愿创立成员。作为将人类带出伊甸园的领导者，她认为自己有责任引领人类走过不确定的将来。有报告表明她时常与O5议会的其他成员不和。\n虽然有可能是共用同一O5编号，多份引用了\"夏娃\"的报告同时表明\"奠基人\"的存在，并且指出了他们之间讽刺的互动。\n她看上去像个有趣的人。如果她真的存在，我倒想会会她。指不定跟她交个朋友。说不定杀了她。",
+    "description_link": [
+      "scp-076",
+      "scp-073",
+      "beneath-two-trees",
+      "scp-1000",
+      "scp-2932",
+      "goc-or-that-guy-with-a-gun-fetish"
+    ],
+    "type": "O5-1"
+  },
+  {
+    "name": "O5-1",
+    "tag": null,
+    "alias": [
+      "远见者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自英国。貌约55岁。曾隶属女王陛下超常安保收容基金会。紫禁城公约签署人和发起者。\n坚信基金会的的建立是\"上天的旨意\"。有宗教背景还是误导？\n可能以歼灭为威胁强迫了其他前身组织组建基金会？但为何是这几个组织？它们拥有什么特点？",
+    "description_link": [
+      "wrong-proposal"
+    ],
+    "type": "O5-1"
+  },
+  {
+    "name": "O5-2",
+    "tag": null,
+    "alias": [
+      "园丁"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，欧洲血统，来自美国。貌约80多岁，实际年龄不明。无反常外貌，但总是戴着披巾，手套，与帽子。\nO5-2为基金会主管Sophia Light博士的另一版本，来自于一条被抹消时间线的遗民（她似乎有参与此次抹消）。她与现任Site-41主管Sophia Light相差甚远，而后者对其平行版本的身份一无所知。即使与其他O5相比也极度危险。以善于做出艰难而实用的决策而闻名，但据说有祖母般的性情与容貌。\n支持对所有的SCP项目与异常项目开展研究。尽管基金会对收容与研究的态度摇摆不定仍旧坚持其立场。推动了对多个异常项目进行合理研究的交互测试。实施了更高等级的基金会非SCP异常项目分类法。坚定的实用研究（及推进实用研究的理论研究）支持者，认为其能在长远发展上最大程度造福基金会。希望解构异常以供基金会理解。\n鲜少公开露面。据某些来源指出，她经常有一老年男子相伴 - 可能也是另一基金会现任职员的平行版本？\n持有许多对O5议会极其关键的SCP项目，特别是SCP-006。",
+    "description_link": [
+      "ecceperago",
+      "annon",
+      "yesterday",
+      "the-high-court-with-the-magic-army",
+      "capitis",
+      "the-high-court-with-the-magic-army",
+      "scp-006"
+    ],
+    "type": "O5-2"
+  },
+  {
+    "name": "O5-2",
+    "tag": null,
+    "alias": [
+      "拿撒勒人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，中东血统，来自以色列。外貌多变；常被认作男性。有与十字架刑相同的伤痕（手腕与脚有明显伤痕，鞭痕等等）。\nO5-2为基金会职员Sophia Light的另一版本，可能是来自于一条被抹消时间线的遗民，或者有可能是初始版本的Sophia Light（即公开版本实为一复制品，或来自一条先前/平行时间线的同一人）。她似乎与公开版本的Sophia Light在性格与外貌上相似（种族除外），但因生活经历的完全不同而有所区分。公开版本的Sophia Light对其平行版本的身份一无所知。\nO5-2拥有多种现实扭曲能力，其能力上限未知。可能取得神性。\n回收数据文件L246-A1780B23971C20987D091\n _\n\"衔尾\"档案声称其头衔与她的伤痕有关（通常因戴黑手套而不可见）并且不可思议地指出她曾作为拿撒勒的耶稣被施以十字架刑。大致貌为20多岁，但有时看上去更老。与O5-1\"奠基人\"有紧密联系，从未目击到与他分开。可能曾为基金会道德部门的领导人，伦理道德委员会的发起人。",
+    "description_link": [
+      "recovered-data-file",
+      "djkaktus-s-proposal-iii/offset/1",
+      "ethics-committee-orientation"
+    ],
+    "type": "O5-2"
+  },
+  {
+    "name": "O5-2",
+    "tag": null,
+    "alias": [
+      "路"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约50多岁，实际年龄不明。无反常外貌。\nO5-2为一基金会职员Sophia Light博士的另一版本，可能是一被抹消时间线的遗民，或是一平行时间线的外来者。他与现任Sophia Light在各个方面都相似，除了性别，年龄，与名字：\"Stefan\"。\n他到哪里都有一名疑似反常的秘书/保镖陪同，似乎与其有浪漫关系。她名为Tracy Lament，似乎是基金会职员Troy Lament特工的另一版本，与O5-2起源相同。\nLight博士与Lament特工均对其平行版本的身份一无所知。\nO5-2始终坚持对一基金会政策的根本性改革：被基金会完全理解的异常项目应该被解密并向非异常科学界公开（即使与其当前常态标准与科学定律相悖）。目前为止，他在此方面的努力因遭到O5议会其他成员的反对而成效甚微。",
+    "description_link": [],
+    "type": "O5-2"
+  },
+  {
+    "name": "O5-2",
+    "tag": null,
+    "alias": [
+      "等待之人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自法国。貌约60多岁。曾隶属黑庄园。紫禁城公约签署者。DNA测试表明其为Sophia Light的祖先\n基于热力学第二定律提出了一个异常进程模型，但遭到O5议会其他成员的反对。自从有记录的第一次会议以来就通常投\"弃权\"票。\n敲定了术语\"Keter\"。与通常的翻译\"王冠\"不同，\"等待之人\"将\"Keter\"译作\"等待\"。等待什么？\n下文岁摘录自O5-2撰写的文件：\n\n…等到那时，系统就会出现混沌。我曾经提议指引世界回到最原始的状态，但其他人都不赞成专横暴行…\n\n'不赞成…专横暴行' –> 分裂者\n可能为混沌分裂者成员/建立者/支持者？需要更多研究。",
+    "description_link": [
+      "wrong-proposal",
+      "chaos-insurgency-hub"
+    ],
+    "type": "O5-2"
+  },
+  {
+    "name": "O5-2",
+    "tag": null,
+    "alias": [
+      "档案员"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "O5-2为一人工智能。\n根据某些报告所言，O5-2最初是由其他基金会成员使用机神教技术构建的。这名O5-2因其分析能力与运算能力被看重，在议会中起到克制和理性分析的作用，但是从未被其他议会成员完全信任。\n有多份最近的报告确认仍有一人工智能在议会中作为O5-2任职。目前不清楚改实体是否为原本的O5-2，如果属实，则其可能在过去的时间内整合了更多先进技术。\n多份提及这一版本O5-2的文件将其称为\"Sophia\"，一个在机神教传说中具有重要历史意义的机械先知，据记载背叛了教会并投敌。",
+    "description_link": [
+      "sunny-art-personnel",
+      "ralliston-s-proposal",
+      "church-of-the-broken-god-hub",
+      "many-last-words",
+      "scp-6500",
+      "excerpts-regarding-st-sophia"
+    ],
+    "type": "O5-2"
+  },
+  {
+    "name": "O5-3",
+    "tag": null,
+    "alias": [
+      "小孩",
+      "全视之眼"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性（？），欧洲血统（貌似），来源不明。貌约17-19岁，但确定更老。总是有金色长发，眼镜，打补丁的牛仔外套，以及一骨质耳环。从未亲自露面；仅通过电脑终端沟通。\n通常表现为男性，有时为女性，有时为非二元/其他性别。其从未对此作出解释。有线人跟我说这是电脑错误；我觉得这更有可能是故意的。\n原始身份不明。多份情报称他（？）已经身亡，只是作为一人工智能储存在他建造的电脑矩阵里。性格通常极其友好。在某些站点相对活跃。\n许多传言坚称O5-3为SCP-2772的哥哥（有可能），甚至参与了60年代互联网的发明（未确认）。\n或许从未作为人类存在 - 可能是基金会记录中提及的人工智能\"全视之眼\"。\n _\n\"衔尾\"档案将\"小孩\"与一张来源可疑的韩国儿童的照片联系在一起，当前仍对该照片持怀疑态度。O5-3的真实外观未知。\n据报告，O5-3为基金会档案记录与信息安全部门的领导人，掌管基金会一切数据资料。可能有预测未来事件，甚至是超自然事件的能力。是不是只是利用所有的数据进行分析，还是使用了异常方式？",
+    "description_link": [
+      "goc-or-that-guy-with-a-gun-fetish",
+      "ecceperago",
+      "scp-2772",
+      "scp-0000-ex",
+      "djkaktus-s-proposal-iii/offset/23"
+    ],
+    "type": "O5-3"
+  },
+  {
+    "name": "O5-3",
+    "tag": null,
+    "alias": [
+      "哲学科学家"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，东亚血统，来自日本。貌约60多岁，真实年龄不明。无反常外貌。\n早在第一次世界大战结束后的30年代就加入O5议会。因关心科技对社会的影响而闻名；强烈反对社会达尔文主义。\n主要起警示作用；O5议会的\"良知\"，然而常被其他成员打压，以致批准了许多他并非完全认可的基金会项目。\n帮助成立了伦理道德委员会。可能仍在该组织（如果仍然存在）中起到领导作用。\n在成为O5议会成员后又获得了临床心理学博士学位。最早对基金会职员进行心理检查的负责人。",
+    "description_link": [],
+    "type": "O5-3"
+  },
+  {
+    "name": "O5-3",
+    "tag": null,
+    "alias": [
+      "信标"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约50多岁，实际年龄不明。外貌多变。\n毕生研究多种控制大规模人群的方法。尤其迷恋宗教迷信。被其他O5成员劝服利用大规模人群牟利。\nO5-3保持神秘感。他在某些报告中被描述为超自然人物，但也有报告称其平平无奇。这通常可以用宗教相关的操纵解释，但作为O5成员无法排除已经获取了神性。\n可能与罗恩哈伯德有关。",
+    "description_link": [],
+    "type": "O5-3"
+  },
+  {
+    "name": "O5-3",
+    "tag": null,
+    "alias": [
+      "隐士"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自俄罗斯。貌约80岁。有显眼的胡子。曾隶属沙皇先知会。紫禁城公约签署者。\n很容易被多数人牵着走，即使多数意见并非其本来观点。\n只与其他O5议会成员直接接触。仅通过书信对下属传达命令。已知持续留在监督者总部。可能守着秘密？",
+    "description_link": [
+      "wrong-proposal"
+    ],
+    "type": "O5-3"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "大使"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，澳洲（古利）血统，来自加拿大。40多岁。无反常外貌。出生时被指派为女性。\n前基金会外勤人员。多次目击记录；不同于O5议会的其他成员，时常与外来异常相关组织的特工与代表接触。\n他也为管理员担任更传统的大使职务，与各国首脑和高等组织的领导人私下会面，诸如全球超自然联盟/联合国等以协商基金会与各国的交涉等事宜。相当多外交成果都归功于他。\n据说能够在极短时间内 - 徒步 - 跨越超长距离。对于个人信息公开，但关于此能力的细节仍不明朗。\n附：为什么他老是能找到我？而且为什么不把这件事跟基金会通报？可能受机密/异常规则限制。需要进一步调查。\n下文摘自截获的通信：\n\n干了点外勤工作，在正确的时间出现在了错误的地点。有点外交手段，结果有好几年都被派去跟那些相关组织打交道。非常善于此道。太善于了，真的。\n还有一个让他晋升的原因是他干活干得贼拉好，就是不太能靠得住，因为他去了不该去的地方，守着不该守的秘密。\n他忠诚那是不用问的。关键是他远足还挺有一手的。\n\n _\n\"衔尾\"档案同样将\"大使\"描述为基金会的门面，但是在各个细节均有差异。他被形容为波斯裔男性，伊朗/亚美尼亚血统，三十出头，本是一名为Jean Lemieux Betrand的法国演员，原名Jean Ebrahimi。\n据称\"异常地有魅力\"，但是除了长得帅之外无证据支撑。服从O5-7\"绿衣\"。对基金会的忠诚度存疑 - 可能是薄弱点？",
+    "description_link": [
+      "the-high-court-with-the-magic-army",
+      "djkaktus-s-proposal-iii/offset/21"
+    ],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "烈士"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。四十出头。无反常外貌。\n于一次敌对势力对基金会的接管中被迫杀死前任O5-4而接任。非自愿担任此职位。后来在高度机密的事件中死亡。至少对外表明为壮烈牺牲。我表示怀疑，但是有报告称其被深切缅怀，所以也有可能是真的。",
+    "description_link": [],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "寒霜"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。四十出头。无反常外貌。\n尽管威望很高，其性格随意而温和。从不在意公开露面或者宣传其项目。有极严格的安保措施来应对这类场合。已知出行时总是伴有一只（有点开玩笑地）叫做\"流浪者\"的獒犬。\n与议会中其他人对待异常项目的看法不同。强烈反对将SCP项目武器化。是一位强烈反对交互测试与某些异常研究的的议会成员之一。\n他的观点在一系列事件后得到了支持，包括SCP-076毁灭Area-25与MTF Omega-7，Kondraki博士因反对O5操纵而有意释放SCP-682摧毁了大半个Site-19，有一位研究员将自己与多个站点从现实中抹除，以及一连串因SCP交互测试而导致的事故。\n在这些事件后，O5-4与其O5盟友的立场被立即拥护起来。大量的项目立即被中止，一项新的政策开始生效：除收容必要之外不得对异常物件开展研究。一切研究都被看作危险至极。SCP物件只能在高度隔离的情况下进行检查。交互测试更是近乎消失。这在接下来的近十年里成了基金会不成文的规定。\nO5-4的影响力在近期才开始衰落，他随后突然被混沌分裂者特工刺杀。（考虑到分裂者的特点，具体的来龙去脉有近乎无数种可能。）",
+    "description_link": [
+      "chaos-insurgency-hub"
+    ],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "收藏家"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，血统不明，来源不明。年龄不明。外貌不明。\nO5-4是首个将完整的小小先生系列纳入基金会收容的人，因此成为了收藏家先生，据说受到已停产的Redd先生的帮助。目前作为异常人员收容中，因此从O5议会中离职。",
+    "description_link": [
+      "tales-of-mr-collector",
+      "epilogue",
+      "scp-redd",
+      "end",
+      "museum-of-idiots"
+    ],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "黑道"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。外貌不明。\nO5-4在基金会对于各国政府与经济系统的操纵起到重要作用。此外，他在升迁至O5议会前就与各大犯罪组织与各国恐怖组织有密切来往。他从未与其撇清关系，而且基金会在早年间对于犯罪活动的明显理由也合理化其上述联系。大多数在基金会建立初期\"被失踪\"或者被刺杀均为O5-4暗中推动。\n参与设计了第一代混沌分裂者（作为基金会地下项目），随后在基金会内战期间与组建完成的混沌分裂者一并叛逃。虽然并非\"真\"分裂者的主谋（可能是同时任O5-7与O5-11同谋），但因为将上述犯罪关系从基金会一并带走，可能促使了分裂的成功。\nO5-4叛逃后，销毁了他的所有项目，调离或者处决了他的残党。虽然在长远来看是明智之举，但在当时造成了世界经济的一定动荡。\n据说与阿尔卡彭以及大量其他犯罪头目有私交。",
+    "description_link": [
+      "chaos-insurgency-hub",
+      "chicago-spirit"
+    ],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-4",
+    "tag": null,
+    "alias": [
+      "老兵"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自德国。貌约50岁。有鲜艳的胡子。曾隶属德意志帝国秘传战团。紫禁城公约签署者。\n确信代表德意志帝国参加了第五次超自然大战，击败了义和团（又称拳匪）。对狄瓦族与机神教战略有不同寻常的详细了解。\n声称见过拿破仑波拿巴本人，但自称他见过的拿破仑有异常增强。\n喜欢加入外勤特工与激动特遣队执行外勤任务。没有耐心，讨厌书面工作。",
+    "description_link": [
+      "wrong-proposal",
+      "scp-140",
+      "scp-2515"
+    ],
+    "type": "O5-4"
+  },
+  {
+    "name": "O5-5",
+    "tag": null,
+    "alias": [
+      "黑鸟"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲/中东血统，来自美国。貌约四十多岁；可以确定更老。喜欢粗花呢西装，通常穿外套，带着一顶有黑鸟别针的帽子。打有黑鸟图案的领带。黑鸟可能是个人符号 - 含义不明。\n举止过分友好亲近。一有机会总是懒散活泼。比较高调的O5之一，公开现身较多。虽然已经任职于议会相当长时间，对于其特殊职务仍知之甚少。\n有点天份的艺术家；已知用五只黑鸟的速写当作签名。\n _\n\"衔尾\"档案将\"黑鸟\"描述为异常机构评判部门的领导人，负责记录与监督基金会\"相关组织\"。也对与平行时空有交互的异常感兴趣。下属经常报告他自言自语，并在不同的时候表现得不像同一个人。\n该名人员好像总是在异常相关组织内担任重要职务，即使在他并非基金会成员的现实里也是这样。不能与他谈条件，但他绝对不容小觑。可能是O5议会中最危险的成员。",
+    "description_link": [
+      "the-high-court-with-the-magic-army",
+      "the-flytrap",
+      "djkaktus-s-proposal-iii/offset/19",
+      "groups-of-interest"
+    ],
+    "type": "O5-5"
+  },
+  {
+    "name": "O5-5",
+    "tag": null,
+    "alias": [
+      "普通人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约四十多岁。外貌平平无奇；喜欢在方方面面都表现得普通。例外：总是穿着鞣制皮鞋。\n对O5-5的信息知之甚少。已知偶尔会因未知原因同SCP-108一并出行。从108的实验记录看来，我怀疑他有意利用她（直接或者通过研究）作为脱身的后路。",
+    "description_link": [
+      "ecceperago",
+      "annon",
+      "scp-108"
+    ],
+    "type": "O5-5"
+  },
+  {
+    "name": "O5-5",
+    "tag": null,
+    "alias": [
+      "企业家",
+      "司库"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲/中东血统，来自西欧。四十多岁。无反常外貌。\nO5-5监管基金会的前台机构。他资助了几乎所有的基金会项目。习惯性地操纵经济以为基金会牟利。他并非直接使用异常手段达成此目的；基金会确实能点石成金，但往经济体系里一下塞进大量的黄金往往会导致其不稳定。O5-5不单纯支撑着前台机构，他还能从此盈利。其他人负责招募员工，而O5-5则负责给他们发薪水。\n从不公开露面。许多报告称其与O5-5\"黑鸟\"为同一人，另一些则称\"黑鸟\"为假身份或者是替身。",
+    "description_link": [],
+    "type": "O5-5"
+  },
+  {
+    "name": "O5-5",
+    "tag": null,
+    "alias": [
+      "昭昭天命"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约50岁。不蓄须。曾隶属美国安保收容倡议会。紫禁城公约签署者。\n坚信人定胜天。参与了对SCP-2750的屠杀。\n频繁前往黄石公园。目的不明。",
+    "description_link": [
+      "wrong-proposal",
+      "scp-2750",
+      "scp-2000"
+    ],
+    "type": "O5-5"
+  },
+  {
+    "name": "O5-5",
+    "tag": null,
+    "alias": [
+      "黑猫"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "O5-5是一只黑色家猫。这版本的O5-5伪装成一位替身O5-5的随身宠物，但暗地里负责工作的是黑猫。\n我本来把这种话当作扯谎，但我一个长得差不多的朋友在蛇之手里也确实举足轻重。我之前还以为基金会不可能有这种事，可是Kain \"Pathos\" Crow变成了一只狗还能保留职务，看来一切还是皆有可能的…",
+    "description_link": [
+      "sunny-art-personnel",
+      "gdp2-tunneling-between-worlds",
+      "the-grove-of-exiles",
+      "serpent-s-hand-hub",
+      "kain-pathos-crow-s-author-page"
+    ],
+    "type": "O5-5"
+  },
+  {
+    "name": "O5-6",
+    "tag": null,
+    "alias": [
+      "牛仔",
+      "美国佬"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。四十多岁。长发马尾。总是穿着白西装戴着一顶白色斯泰森\"平原之主\"宽边牛仔帽，拿着把手雕成狼头的手杖。含义不明。\n前基金会顶级外勤特工；其他身份信息不明（可能被蓄意抹除）但有可能是Bright家族成员。手法老练而为人和蔼。因专业过人而著称。在基金会扮演某种\"万金油\"角色，但具体专门负责基金会安保措施。\n经常公开露面的O5之一。有两位男性保镖随行，称作\"Thompson\"与\"Black\"。\n _\n\"衔尾\"档案表明\"美国佬\"原名Rufus King，在加入基金会前曾任联邦准将与教皇国公使。现为\"参谋长联席会议特别理事\"，作为基金会与五芒星的中间人。职权仅仅低于（可能超过？）美国总统。指挥基金会应用响应部门（私人军队），据称建立了机动特遣队Alpha-1\"红右手\"。尽管最初表示反对，但可能在Bowe将军的要求下参与建立了机动特遣队Omega-7\"潘多拉魔盒\"。\n优先考虑美国利益。自大，往往过于自信。善于用鞭。\n貌约五十多岁，但据军方报告称可能是议会中最老的成员，在加入基金会前就有延长寿命的方法。可能是有哪个不长眼的记错了日期，否则确实需要进一步调查。",
+    "description_link": [
+      "the-high-court-with-the-magic-army",
+      "ecceperago",
+      "codebrown",
+      "djkaktus-s-proposal-iii/offset/17"
+    ],
+    "type": "O5-6"
+  },
+  {
+    "name": "O5-6",
+    "tag": null,
+    "alias": [
+      "雕像",
+      "长者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，非洲血统，来自美国。已确认超人类寿命；可能200岁以上。\nO5议会的创立成员之一，在加入时就已经年老。据说目前已经老到SCP-006都无法使他返老回春。虽然仍然存活，但已鲜少在O5议会中采取行动。他的秘书代他履行诸如在O5议会中据他意愿投票之类的事务。",
+    "description_link": [
+      "scp-006"
+    ],
+    "type": "O5-6"
+  },
+  {
+    "name": "O5-6",
+    "tag": null,
+    "alias": [
+      "傀儡"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。四十出头。常常穿着高雅的西装。\n很少公开露面，但在O5指挥部内相当活跃。很少有人知道他是全球超自然联盟为了日后内部颠覆，或者仅仅以防万一所安插的傀儡。\n有可能部分或者全部的O5议会成员都知道他的二五仔身份，只是出于自己的原因容忍此事。也许他们把他看作潜在资产，或者至少把这件事的情报当作潜在资产。",
+    "description_link": [
+      "goc-hub-page"
+    ],
+    "type": "O5-6"
+  },
+  {
+    "name": "O5-6",
+    "tag": null,
+    "alias": [
+      "实验师"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自奥地利。貌约65岁。曾隶属帝国侵犯事件委员会。紫禁城公约签署者。\n提倡在基金会内使用科学方法论。研究与开发部门的首要领导人。敲定了术语\"Euclid\"与\"跨现实记忆保留\"。\n跨现实记忆保留到底是什么？",
+    "description_link": [
+      "wrong-proposal"
+    ],
+    "type": "O5-6"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "绿衣"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，南亚血统，来源不明。貌约四十多岁；确定更老。有些肥胖。总是穿着各种色调的绿色服装。含义不明。\nO5议会的长期成员之一。被形容为对于权力不太有道德观念，但初心是好的，至少本性不坏。策略大师，有魅力而危险。\n不常公开露面，最开始一般通过中间人工作；坚信私人会面好过公开演讲。面对面互动时表现得很友好，但后来就不太友善了。\n可能是前大学教授（难以置信）。在基金会多个领域实施了大量训练计划。\n需注意其\"宠爱\"Alto Clef博士并通过了他的多项实验项目（甚至有些不必要地危险）。\n对基金会人事积极关注；时常负责招募O5议会人员。也在实验性与异常武器研发方面起到积极作用。\n _\n\"衔尾\"档案描述了一名与其相似的O5-7。其将\"绿衣\"或\"捕蝇草\"形容为一名高加索血统的英国/德国裔女性，貌约五十出头。代号来源于她的绿色下装。\n确定在被投票选入议会前就在基金会有长期任职，可能是某位议会创建成员的首位接任者。无情地追求她的目标（未知），在O5-1不反对时担任O5议会的实际领导者。她的出现令基金会之外的人恐惧万分，他们常将她称作\"魔鬼\"或\"蜘蛛\"。虽然名声在外，她似乎不具有任何异常能力。",
+    "description_link": [
+      "the-flytrap",
+      "the-high-court-with-the-magic-army",
+      "djkaktus-s-proposal-iii/offset/15"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "不可思议"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约四十多岁；应该更老。无反常外貌。\n因为总是身处险情而著称。在多次刺杀未遂中毫发无伤（而刺客均在过程中身亡）；一位O5通常都不会让自己暴露在如此危险之下，甚至能在如此情景中存活。可能有异常保护。\n对与被混沌分裂者窃走的SCP项目特别关注。多项报告指出O5-7实际上是混沌分裂者当前的实际头目，但此观点与声称混沌分裂者并无统一领导人的报告相悖。至于其他O5议会成员对此是否知情，部分或是完全容忍之，各项报告也说法不一。",
+    "description_link": [
+      "chaos-insurgency-hub"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "教授",
+      "异端"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。外貌不明。\n某著名大学教授及专业心理学家；在加入O5议会后仍保留其职务，于叛逃后离职。在基金会内开展了多项训练计划，许多项目时至今日仍在使用中。\n基金会内战的主要煽动者之一。与时任O5-4，O5-11，O5-12，以及大量基金会将领和另一位在分裂中身亡的O5叛逃。\n分裂者的主要思想领袖之一；可能共同建立了第一代分裂者，似乎原本目的是以另一名义（相对无意义）执行基金会项目，可能在后续文档中仍然存在这种现象。在分裂之后使用\"混沌分裂者\"作为正式名称；可能也是该组织的命名者。目前仍然在分裂者内活动。\n支持对许多O5议会其他成员认为过于危险的项目进行研究，包括混沌魔法与现实扭曲神性引擎（二者时至今日仍为混沌分裂者所用）。支持大规模武器化与频繁使用SCP物件。花大量时间研究人形异常的脑部结构。\n在基金会（与大部分异常群体）经历前就预见了异常的增加；曾表示基金会为了生存需要从仅仅保护常态转向直接决定常态，以至整个人类文明的未来。\n被批评拥有某种\"上帝情结\"；将这些批评看作赞扬。认为上帝已死，而基金会必需接替他的位置。其拥护者常引用其名言：\"天堂空荡荡，天使在人间。\"",
+    "description_link": [
+      "chaos-insurgency-hub",
+      "welcome-to-the-future"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "牙"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "无性，东亚血统，来自中国。已确认超人类寿命。貌约四十多岁；确认更老。外观中性（人类形态）。总是佩戴两根牙质发髻。报告称是有人类牙齿/骨头制成；明显有超自然含义。\n作为O5议会成员而言，很难判断O5-7原本是否完全为人类。其拥有在人类形态与某种难以描述的上古妖物之间转换的能力。据说参与了某些比克苏鲁还要不可名状的\"外位面\"实体的收容（也可能是合作）。\n有些报告则不同。该O5-7本来应该既是完全的人类（很难在这些文化细节除外得到更多特定信息），但又在某种极端条件下有超自然特性。即使这位O5-7只是某人或者某物的掩护，这些报告仍一致指出基金会地下活动的可怕影响。",
+    "description_link": [
+      "ecceperago"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "主教"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，天主教徒。貌约70岁。曾隶属皇家基督教圣物办公室，自梵蒂冈神秘及预言圣裁庭分裂的组织。紫禁城公约签署人。\n反对基金会在二十世纪初接管中东，称\"那里已经有人打理了\"。可能早已知晓ORIA或类似组织的存在？",
+    "description_link": [
+      "wrong-proposal",
+      "oria-hub"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-7",
+    "tag": null,
+    "alias": [
+      "永生者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，来自澳大利亚。生物学上58岁。前澳大利亚总理哈罗德霍尔特。当前作为SCP-3477-3收容中。为了获取SCP-006加入O5议会，试图获得永生。从民间团体直接招募的少数O5之一。\n自从多个自称是哈罗德霍尔特的人员突然出现之后被革职并赋予SCP编号。在全部哈罗德霍尔特集体突破收容之前被安全收容46年。\n有证据指出可能有至多七十七个不同版本的哈罗德霍尔特，每个都获得了不同形式的永生。原因未知。可能是不同结果的量子整合，故意创造多个版本来保证至少有一个能够存活，或者多元宇宙有局部坍塌。",
+    "description_link": [
+      "scp-3477",
+      "scp-006"
+    ],
+    "type": "O5-7"
+  },
+  {
+    "name": "O5-8",
+    "tag": null,
+    "alias": [
+      "新人",
+      "小辈"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。三十多岁。无反常外貌。\n前基金会站点主管；最近升迁至O5议会（在2014年6月至9月间）。\n他作为O5议会的首个决策就是批准了Kondraki博士处决former SCP-083的计划。该计划导致了多个SCP项目突破收容，包括Kondraki博士蓄意释放的SCP-682，并最终造成几乎整个Site-19被毁。该事件可能促使O5指使Gear博士刺杀Kondraki博士。\n虽然他并未因此自O5议会被革职，O5-8从未自此振作，并且变得更加谨慎。因为被这次事故的余波打击，他一直依靠后勤人员完成工作 — 包括雇佣和替换后勤人员。\n目前为止，O5-8虽然成功避免了后续事故，但传言称他当前的团队并不稳定，而且可能会造成更大的\"失误\"。\n可能已遇刺。有段时间没现身了。\n _\n\"衔尾\"档案称\"小辈\"指代的是美国实业家Leeman Hoadley男爵，在其长兄的去世与大笔财产的损失后大大降低了其影响力。\n最近很少报告有现身，因为他几乎从不离开个人地产 - 明显是害怕其他议会成员。报告称痴迷于用异常物品进行自我改造，当前能力上限不明。",
+    "description_link": [
+      "duke-till-dawn",
+      "scp-682",
+      "the-high-court-with-the-magic-army",
+      "djkaktus-s-proposal-iii/offset/13"
+    ],
+    "type": "O5-8"
+  },
+  {
+    "name": "O5-8",
+    "tag": null,
+    "alias": [
+      "木兰"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，欧洲血统。貌约50多岁；可能更老。有意不在外貌上显得美丽。\nO5-8以残忍冷酷而著称，单其从不武断行事；善于做出艰难的抉择。已知在一次极度危险的收容突破中为核爆多个站点投下决定票。\n她的外貌表现是蓄意的。监管者确定有能力随意改变外貌。这似乎是一种被罪恶感支配的心理状态所致。可能易于被刺，以至于有传言说她欢迎刺客。\n戴着由人类肌腱制成的戒指。明显有超自然含义。\n可能已被刺。有段时间没现身了。",
+    "description_link": [
+      "ecceperago"
+    ],
+    "type": "O5-8"
+  },
+  {
+    "name": "O5-8",
+    "tag": null,
+    "alias": [
+      "茱萸"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。三十多岁。无反常外貌。\nO5-8是关注基金会安保工作的O5成员之一。在扩张机动特遣队资金与招募活动上著称；在Omega-7的毁灭最初造成各特遣队的削减后负责重建与扩张。\n据说相对低调，但易于在状况严峻时慢慢变得急躁激进；很多下属报告说他一开始很好相处，但熟悉几年后关系总是会恶化。\n也有报告称\"茱萸\"其实另一位O5-10，\"新人\"/\"小辈\"有关，而\"茱萸\"只是某位真正O5-8的竞选参谋长，而其本人则因内部纠纷落选。甚至有报告称\"茱萸\"和O5-6\"牛仔\"实为同一人，对于\"茱萸\"的负面评价其实是受不了O5-6标准的前员工的怨言。尚不明了是否为假情报。\n可能已被刺。有段时间没现身了。",
+    "description_link": [
+      "the-high-court-with-the-magic-army"
+    ],
+    "type": "O5-8"
+  },
+  {
+    "name": "O5-8",
+    "tag": null,
+    "alias": [
+      "扼要者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自荷兰。年龄不明。曾隶属荷兰东印度公司特别调查董事会。紫禁城公约签署者。\n不怎么跟其他人说话。尽在必要时发言。又一个守密的？\n敲定术语\"Group of Interest\"，强烈支持基金会将其全部解体。似乎对各个相关组织一视同仁；对已知的相关组织并无结怨。\n一直反对基金会采用全球超自然联盟的108议会制度；坚持O5议会结构；担心自己的权力被分散？",
+    "description_link": [
+      "wrong-proposal",
+      "groups-of-interest",
+      "goc-hub-page"
+    ],
+    "type": "O5-8"
+  },
+  {
+    "name": "O5-8",
+    "tag": null,
+    "alias": [
+      "遗忘者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "我们无法回忆起这名人员的任何个人信息，就连Y级记忆增强剂也毫无效果。\nO5-8与基金会逆模因部有尚不明了的关联，可能是领导人或者创建者。因O5-8被异常逆模因的记忆消除效应所影响，其他O5议会成员必需定期服用记忆增强药物以避免忘记O5-8的存在。",
+    "description_link": [
+      "updated-amnestics-guide",
+      "antimemetics-division-hub",
+      "captain-kirby-s-proposal",
+      "we-need-to-talk-about-fifty-five",
+      "capitis"
+    ],
+    "type": "O5-8"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "局外人",
+      "普通人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，欧洲/太平洋原住民血统，来自新西兰。外貌与年龄记录的53岁相符。携带一根镶嵌着玉石的手杖；超自然特性与实用性均不明。\nO5-9是最反常的O5之一，而原因则出人意料地平凡：她是自民间团体直接招入O5议会的。\n作为完全没有基金会工作经验的人，她被招募的原因仍然不明。其原名Donna Whetu Taylor，知名地理学家，在撤回一篇重要论文并因丑闻辞职的不久后便被招募。虽然声称撤回原因是学术造假与编造数据，但比起丑闻来看更像基金会的掩盖：这份被撤回论文的少数可查阅资料表明Taylor发现了数个地理学及地质学异常，并且对此提出了一套完整的运作理论。\n大力支持对异常现象与SCP项目的研究；可能是O5-2（\"园丁\"）的盟友。极可能是基金会机密技术日志（传言称是有Katherine McTiriss地区主管领导的计划）剧烈扩大的原因之一。目标似乎包括对异常现象共通原理的研究。\nO5-9的特殊情况促成了大量的矛盾报告。就我所知，她接替或者取代了前任O5-9（\"飞来横祸\"）。\n据说对她的任命是以7比6的投票险些被否决，至少有三票都在最后一刻倒戈。监督者内部矛盾的证据？\n _\n备注：许多文档指出O5-9与O5-10（\"档案员\"）私交甚笃，但\"衔尾\"档案却称两人针锋相对。可能并非巧合。两人的关系总是从一个极端到另一个极端。要是两种情况都是真的我也不会惊讶，毕竟这两种关系都涉及到一起我们不便在这里提到的事件。你可以理解成我不建议把话说太死。",
+    "description_link": [
+      "the-high-court-with-the-magic-army",
+      "djkaktus-s-proposal-iii/offset/11"
+    ],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "飞来横祸"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "年龄，外貌等多变。来源不明。携带一把有骨质手柄的刀；明显有超自然含义。\n因极端不幸而著称。活动仅限于基金会水下设施。不确定是否仍在O5议会内任职，但可以肯定已经不负责重要事务。\nO5-9的人格存储于SCP-963-2中。初始版本的O5-9试图复制SCP-963 — 并且成功。但SCP-963-2只保留了O5-9第一次身亡前的记忆，经验，与人格。\n在O5-9死后 — 他已经死过很多次了 — 他就会被\"重置\"。每次死亡之后，他都必须重新被告知他第一次身亡之后发生的事件。\n可能已经被另一位O5-9\"局外人\"取代。报告称他并非自愿，而是由于以下的一项或多项理由被迫离职：\n\n一系列的\"重置\"让他没用了\nSCP-963-2的损坏令他的人格受损\n在多次重置后拒绝一切体制改革\n在多次重置后无法跟上时代\n在一次重置后的关键事件中拒绝投票\n\n尚不明了哪一项最有可能。",
+    "description_link": [
+      "ecceperago",
+      "scp-963",
+      "annon",
+      "the-high-court-with-the-magic-army"
+    ],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "恋人",
+      "柳"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "均为男性，欧洲/非洲血统，来自美国。均貌约三十多岁；实际年龄均不明。无反常外貌，只是看起来有些相似（但可能只是巧合）。\nO5-9为两人共用的一职位。他们似乎是恋人。经常交换职位，有一人担任另一人的保镖/\"助理\"。\nO5-9在基金会内担任\"次要\"工作。总体而言，O5-9处理基金会的温饱问题。其通常以正常方法采购大量的食物，而其下属员工负责掩盖工作。但其手段也不限于非异常途径。有许多报告提及大量异常土地被用于种植基金会用粮，而在各国的偏远地区则有用于生产水源而被凭空创造的河流。",
+    "description_link": [],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "格格不入"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统。流利使用英语，法语，荷兰语，以及阿非利加语。貌约50岁。曾隶属内阿非利加探索队会社，由比利时国王利奥波德资助的组织。紫禁城公约签署者。\n对受雇于利奥波德国王表示不满。频繁地在撒哈拉以南非洲地区的多个地点，如比属刚果，英属肯尼亚，以及南非之间旅居。可能是防御间谍？\n提议O5议会解密前一版本的SCP-1851。\n对\"锚定现实\"的概念有极大兴趣。设立了信托基金以资助研究反本质促动措施，对休谟指数的发现尤为关键。用于预防本质促动威胁？",
+    "description_link": [
+      "wrong-proposal",
+      "scp-1851-ex",
+      "grant-request-for-the-manufacture-of-devices-to-regulate",
+      "scp-3001",
+      "and-this-one-explains-humes"
+    ],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "守密人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，高加索血统，来自瑞士。确认在45岁到51岁之间。无反常外貌。\nO5-9的头衔自动传递给时任情报机构部门的部长。目前未知有多少人曾担任O5-9的职位。记录称O5议会已至少将其中一人以收集过多议会成员的情报为由发起指控并革职查办。\nO5-9的职务是保持情报机构部门的有序运作，已知积极参与有关新兴与未知相关组织有关的任务，尤其是\"魔法学院\"。",
+    "description_link": [
+      "indicted",
+      "intelligence-agency-data-archive-subject-mages"
+    ],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-9",
+    "tag": null,
+    "alias": [
+      "祭司"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，高加索血统，来自波兰。年龄在29岁与[已编辑]岁之间。无反常外貌，仅有异常发红的虹膜。\n基金会奇术学与神学专家，为了获取其崇拜的XII级Diefic实体的信息而自外部宗教团体招募。与Damien Nowak案有直接关联。已证实1985年叛变并试图杀死其余的O5议会成员以掌控基金会，未遂后栽赃于其敌手。之后发现真实身份为一名为Natalie Asheworth的非异常人类奇术师接触到上述神性实体转变而成。在于该神性实体完全暴露之后身亡 。\n该职位当前仍然空缺。",
+    "description_link": [
+      "and-every-time-we-meet-again-hub",
+      "forgotten-days",
+      "for-crimes-uncommitted",
+      "the-beast-that-shouted-i-at-the-end-of-the-world"
+    ],
+    "type": "O5-9"
+  },
+  {
+    "name": "O5-10",
+    "tag": null,
+    "alias": [
+      "档案员"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，非洲/欧洲血统，来自美国。貌约四十多岁。常穿着灰色条纹西服。\nO5-10担任档案与记录保全工作。她负责保管本地球的先前迭代与相关时间线的档案。\n上述档案记载着本地球（及相关时间线）遭受重大损害而被\"重启\"的次数，以及基金会主动同意或者制止的\"重启\"次数。此外，O5-10保管的档案也记叙了基金会知晓的所有K级情景列表（包括先前时间线遗留下来的情景）。大部分O5议会成员不知晓该情报，只有O5-10能够完整存取。\nO5-10从自接任其职务已经在O5议会中工作多年，但她最近才开始在基金会内变得相对活跃。她\"宠幸\"了多位新人研究员，并且对SCP-1985等与K级情景有关的SCP项目特别关注。\n有一助理/替身随行，仅知其被称作\"盐\"。\n\"档案员\"或许有能力进入到被放逐者之图书馆并且已从其中书籍习得\"魔法\"。\n _\n\"衔尾\"档案描述的O5-10有相当不同的外貌，经历，与性格，除此之外的所任职务则符合描述。该版本的\"档案员\"被形容为一欧洲血统女性，拥有近乎完美记忆力的前教师。据传嗜血，偏执，且对知识与权力十分痴迷。\n这版报告称被放逐者之图书馆对她憎恶至极，但仍旧无法阻止她来去自由。（我需要告诫读者对任何声称知晓图书馆目标与理念的文件来源都需要持怀疑态度，包括我们中的一员更新的档案。）尽管这份报告从多处都表明是虚假情报，其中信息也绝对不能忽视。哪些是虚？哪些是实？",
+    "description_link": [
+      "scp-1985",
+      "the-high-court-with-the-magic-army",
+      "captain-kirby-s-proposal",
+      "wanderers-library-hub",
+      "capitis",
+      "djkaktus-s-proposal-iii/offset/9"
+    ],
+    "type": "O5-10"
+  },
+  {
+    "name": "O5-10",
+    "tag": null,
+    "alias": [
+      "石"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，貌约五十多岁；可能更老。外貌平凡。\n\"档案员\"的前任，以专业素养著称。\n可能在2004至2011年期间因尝试永久启动SCP-003被革职。可能被处决。",
+    "description_link": [
+      "scp-003"
+    ],
+    "type": "O5-10"
+  },
+  {
+    "name": "O5-10",
+    "tag": null,
+    "alias": [
+      "杀手"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，东亚/欧洲血统，来自意大利。貌约三十多岁；实际年龄60岁以上。无反常外貌。佩戴有眼球形状的大理石项链；可能有超自然含义。\n前基金会杀手。早先担任刺杀任务高效出色，后来开始教授刺杀手段，继而转向教授刺杀手段的教学方法。一路晋升成基金会秘密部门的领导人，随后升迁至O5议会。可能后悔升职，目前花大量时间阅读报告。\n虽然尚未确认，她有可能是少数退休的O5指挥部成员之一；有报告指出其自愿申请退休。其他情况不明。",
+    "description_link": [
+      "ecceperago"
+    ],
+    "type": "O5-10"
+  },
+  {
+    "name": "O5-10",
+    "tag": null,
+    "alias": [
+      "老兵",
+      "疯将"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来源不明（美国？欧洲？俄罗斯？）。年龄不明；有报告称有超人类寿命。外貌多变。\nO5-10是创建后加入O5议会的第一批成员之一。其具体身份难以确认。\n有确凿传言称其曾任美国将领，可能是美国南北战争期间南军将领托马斯\"石墙\"杰克逊。\n有些报告则称其为在第一次世界大战（第二次卫国战争）的余波中失踪的某位俄罗斯将领。这些报告总是赞扬其性格。\n可能有多人同时担任此职位。我不解的是其身份从美国内战将领偏离到俄罗斯一战将领，这其中的时代跨度与理念冲突兴许有些太大了。",
+    "description_link": [],
+    "type": "O5-10"
+  },
+  {
+    "name": "O5-10",
+    "tag": null,
+    "alias": [
+      "大团长"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，血统与来源不明（可能是混血）。貌约75岁。天主教徒。曾隶属博尔哈与阿拉贡骑士团。紫禁城公约签署者。\n据说与异常直接接触的经验有限，对十九世纪的博尔哈骑士而言相对普遍。对异常的了解主要来自前几代博尔哈骑士团的二手资料。\n对破碎之神教会有明显顾虑。可能在与其信徒接触时留下创伤？\n成功建立了基金会阵亡人员的抚恤金制度与其他基金会人员福利体系。起草了基金会阵亡人员的悼文。",
+    "description_link": [
+      "wrong-proposal",
+      "church-of-the-broken-god-hub"
+    ],
+    "type": "O5-10"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "邮差"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自东欧。80岁以上。无反常外貌。\n代号来源不明；可能在被议会任职前确实曾任邮差。代号频繁被提及；员工常开玩笑说他要去\"送信\"，但公认他是他们见过脾气最好最善良的人。祖父般的举止。\nO5-11最著名的举措就是终止了D级人员的月末处决，将其改为转送其他站点。O5-11最终决定所有的D级人员是在站点内遭遇异常暴露并身亡还是转移至另一站点。\n确认担任另一O5编号，但具体代号不明。可能是标准编号交换措施，也有可能是内部的暗箱操作。",
+    "description_link": [
+      "the-high-court-with-the-magic-army"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "骗子",
+      "谎言之父"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "血统不明，来源不明。外观年龄多变。外貌总是有吸引力；往往穿着性别不定的昂贵衣物。\n性别多变，有异常手段或者是多人共用同一职位。尽管代号为\"谎言之父\"，一般用\"她\"指代。\nO5-11是基金会的首席假情报负责人。其组织掩盖工作，杜撰掩盖情报，并且编造了基金会内外的大量传言。可能包括O5议会的假情报（由此看来，这篇报告本身也值得存疑）。连她的下属都不知道其情报真假；有些时候甚至她自己也不清楚。\n时常被报告称使用不同的O5编号，包括如同O5-15之类的非标准编号。自然也有报告称O5-11根本不存在，只是地下假情报活动的掩盖而已。\n讲真，我倒觉得11并非真实存在的编号，可能\"O5-11\"是像管理员一样与议会无关的人物。当前无从获知。\n毕竟，我们对付的骗子还是太多了。",
+    "description_link": [
+      "the-high-court-with-the-magic-army",
+      "indicted",
+      "djkaktus-s-proposal-iii/offset/7"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "参议员"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。貌约70岁以上；已确认超人类寿命。外貌多变；通常穿着庄重的精心定制服装。\nO5-11为一位高权重的政治家，被O5议会安插在参议院以直接掌管某些特定政治事件。\n与多个秘密团体有关。据说是朝圣者结社的高阶成员与骷髅会的创始人（之一）。报告称他已操作大量秘密团体数个世纪，当前正安居华盛顿运筹帷幄。",
+    "description_link": [],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "Jings"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自西欧。四十多岁。无反常外貌，戴着一串人类牙齿制成的手链；明显有超自然含义。\n前基金会外勤特工。在晋升至O5议会前声称会实行大量基金会政策改革；大多数并未实现。总体名声不太好；成果鲜少。不太公开露面。可能已遇刺。",
+    "description_link": [
+      "ecceperago",
+      "annon"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "看守",
+      "狱卒"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，欧洲血统，来自美国。外貌不明。\n开发了许多早期基金会收容程序。正常对异常进行广泛研究。\n反对将人形生物编为SCP。对她而言，SCP只能是物件：一本书，一颗球，一辆车，但绝不能是一个孩子。造成议会开始分裂，O5-7伺机取得优势；她在议会投票反对之后没有忍气吞声，而是发动分裂。她将混沌分裂者视作解放者；认为人形SCP应该与SCP基金会研究员一同工作，而非被囚禁。\n时任O5-12的妻子。强迫O5-12与其一同叛逃（通行还有O5-4与O5-7，以及另一位在分裂中被杀死的O5）。因其职位优势，他们带走了许多人形SCP与大批有用的SCP项目。",
+    "description_link": [
+      "chaos-insurgency-hub"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "隐居者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统。外貌年长，70岁以上，却是会议里最年轻的成员 - 拒绝异常延寿手段？\nO5-11原名Roger Sheldon，曾失踪十多年。推测身亡，但并未挑选继任者。在缺席18年之后就像度假归来一样回到议会任职。\n报告称他的性格回归之后发生了巨大的改变。更加关心他自身的安全和基金会员工的福利。他在那18年间干了什么？而且我为什么找不到他回来以后的任何信息？\n若想继续下去，风险请自负。",
+    "description_link": [
+      "scp-2718"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-11",
+    "tag": null,
+    "alias": [
+      "官僚"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，东亚血统，来自日本。貌约80岁。曾隶属阴阳寮（陰陽寮；onmyō ryō），又称天皇怪异事务评议会（怪異なる事物についての聖帝評議会；kaii naru jibutsu ni tsuite no seitei hyōgikai）。紫禁城公约签署者。\n声称日本孝明天皇死于某种异常原因。称在九州，四国，和本州西部见过多个未记录的SCP-2863实例。极度自大。常与O5-3，O5-7，和O5-13往来。",
+    "description_link": [
+      "wrong-proposal",
+      "scp-2863"
+    ],
+    "type": "O5-11"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "会计"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，非洲血统，来自非洲。大块头。貌约四十多岁；确定更老。总是穿着昂贵的定制服装与同样昂贵的珠宝。戴着有象牙镜框和烟色玻璃镜片黑框护目镜。或许是为了保护自己的眼睛。可能有超自然含义。\nO5-12负责监督者议会的会计工作。运算天才；确保基金会的帐目准确。为此掌握一些其他成员都接触不到的特定数据。\n精确而冷静，遵从实用主义。坚定地维护秩序，他的日程的每一部分，包括他的每个决策，甚至是他的喝酒习惯，都有严格安排。\n _\n\"衔尾\"档案描述了一个不同而相似的O5-12。\"Omar Alawe\"并非初始议会成员，而是在前任O5-12死后晋升的。他的运算能力令他能够看到别人所无法察觉到的事件关联 - 但不能确定算不算预知能力。有些背景信息是误导（可能照片也是假的 — 但很明显我没法确认），试图证实这些信息时发现了某些有趣的东西。",
+    "description_link": [
+      "ecceperago",
+      "djkaktus-s-proposal-iii/offset/5"
+    ],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "Adam"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲/犹太血统，来自美国。在130岁与200岁之间。外貌不明。\n对O5-12在基金会负责的工作知之甚少，仅知晓其曾为一专业研究员。主要因其在19世纪中后期有一死产的女儿，在救活其未遂后将其转变为SCP-321。大多数资料都从可接触的基金会记录中删除了。回收到的资料称其与Jack Bright有血缘关系。（兄长？父亲？）\n\"Adam\"是少数退休的O5议会成员之一。各方记载均称其自愿退休，相对他的过往历史让我很惊讶。他似乎实际上是第一个退休的O5议会成员。\n有趣的是，尚不明了\"Adam\"是否接受了O5议会成员退休或离职后强制的记忆删除。很不幸，我也不清楚他当前的位置。\n也有传言称他与\"反常部\"也有联系。该部门与O5-12之间的联系需要进一步调查。\n而其他的传言则完全反对上述信息，称他为12位原始监管者之一，超自然现象公约签署者 — 奠定了当代面纱政策 — 与美国安保收容倡议会在1870年并入基金会前的最后一位总指挥官。根据这版报告，\"Adam\"在工厂大屠杀中身亡，而他的职位则传给他的子嗣；可能是\"美国佬\"，根据报告应为O5-12而非O5-6。",
+    "description_link": [
+      "scp-321",
+      "codebrown",
+      "iquit",
+      "scp-3790",
+      "to-never-again-see-the-light-of-day",
+      "poczatki-normalnosci-i-jej-przyszlosc",
+      "ralliston-s-proposal"
+    ],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "承包商"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，非洲/欧洲血统，来自美国。四十多岁。无反常外貌。\n在一次刺杀（可能未遂）之后O5议会急需一名O5-12或O5-1，而O5-1无法出席，于是紧急任命了这名O5-12。\n而在此之后他也没有被撤职；他因此被调到边角项目。他为基金会设施建造购入大量地皮。他与设计者合作以保证满足其需求；他也同当地政府合作（通常以建造军事设施为由掩盖基金会站点建设），而且时常雇佣新基金会人员来完成此类项目。\n此外，O5-12也担任人事部门的非正式领导人，推进基金会人员接受定期身心状况检测。虽然与一般基金会人员相差不大，O5-12常被描述成强迫而多疑的自闭症。他的下属不多，而且不怎么做事。",
+    "description_link": [],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "乘务员",
+      "售票员"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。外貌不明。\n协助O5-11开发了许多早期基金会收容程序。批准SCP项目武器化。支持对异常进行广泛研究。\nO5-12的重要指责之一是监管SCP在站点之间的运输工作。公开宣传这种运输是用来开拓SCP研究的视野以及研发更有效的收容措施。而背地里实际是同样重要地为了防止同一组研究员与同个人形SCP接触太久。\n本来反对从基金会叛逃，但被其妻子O5-11胁迫加入分裂者。他掌管SCP运输的职位使他得以在分裂中带走大批SCP项目（尤其是人形SCP）。此外，他在支持武器化SCP项目的将领中颇有声望，也为分裂者在基金会内战期间带来巨大优势。",
+    "description_link": [],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "医者"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，东亚血统，来自中国。貌约70岁。曾隶属异学会（異學會；yì xué huì），又称\"中华异学会\"（中華異學會；zhōng huá yì xué huì）。紫禁城公约签署者。\n确信因对\"记忆改变药物\"（如记忆删除剂）的了解而被招入O5议会。与中国国民党军队合作歼灭（背叛？）了孟族；原因可能是让基金会得以垄断记忆删除技术。\n敲定术语\"Safe\"。只会基础英语。\n备注：记忆删除技术已在多年以来被大幅改良。O5-12对于记忆删除的了解可能已经不在适用。",
+    "description_link": [
+      "wrong-proposal",
+      "scp-484",
+      "scp-3000",
+      "amnestic-orientation-manual"
+    ],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-12",
+    "tag": null,
+    "alias": [
+      "Cyrus"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "O5-12是一个缸中之脑。\n就我所了解，他的身体早就腐坏了，但其他O5议会成员都想把他留下来担任顾问。他们的技术肯定做得到，于是他们就用这种方法保留了他的思想。\n尚不明了基金会为何要用这种手段而非采用其他延长寿命的方法。",
+    "description_link": [
+      "sunny-art-personnel",
+      "scp-2099"
+    ],
+    "type": "O5-12"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "关键票"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "O5-13不存在。O5议会之外的人都被告知确有其人，许多备忘也以O5-13的名义创建，但O5-13只是打破平局的关键一票。\nO5-13的投票权在每位O5成员之间轮换，从1号开始，每用过一次就传给下一号。\n要获取O5-13的投票权需要访问几个特定数据库。这些信息可能与O5-13的投票权绑定（在投票之后便会自动抹除），也有可能只是13专属的数据库。",
+    "description_link": [
+      "ecceperago"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "Tamlin"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性或者性别不定（报告不一，可能有异常特性）。来源不明 - 可能是中东？年龄不明。高个子，红发。\n在有些报告里，\"关键票\"的报告确认无误。但O5-13确实存在，只是没有自己的投票权。原名\"Joseph Tamlin博士\"或者\"Yoshua bin Yosef\" - 不明是同一人的不同称呼还是多人担任同一职位。\"Tamlin\"与其说是一个人更有可能只是一个头衔 - 其始终没有被我们找到。\n在必须时仅担任顾问一职。存在于一时间错乱的状态或地点的异常人类；某种程度\"时间紊乱\"。在13的投票权交接出错时作为保险措施将其交还给持有者。可收回投票权力，但仅在做出关键决策时行使此权力。\n有（部分）报告指出其外貌，种族，性别都有巨大变化，但红发（不管是自然发色还是染发）始终保持不变。关联不明；可能是认知改动能力或者物理形态改变。\n居住在\"Tamlin之家\"，一个与 SCP-1590，有关联的隐秘地点中的（多个）房间中，只能通过几种机密方式进入。似乎被绑定在此地。通常不参加O5议会的例会，但会旁观其中的大多数会议（并非同步观察）。\n\"你一无所知。\"",
+    "description_link": [
+      "codebrown",
+      "annon",
+      "iquit",
+      "the-high-court-with-the-magic-army",
+      "scp-1590",
+      "the-high-court-with-the-magic-army"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "管闲事的"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。三十多岁。无反常外貌。\n关于O5-13的大多数报告都关系到他挑起的掺和的事端，在其他O5下属中广为流传。O5议会之外的人员似乎都不知道这位O5成员的工作；他总体上好像是专门负责干涉其他O5成员项目的。因老是责骂其他O5成员（和基金会下层职员）干事不力而著称。\n不是太受欢迎的O5议会成员。所报告的遇刺次数出奇地少。",
+    "description_link": [],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "死亡"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "性别不明，血统不明，来源不明。年龄不明。外貌不明。\nO5-13报告中最另类的报告之一；据称死亡本身在19世纪早期便被基金会束缚。这些报告中，O5-13的席位最早就是为了死亡所建立的。被委婉地称作\"另一位监督者\"。\n死亡既是O5议会的成员又是其囚徒；也可以像正常一样投票。然而因其被议会的剩余成员囚禁，O5议会也可以通过票数优势控制投票结果。此外，死亡仍旧在正常发挥其作用。\nSCP-006不存在；O5的延寿实质上来源于O5-13。他们可以用多数表决的方式强迫O5-13不干涉其他议会成员 — 或者世上任何人，但对议会外人员滥用这种手段会令死亡逐渐脱离束缚，因此鲜少使用。\n这种手段的使用通常规模极大 — SCP-2000之类的异常项目同样不存在，仅是议会表决利用O5-13的能力让全世界大多数人起死回生的掩盖措施。\n有其他报告指出O5议会不朽的原因，如囚禁死亡，或者居住在某处避免老化进程的设施，均与上述报告相悖。另有报告称管理员，而非O5-13接替了死亡的位置。\n尚不明了是否与SCP-2935有关。\n _\n\"衔尾\"档案同样称议会以Felix Carter前任O5-13（\"管闲事的\"）的性命与席位为筹码束缚了死亡。SCP-006存在，但因早已枯竭而无法满足议会的需要。Felix Carter的尸体令死亡在议会中有一席之地，目前存放于南大西洋某处。\n这份报告虽然与其他声称O5-13为\"死亡\"的报告相悖，但确认在南大西洋某地存在与该报告描述相符的逆模因异象。这里藏了东西。",
+    "description_link": [
+      "goc-or-that-guy-with-a-gun-fetish",
+      "scp-006",
+      "scp-2000",
+      "tanhony-s-proposal",
+      "spikebrennan-s-proposal",
+      "scp-4260",
+      "scp-2935",
+      "djkaktus-s-proposal-iii/offset/3",
+      "scp-006",
+      "we-need-to-talk-about-fifty-five"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "AI情结"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "[人员描述不适用]\nO5-13为一人工智能构造体。该智能使用多种异常科技与非技术性方法建造，能计算所有与基金会目的相关的因素并为重要行动的实施提出建议。\n因为该AI使用的特定规则（可能为超自然或资源所限，也有可能只是官僚特权），仅在O5议会在处理非常规事务时需要打破僵局时使用。\n更多细节及使用机密手段也难以获取。不管这个O5-13存不存在，这个玩意肯定藏着基金会不可告人的秘密。",
+    "description_link": [
+      "scp-001-ex"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "激进派"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，南亚血统，来自锡克。貌约50岁。曾隶属英属印度的殖民组织第零反邪教军团。如果\"波斯佬\"不存在的话为紫禁城公约签署者。\n大力支持基金会实行精英领导制度。已知为在基金会内追求民族平等与O5-11和O5-12组成非正式同盟。\n在许多行动事务上都投票赞成O5-1。在紫禁城公约签署前就认识O5-1。或许只是O5-1为了争取票数在议会内的傀儡？或许是所谓精英领导的代价？",
+    "description_link": [
+      "wrong-proposal"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "波斯佬"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，中东血统，来自伊朗。貌约70岁。什叶派穆斯林。曾任奥斯曼帝国异常事务独立顾问。如果\"激进派\"不存在则为紫禁城公约签署者。\n在签署紫禁城公约前就认识O5-7。强烈怀疑O5-1。\n管理基金会在中东的分组织\"大中东自治管理部\"。他与该机构在\"激进派\"存在的现实中不存在。其实，我好像也没法在\"波斯佬\"担任O5-13的现实中找到伊斯兰物品回收办公室或其对应变体。AAGME和ORIA – 是平行对应体？？？\n与\"激进派\"所在现实中ORIA的建立者Jibril Mani很相似。",
+    "description_link": [
+      "wrong-proposal",
+      "oria-hub"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "O5-13",
+    "tag": null,
+    "alias": [
+      "路人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，拉美血统。近六十岁。无反常外貌。\nO5-13与异常的特殊关联令其持有一个其他成员都无法理解的观点。尽管常态确认会议只需要11人出席就能召开，但必须有O5-13在场才能正常进行。\n此外，他是原本O5议会中唯一在凯撒事件中幸存下来的成员。对该事件与O5-13的调查仍在进行中。",
+    "description_link": [
+      "captain-kirby-s-proposal"
+    ],
+    "type": "O5-13"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "官员"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。已确认超人类寿命；报告称貌约三十多到五十多岁之间。无反常外貌。\n备注：该版本的管理员多次被确认是一位或多位基金会真正管理员的替身。可能需要进一步调查。\n声望极高。流传甚广的谣言令其不会衰老的情报广为人知。代表基金会利益与多国首脑有联系。据传（可能是侮辱）\"嗜好西装，美酒和荡妇\"。典型报告范例如下：\n\n他与不同政见的人关系都很好，广为尊敬喜爱。若他大动肝火，连各国首脑都要连忙取悦他并真挚地道歉。\n\n据说有许多超常特征，比如双手距离始终保持在几尺之内，反应迟钝却力气超人。\n ",
+    "description_link": [
+      "expanded-biography-of-the-administrator"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "F. Williams"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自美国。三十多岁。无反常外貌。\n据报告，该人员名为\"F. Williams\"，创建了最初的[损坏]\n[其他数据丢失]\n\n我们连他的名字是什么都不清楚。已经有档案称其名为\"Frederick\"，\"Francis\"，\"Fritz\"，\"Friedrich\"和\"Franz\"。有时候姓氏也不一样，还有称作\"William Fritz\"或\"Fritzwillis\"，但首字母\"F. W.\"始终不变。\n",
+    "description_link": [
+      "fritzwillie-s-author-page",
+      "the-administrator-s-biography",
+      "an-interview-with-the-administrator",
+      "interviewing-icons-the-administrator-fritzwillie",
+      "meet-the-administrators-hub",
+      "djkaktus-s-proposal-iii",
+      "scp-5555",
+      "scp-6099",
+      "scp-6998",
+      "rounderhouse-proposal",
+      "scp-4960",
+      "scp-2000",
+      "scp-4002"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "Agnes Peterson"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，欧洲血统，来自美国。已确认超人类寿命。貌约50岁以上。打扮复古，戴喇叭边眼镜，扎着圆发髻。十分优雅。\nSCP基金会的创立成员之一。召集了其他的创始成员；从一开始的混乱中组建了秩序。被开玩笑地说是擅长做无米之炊。举止活泼。聪慧而有野心，知道什么时候该守纪律，什么时候该打破常规。",
+    "description_link": [
+      "document-001-o5"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "天命"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "女性，中东血统，来自美国。已确认超人类寿命。貌约50岁以上。无反常外貌。\n她负责调查或挑选O5指挥部的继任成员。专业数学家，利用某种超自然统计法进行挑选。亲自挑选了O5指挥部的每一位成员，有时会提前几年就选好。她有时也会指定他们的编号（可能是单独空出一个位置），但该编号直到正式任命前只有她本人与下属知道。",
+    "description_link": [],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "蜘蛛"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "貌似男性，种族/来源不明。头部貌约30岁以上。有凌乱的白发。戴着极厚的眼镜，穿着SCP-262（多臂大衣）。身体非人类。\n可能是半人类或者完全非人。外貌独特：头部貌似人类，眼睛为橙色。身体则完全非人类，甚至很难说是两足行走，完全由扭曲风化的类煤炭物质组成。身体被铁丝网捆绑在多臂大衣内，另有许多手臂固定其位置。其他的手臂则充当\"四肢\"，使其大体上随其心意表现为人形或蜘蛛形。\n似乎在SCP基金会创立之初就与其有关联，然而总是担任次要职务而非处于权力顶层。可能拥有Site-19所在的土地。O5指挥部以外几乎没人见过他。说话很和气，但惩戒的手段极其残忍。\n有报告提到这位管理员来自\"目光无从跟随的位面。\"",
+    "description_link": [
+      "scp-262",
+      "a-few-more-words-from-the-administrator"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "中间人"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，种族不明，国籍不明，年龄不明。\n对此人身份的调查往往出乎意料地模糊不清，即使有与其相当的权限也是如此 - 我看过他的录像但还是没法描述他究竟长什么样。很有可能曾任某政府异常调查机构的职员，但是跟后来组成了O5议会的十三个人泄露了自己的秘密。尽管如此，据传言称他曾与基金会伦理道德委员会联合多次反对O5决策。多次被报告身亡，但因不明原因总是不实。\n可能指挥机动特遣队Rēsh-1（\"良心之位\"），目前不确定是否真实存在。",
+    "description_link": [
+      "ethics-committee-orientation",
+      "tanhony-s-proposal",
+      "task-forces"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "考古学家"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，来自英国。貌约60岁以上（已确认超人类寿命）。\n据官方记载，Frederick William Abernathy参加过许多小型考古活动，但一无所获，最终死因不明。非官方材料则指出其有诸多重要成就，包括在发掘一座埃及古墓时发现了一位美索不达米亚女神。后来遭遇了一名为\"守门人\"的实体并被其指示\"准备好\"（准备什么？）。该事件促使其建立了文物保护秘密结社 —可能是基金会的前身组织其一。当前位置与状态不明，确信仍在基金会内担任重要职务。\n _\n有些报告称此人（或者类似的某人）可能已被一位女性管理员继任。若属实，则该位管理员可能已经去世，然而有谣传他仍在协助基金会。",
+    "description_link": [
+      "scp-4960",
+      "dr-clef-s-proposal",
+      "the-gate-opens",
+      "competitive-eschatology-hub",
+      "awakenings",
+      "scp-990"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "管理员",
+    "tag": null,
+    "alias": [
+      "公爵"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "男性，欧洲血统，可能来自奥地利？貌约四十多岁，但实际年龄超过300岁。可能非人类？\n名为Franz C. Williams，继承了哈布斯堡王朝的奥地利公爵头衔。在七年战争（又称第一次超自然大战）中移居美国。在该战争中的立场不明，离开欧洲的原因亦不明。在他位于佛吉尼亚乡间的宅邸内成立了基金会的前身组织。与其他十一人一起抵达美国 - 可能是最初的十二位监督者？活得比多个O5议会成员都要长，如今仍在领导基金会。",
+    "description_link": [
+      "rounderhouse-proposal"
+    ],
+    "type": "管理员"
+  },
+  {
+    "name": "\n\n\n\n管理员",
+    "tag": null,
+    "alias": [
+      "Ethan Horowitz"
+    ],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "",
+    "description_link": [],
+    "type": null
+  },
+  {
+    "name": "aaron-siegel",
+    "tag": "aaron-siegel",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Aaron Siegel",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "dado",
+    "tag": "dado",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "dado 正在照顾尼。尼不烦恼。",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "Trunnion特使",
+    "tag": "Trunnion特使",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Trunnion特使，齿轮正教会的先知",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "roget博士",
+    "tag": "roget博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Ralph Roget 博士",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "sokolsky博士",
+    "tag": "sokolsky博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Daniil Sokolsky 博士",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "thervene博士",
+    "tag": "thervene博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Cole Thervene博士",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "draven-kondraki",
+    "tag": "draven-kondraki",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Draven Kondraki 博士/主管",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "faeowynn-wilson",
+    "tag": "faeowynn-wilson",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Faeowynn \"Fae\" Wilson",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "缢王",
+    "tag": "缢王",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "缢王",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "iris-dark",
+    "tag": "iris-dark",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Iris Dark",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "judy-papill",
+    "tag": "judy-papill",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Judy Papill，又称“巧舌”Judy，多么奇妙世界设定中 Holly Light 的继任者",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "leslie",
+    "tag": "leslie",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Leslie，SCP-3774 个体",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "manny",
+    "tag": "manny",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Manny，又称赫曼·富勒的颠倒脸男人",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "hutchinson教授",
+    "tag": "hutchinson教授",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Wilson Hutchinson 教授。以处理异常数学、异常算术等式以及危险或食人的逻辑证明而著称",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "研究员james",
+    "tag": "研究员james",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "初级研究员 James，史上最好的基金会研究员！（5 岁）",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "robin-thorne",
+    "tag": "robin-thorne",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Robin Thorne",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "圣Hedwig",
+    "tag": "圣Hedwig",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "圣Hedwig，麦克斯韦的预言家",
+    "description_link": [],
+    "type": null,
+    "language": "英文站"
+  },
+  {
+    "name": "andrés-mondragón",
+    "tag": "andrés-mondragón",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "研究员Andrés Mondragón",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "dante",
+    "tag": "dante",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Dante",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "von-braun博士",
+    "tag": "von-braun博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Von Braun博士",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "luisa-vander",
+    "tag": "luisa-vander",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Luisa Vander",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "maximus",
+    "tag": "maximus",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Maximus",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "richard-barnard",
+    "tag": "richard-barnard",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Richard Barnard博士，又称“Reach”",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "richard-dunwich",
+    "tag": "richard-dunwich",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "研究助理Richard Dunwich教士",
+    "description_link": [],
+    "type": null,
+    "language": "西班牙语分部"
+  },
+  {
+    "name": "ajillo",
+    "tag": "ajillo",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "Ajillo，或SCP-1129-JP",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "冻雾阳",
+    "tag": "冻雾阳",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "日本生类创研的冻雾阳",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "侍者",
+    "tag": "侍者",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "弟弟的食品店所属的侍者",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "宇喜田博士",
+    "tag": "宇喜田博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "宇喜田博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工苍井",
+    "tag": "特工苍井",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工苍井",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工伊凡诺夫",
+    "tag": "特工伊凡诺夫",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工伊凡诺夫",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工育良",
+    "tag": "特工育良",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工育良",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工海野",
+    "tag": "特工海野",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工海野",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工来栖",
+    "tag": "特工来栖",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工来栖",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工西塔",
+    "tag": "特工西塔",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工西塔",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工差前",
+    "tag": "特工差前",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工差前",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工户神",
+    "tag": "特工户神",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工户神",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工那泽和梦",
+    "tag": "特工那泽和梦",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工那泽和梦",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工山友",
+    "tag": "特工山友",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工山友",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "特工许",
+    "tag": "特工许",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "特工许",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "scp-014-jp-ex-1",
+    "tag": "scp-014-jp-ex-1",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "SCP-014-JP-EX-1",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "scp-014-jp-j",
+    "tag": "scp-014-jp-j",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "SCP-014-JP-J",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "scp-210-jp",
+    "tag": "scp-210-jp",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "金属生命体SCP-210-JP",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "大和博士",
+    "tag": "大和博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "大和博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "研究员神惠",
+    "tag": "研究员神惠",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "研究员神惠",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "茅野博士",
+    "tag": "茅野博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "茅野博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "职员川獭丸",
+    "tag": "职员川獭丸",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "职员川獭丸",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "保育员串间",
+    "tag": "保育员串间",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "保育员串间",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "久能尚史",
+    "tag": "久能尚史",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "日本生类创研的久能尚史",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "桑名博士",
+    "tag": "桑名博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "桑名博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "咬冴队员",
+    "tag": "咬冴队员",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "咬冴队员",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "诸知博士",
+    "tag": "诸知博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "诸知博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "白子博士",
+    "tag": "白子博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "白子博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "津轻美野里",
+    "tag": "津轻美野里",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "津轻美野里",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "d-2930",
+    "tag": "d-2930",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "D-2930",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "虎屋博士",
+    "tag": "虎屋博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "虎屋博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "鸣蝉博士",
+    "tag": "鸣蝉博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "鸣蝉博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "难波谦司",
+    "tag": "难波谦司",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "日本生类创研的难波谦司",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "在下是猫",
+    "tag": "在下是猫",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "SCP-040-JP，或通称“猫”。",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "研究员波户崎",
+    "tag": "研究员波户崎",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "研究员波户崎",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "广末孝行",
+    "tag": "广末孝行",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "毕业于明治大学政治经济系，在东弊重工总公司总务部工作10年后辞职，进入恋昏崎新闻社工作的广末孝行",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "福路搜索部队长",
+    "tag": "福路搜索部队长",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "福路搜索部队长",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "前原博士",
+    "tag": "前原博士",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "前原博士",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  },
+  {
+    "name": "萌里菻",
+    "tag": "萌里菻",
+    "alias": [],
+    "name_extra": [],
+    "address_extra": [],
+    "description": "萌里菻",
+    "description_link": [],
+    "type": null,
+    "language": "日语分部"
+  }
+]

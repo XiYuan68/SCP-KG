@@ -79,7 +79,7 @@ def parse_tag_guide(
         htmlhandle = htmlfile.read()
         pagedata = Selector(text=htmlhandle)
     dict_description = {}
-    list_tag = []
+    list_tag: list[dict] = []
 
     # 主要标签
     # 特殊排版的标签
@@ -222,6 +222,9 @@ def parse_tag_guide(
 
     for i in list_tag:
         i['address'] = strip_address(i['address'])
+        for key, value in i.items():
+            if value == '':
+                i[key] = None
 
     return list_tag
 

@@ -142,9 +142,34 @@ def parse_character(
                 dict_character['type'] = t_text
     return list_character
 
+
+def parse_character_from_tag(
+    list_character: list[dict],
+    json_tag: str = '../data/tag.json',
+) -> list[dict]:
+    set_tag = set([i['tag'] for i in list_character if i['tag'] is not None])
+    with open(json_tag) as f:
+        list_dict_tag = json.load(f)
+    list_character_from_tag = []
+    for i in list_dict_tag:
+        if "人物" in i['type'] and i['tag'] not in set_tag:
+            dict_character = empty_dict_character()
+            dict_character['name'] = i['tag']
+            dict_character['tag'] = i['tag']
+            dict_character['description'] = i['description']
+            language: list[str] = i['type']
+            for j in ["人物", "其他语言分部"]:
+                if j in language:
+                    language.remove(j)
+            dict_character['language'] = language[0]
+            list_character_from_tag.append(dict_character)
+    return list_character_from_tag
+
+
 if __name__ == '__main__':
     list_character = parse_character()
     list_character += parse_character(
         DIR_WIKIDOT + 'o5-command-dossier.html', 
         o5=True)
+    list_character += parse_character_from_tag(list_character)
     save_json(list_character, '../data/character.json')

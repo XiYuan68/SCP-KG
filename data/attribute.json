@@ -1,0 +1,1563 @@
+[
+  {
+    "tag": "适应性",
+    "tag_english": "adaptive",
+    "description": "以异常方式适应外界刺激的SCP。",
+    "type": "实体",
+    "name": "适应性"
+  },
+  {
+    "tag": "活物",
+    "tag_english": "alive",
+    "description": "该SCP为活物，即代表它拥有代谢，反应以及生殖的特点。与自主冲突，替代生物性。",
+    "type": "实体",
+    "name": "活物"
+  },
+  {
+    "tag": "无定形",
+    "tag_english": "amorphous",
+    "description": "没有固定形态或者形态持续改变的SCP，普遍适用于被定义为“软泥”，“云”，或“未分化质量”的SCP。与 形态改变有所冲突。",
+    "type": "实体",
+    "name": "无定形"
+  },
+  {
+    "tag": "自主",
+    "tag_english": "autonomous",
+    "description": "以自己的异常方式激活运行SCP。只适用于一般不会自己激活的项目。与活物有所冲突，尽量不要与机器人共同使用。",
+    "type": "实体",
+    "name": "自主"
+  },
+  {
+    "tag": "细菌",
+    "tag_english": "bacteria",
+    "description": "本身为细菌或带有细菌特性，或类细菌的SCP。常与传染性配合使用。",
+    "type": "实体",
+    "name": "细菌"
+  },
+  {
+    "tag": "真菌",
+    "tag_english": "fungus",
+    "description": "本身是或拥有真菌特性的SCP。",
+    "type": "实体",
+    "name": "真菌"
+  },
+  {
+    "tag": "鬼魂",
+    "tag_english": "ghost",
+    "description": "是或与鬼魂（幽灵型实体）有关的SCP。",
+    "type": "实体",
+    "name": "鬼魂"
+  },
+  {
+    "tag": "蜂巢意识",
+    "tag_english": "hive-mind",
+    "description": "具有群体性思维特性的SCP。",
+    "type": "实体",
+    "name": "蜂巢意识"
+  },
+  {
+    "tag": "敌意",
+    "tag_english": "hostile",
+    "description": "对项目或人员展现出本能反应和掠食性为以外敌意的SCP。与掠食性冲突。",
+    "type": "实体",
+    "name": "敌意"
+  },
+  {
+    "tag": "人形生物",
+    "tag_english": "humanoid",
+    "description": "该SCP是人形生物，或拥有人形生物的特性。",
+    "type": "实体",
+    "name": "人形生物"
+  },
+  {
+    "tag": "形态改变",
+    "tag_english": "metamorphic",
+    "description": "该SCP会改变自身形状或形态，通常是为了模仿其他物品或实体的形态。与 无定形冲突。",
+    "type": "实体",
+    "name": "形态改变"
+  },
+  {
+    "tag": "掠食性",
+    "tag_english": "predatory",
+    "description": "拥有掠食性行为，即通过捕猎行为以获取食物或补充身体所需的SCP。与敌意冲突。",
+    "type": "实体",
+    "name": "掠食性"
+  },
+  {
+    "tag": "植物",
+    "tag_english": "plant",
+    "description": "拥有植物特性的SCP。",
+    "type": "实体",
+    "name": "植物"
+  },
+  {
+    "tag": "种群",
+    "tag_english": "species",
+    "description": "该SCP涵盖整个种群，并非一个或多个个体。",
+    "type": "实体",
+    "name": "种群"
+  },
+  {
+    "tag": "群体性",
+    "tag_english": "swarm",
+    "description": "具有群体性行为的SCP。",
+    "type": "实体",
+    "name": "群体性"
+  },
+  {
+    "tag": "病毒",
+    "tag_english": "virus",
+    "description": "拥有病毒感染因子特性的SCP。必须与生物性或电脑配合使用，替代传染性。",
+    "type": "实体",
+    "name": "病毒"
+  },
+  {
+    "tag": "动物",
+    "tag_english": "animal",
+    "description": "本身为动物或带有动物特性的SCP。",
+    "type": "动物",
+    "name": "动物"
+  },
+  {
+    "tag": "蜘蛛",
+    "tag_english": "arachnid",
+    "description": "本身为蛛形纲或拥有蛛形纲特性，或类蛛形纲动物的SCP。常与动物配合使用，与甲壳类和昆虫冲突，替代无脊椎动物和节肢动物。",
+    "type": "动物",
+    "name": "蜘蛛"
+  },
+  {
+    "tag": "节肢动物",
+    "tag_english": "arthropod",
+    "description": "本身为节肢动物或拥有节肢动物特性，或带有外骨骼，分节身体和连接附肢的动物SCP。替代无脊椎动物，被蜘蛛、甲壳类和昆虫替代。",
+    "type": "动物",
+    "name": "节肢动物"
+  },
+  {
+    "tag": "熊类",
+    "tag_english": "bear",
+    "description": "本身为熊类或带有熊类特性，或类熊类动物的SCP。常与动物配合使用。",
+    "type": "动物",
+    "name": "熊类"
+  },
+  {
+    "tag": "蜜蜂",
+    "tag_english": "bee",
+    "description": "本身为蜂类或带有蜂类特性，或类蜜蜂动物的SCP。常与动物和昆虫配合使用。",
+    "type": "动物",
+    "name": "蜜蜂"
+  },
+  {
+    "tag": "鸟类",
+    "tag_english": "bird",
+    "description": "本身为鸟类或带有鸟类特性，或类鸟类动物的SCP。常与动物配合使用。",
+    "type": "动物",
+    "name": "鸟类"
+  },
+  {
+    "tag": "牛类",
+    "tag_english": "bovine",
+    "description": "本身为牛类或带有牛类特性，或类牛类动物的SCP，包括水牛、野牛等。常与动物配合使用。",
+    "type": "动物",
+    "name": "牛类"
+  },
+  {
+    "tag": "蝴蝶",
+    "tag_english": "butterfly",
+    "description": "原標簽名：鳞翅目， 本身为、带有其特征或类似蝴蝶的SCP，包括蝴蝶、飞蛾和酪蝇等。常与活物和昆虫配合使用。",
+    "type": "动物",
+    "name": "蝴蝶"
+  },
+  {
+    "tag": "犬类",
+    "tag_english": "canine",
+    "description": "本身为犬科或带有犬科特性，或类犬科动物的SCP，包括狼、胡狼等。常与动物配合使用。",
+    "type": "动物",
+    "name": "犬类"
+  },
+  {
+    "tag": "头足类动物",
+    "tag_english": "cephalopodic",
+    "description": "本身为头足类动物或带有头足类动物特征，或类头足类动物的SCP，包括墨鱼、章鱼、鱿鱼等。常与动物配合使用，替代无脊椎动物。",
+    "type": "动物",
+    "name": "头足类动物"
+  },
+  {
+    "tag": "鲸类",
+    "tag_english": "cetacean",
+    "description": "本身为鲸类或带有鲸类特性，或类鲸类动物的SCP，包括鲸、海豚、鼠海豚等。常与动物配合使用。",
+    "type": "动物",
+    "name": "鲸类"
+  },
+  {
+    "tag": "鹿类",
+    "tag_english": "deer",
+    "description": "本身为鹿类或带有鹿类特性，或类鹿类动物的SCP，包括驼鹿、麋鹿等。常与动物配合使用。",
+    "type": "动物",
+    "name": "鹿类"
+  },
+  {
+    "tag": "马类",
+    "tag_english": "equine",
+    "description": "本身为马类或带有马类特性，或类马类动物的SCP，包括斑马、驴等。常与动物配合使用。",
+    "type": "动物",
+    "name": "马类"
+  },
+  {
+    "tag": "猫科",
+    "tag_english": "feline",
+    "description": "本身为猫科或与猫科有关，或类猫动物的SCP，包括狮子、老虎等大型猫科动物。常与动物配合使用。",
+    "type": "动物",
+    "name": "猫科"
+  },
+  {
+    "tag": "鱼类",
+    "tag_english": "fish",
+    "description": "本身为鱼类或带有鱼类特性，或类鱼类动物的SCP。常与动物配合使用。",
+    "type": "动物",
+    "name": "鱼类"
+  },
+  {
+    "tag": "昆虫",
+    "tag_english": "insect",
+    "description": "相关標簽：蚂蚁，本身是或与昆虫——即六足爬行动物有关的SCP。（（要注意蜘蛛和地鳖不是昆虫，其标签分别应为蜘蛛和甲壳类。蜈蚣和千足虫也不是昆虫）。常与动物配合使用，与蜘蛛和甲壳类冲突，替代无脊椎动物和节肢动物。",
+    "type": "动物",
+    "name": "昆虫"
+  },
+  {
+    "tag": "无脊椎动物",
+    "tag_english": "invertebrate",
+    "description": "拥有无脊椎动物特性或没有脊椎的动物SCP。被蜘蛛、节肢动物、头足类、甲壳类、昆虫和蠕虫替代。",
+    "type": "动物",
+    "name": "无脊椎动物"
+  },
+  {
+    "tag": "兔类",
+    "tag_english": "leporine",
+    "description": "本身为兔类或带有兔类特性，或类兔类动物的SCP。常与动物配合使用。",
+    "type": "动物",
+    "name": "兔类"
+  },
+  {
+    "tag": "爬行类动物",
+    "tag_english": "reptile",
+    "description": "本身为爬行类或带有爬行类特性，或类爬行类动物的SCP。常与动物配合使用。",
+    "type": "动物",
+    "name": "爬行类动物"
+  },
+  {
+    "tag": "鲨鱼",
+    "tag_english": "shark",
+    "description": "本身为鲨鱼或带有鲨鱼特性，或类鲨鱼动物的SCP。包括鳐鱼及魟鱼等。必须配合鱼类使用，常与动物配合使用。",
+    "type": "动物",
+    "name": "鲨鱼"
+  },
+  {
+    "tag": "蛇类",
+    "tag_english": "snake",
+    "description": "本身为蛇类或带有蛇类特性，或类蛇类动物的SCP。常与动物和爬行类配合使用。",
+    "type": "动物",
+    "name": "蛇类"
+  },
+  {
+    "tag": "生物性",
+    "tag_english": "biological",
+    "description": "由生物学意义上的分子、组织或器官组成的SCP。被活物替代。",
+    "type": "生物",
+    "name": "生物性"
+  },
+  {
+    "tag": "生物危害",
+    "tag_english": "biohazard",
+    "description": "会对人类或者环境造成生物性危害或者本身即为生物危害的SCP。",
+    "type": "生物",
+    "name": "生物危害"
+  },
+  {
+    "tag": "尸体",
+    "tag_english": "cadaver",
+    "description": "本身为，影响尸体，兽体，或任何死去组织，或与之有关的SCP。常与骨骼或复活配合使用。",
+    "type": "生物",
+    "name": "尸体"
+  },
+  {
+    "tag": "传染性",
+    "tag_english": "contagion",
+    "description": "本身是传染媒介，或表现出传染性扩散的SCP。尽量不要与细菌配合使用，被病毒和模因替代。",
+    "type": "生物",
+    "name": "传染性"
+  },
+  {
+    "tag": "牙齿",
+    "tag_english": "dental",
+    "description": "本身是或与牙齿或者牙医工作有关的SCP。",
+    "type": "生物",
+    "name": "牙齿"
+  },
+  {
+    "tag": "肢体",
+    "tag_english": "extremity",
+    "description": "本身为或影响特定肢体的SCP。使用时不拘物种。",
+    "type": "生物",
+    "name": "肢体"
+  },
+  {
+    "tag": "基因",
+    "tag_english": "genetic",
+    "description": "和基因相关，或者其功能主要透过基因的编码和解码运作的SCP。",
+    "type": "生物",
+    "name": "基因"
+  },
+  {
+    "tag": "医学性",
+    "tag_english": "medical",
+    "description": "本身是或拟用作医疗装置，或具有病理以外的医学意义的SCP。",
+    "type": "生物",
+    "name": "医学性"
+  },
+  {
+    "tag": "夜间活动",
+    "tag_english": "nocturnal",
+    "description": "在夜间触发或激活，或其他只能在夜晚活跃的SCP。",
+    "type": "生物",
+    "name": "夜间活动"
+  },
+  {
+    "tag": "眼睛",
+    "tag_english": "ocular",
+    "description": "与眼睛关联，相似或者影响眼睛的SCP。",
+    "type": "生物",
+    "name": "眼睛"
+  },
+  {
+    "tag": "寄生性",
+    "tag_english": "parasitic",
+    "description": "表现出寄生或寄生生物特性的SCP。尽量不要与生殖性配合使用。",
+    "type": "生物",
+    "name": "寄生性"
+  },
+  {
+    "tag": "复活",
+    "tag_english": "reanimation",
+    "description": "自身具有从临床死亡中复活的特性或者能使其他对象复活的SCP，不管是整体或部份。常与尸体配合使用。",
+    "type": "生物",
+    "name": "复活"
+  },
+  {
+    "tag": "生殖性",
+    "tag_english": "reproductive",
+    "description": "以异常效应影响生殖过程（包括人类）的SCP，以及具有“自我复制”、“寄生”以外的异常生殖特性的SCP。尽量不要与寄生性和自我复制配合使用。",
+    "type": "生物",
+    "name": "生殖性"
+  },
+  {
+    "tag": "性",
+    "tag_english": "sexual",
+    "description": "带有或会影响性器官，性行为，或与性相关概念的SCP。具有该标签的文章不一定是成人主题。",
+    "type": "生物",
+    "name": "性"
+  },
+  {
+    "tag": "骨骼",
+    "tag_english": "skeletal",
+    "description": "本身是骷髅、由骨骼及骷髅的软骨组成，或影响生物体骨骼结构的SCP。",
+    "type": "生物",
+    "name": "骨骼"
+  },
+  {
+    "tag": "毒性",
+    "tag_english": "toxic",
+    "description": "会在对象体内诱发化学毒性的SCP。",
+    "type": "生物",
+    "name": "毒性"
+  },
+  {
+    "tag": "成瘾性",
+    "tag_english": "addictive",
+    "description": "使得受影响对象对某物产生强烈欲望或上瘾的SCP。",
+    "type": "精神",
+    "name": "成瘾性"
+  },
+  {
+    "tag": "逆模因",
+    "tag_english": "antimemetic",
+    "description": "本本身为或涉及到能抑制（包括自身在内的）理念或概念被了解并/或理解的逆模因的SCP。尽量不要与模因配合使用。",
+    "type": "精神",
+    "name": "逆模因"
+  },
+  {
+    "tag": "听觉影响",
+    "tag_english": "auditory",
+    "description": "由听觉触发或影响听觉的SCP。尽量不要与声音配合使用。",
+    "type": "精神",
+    "name": "听觉影响"
+  },
+  {
+    "tag": "认知危害",
+    "tag_english": "cognitohazard",
+    "description": "被传统五感感知到时带来危害的SCP。常与听觉影响，味觉影响，嗅觉影响、触觉影响和视觉性配合使用。",
+    "type": "精神",
+    "name": "认知危害"
+  },
+  {
+    "tag": "强迫性",
+    "tag_english": "compulsion",
+    "description": "强迫被影响对象做出某些行动，或做一些平时不会做的事的SCP。",
+    "type": "精神",
+    "name": "强迫性"
+  },
+  {
+    "tag": "移情作用",
+    "tag_english": "empathic",
+    "description": "能够读取或传达感情或感受的SCP，常与心灵感应配合使用。",
+    "type": "精神",
+    "name": "移情作用"
+  },
+  {
+    "tag": "味觉影响",
+    "tag_english": "gustatory",
+    "description": "影响味觉或者由味觉触发或激活的SCP。",
+    "type": "精神",
+    "name": "味觉影响"
+  },
+  {
+    "tag": "幻觉",
+    "tag_english": "hallucination",
+    "description": "会使对象产生幻觉的SCP。常与听觉影响和视觉性配合使用。",
+    "type": "精神",
+    "name": "幻觉"
+  },
+  {
+    "tag": "信息危害",
+    "tag_english": "infohazard",
+    "description": "被描述或提及时，展现出危害的SCP。",
+    "type": "精神",
+    "name": "信息危害"
+  },
+  {
+    "tag": "知识",
+    "tag_english": "knowledge",
+    "description": "以异常方式拥有，吸收，储存，产生，给予知识或者知识本身为异常的SCP。能够进行准确预言的SCP应当使用预测性标签。被预测性替代，要注意分清与心灵感应的区别。",
+    "type": "精神",
+    "name": "知识"
+  },
+  {
+    "tag": "语言",
+    "tag_english": "language",
+    "description": "传授或表现出异常语言的SCP。",
+    "type": "精神",
+    "name": "语言"
+  },
+  {
+    "tag": "模因",
+    "tag_english": "memetic",
+    "description": "该SCP是模因媒介，或拥有模因传播的特性。常与认知危害配合使用，尽量不要与逆模因配合使用，替代传染性。",
+    "type": "精神",
+    "name": "模因"
+  },
+  {
+    "tag": "记忆影响",
+    "tag_english": "memory-affecting",
+    "description": "给予，改变或删除有知觉存在，如人类对象的记忆的SCP。注意分清与精神影响的区别。",
+    "type": "精神",
+    "name": "记忆影响"
+  },
+  {
+    "tag": "拟态",
+    "tag_english": "mimetic",
+    "description": "拥有异常拟态的SCP。常与听觉影响、味觉影响、嗅觉影响、触觉影响和视觉性配合使用。",
+    "type": "精神",
+    "name": "拟态"
+  },
+  {
+    "tag": "精神影响",
+    "tag_english": "mind-affecting",
+    "description": "能影响对象的思考，引导他们的行为以及整体智慧的SCP。注意分清与记忆影响的区别。",
+    "type": "精神",
+    "name": "精神影响"
+  },
+  {
+    "tag": "神经性",
+    "tag_english": "neurological",
+    "description": "直接或间接影响对象神经系统的SCP，必须是在这一影响确定，只是单纯改变对象的行为的情况下才可使用。常与记忆影响和精神影响配合使用。",
+    "type": "精神",
+    "name": "神经性"
+  },
+  {
+    "tag": "观察影响",
+    "tag_english": "observational",
+    "description": "能被直接或间接观察引发或压制某些特质的SCP。这些特性可能也是认知危害。常与认知危害配合使用。",
+    "type": "精神",
+    "name": "观察影响"
+  },
+  {
+    "tag": "嗅觉影响",
+    "tag_english": "olfactory",
+    "description": "散发出异常味道的，透过嗅觉传播或者影响嗅觉的SCP。",
+    "type": "精神",
+    "name": "嗅觉影响"
+  },
+  {
+    "tag": "预测性",
+    "tag_english": "predictive",
+    "description": "能够传达未来的资讯或行为表现出预测性的SCP。替代知识。",
+    "type": "精神",
+    "name": "预测性"
+  },
+  {
+    "tag": "感知影响",
+    "tag_english": "sensory",
+    "description": "影响感知的SCP。常与听觉影响，味觉影响，嗅觉影响，触觉影响，和视觉性配合使用。",
+    "type": "精神",
+    "name": "感知影响"
+  },
+  {
+    "tag": "睡眠",
+    "tag_english": "sleep",
+    "description": "与被影响对象的睡眠活动相关的SCP。",
+    "type": "精神",
+    "name": "睡眠"
+  },
+  {
+    "tag": "触觉影响",
+    "tag_english": "tactile",
+    "description": "由触觉触发或激活，或者能影响触觉的SCP。要注意此标签特指触觉，并非单指能透过碰触什么东西激活的东西。",
+    "type": "精神",
+    "name": "触觉影响"
+  },
+  {
+    "tag": "心灵感应",
+    "tag_english": "telepathic",
+    "description": "能透过异常方式传递信息的SCP。",
+    "type": "精神",
+    "name": "心灵感应"
+  },
+  {
+    "tag": "视觉性",
+    "tag_english": "visual",
+    "description": "由视觉触发或者影响视觉的SCP。常与认知危害和感知影响配合使用。",
+    "type": "精神",
+    "name": "视觉性"
+  },
+  {
+    "tag": "声音",
+    "tag_english": "acoustic",
+    "description": "由声音构成或影响、能够产生声音，或者由声音传播的SCP。常与震动配合使用，尽量不要与听觉影响配合使用。",
+    "type": "物理",
+    "name": "声音"
+  },
+  {
+    "tag": "化学性",
+    "tag_english": "chemical",
+    "description": "本身为异常化学物质或者以异常方式出产化学物质的SCP。",
+    "type": "物理",
+    "name": "化学性"
+  },
+  {
+    "tag": "腐蚀性",
+    "tag_english": "corrosive",
+    "description": "具有腐蚀特性的SCP。",
+    "type": "物理",
+    "name": "腐蚀性"
+  },
+  {
+    "tag": "反熵",
+    "tag_english": "ectoentropic",
+    "description": "能够以无法解释的方式产生能量或物质，违反孤立系统内熵（系统的无序度）必然不断提升的定律。尽量不要与超维度配合使用，被现实扭曲替代。",
+    "type": "物理",
+    "name": "反熵"
+  },
+  {
+    "tag": "电力",
+    "tag_english": "electrical",
+    "description": "产生、储存或者使用电力的SCP。",
+    "type": "物理",
+    "name": "电力"
+  },
+  {
+    "tag": "电磁",
+    "tag_english": "electromagnetic",
+    "description": "产生或使用电磁能量或电磁场的SCP。",
+    "type": "物理",
+    "name": "电磁"
+  },
+  {
+    "tag": "熵",
+    "tag_english": "entropic",
+    "description": "带有熵的衰变特性、能以异常性质影响熵，或其异常性质会被熵影响的的SCP。",
+    "type": "物理",
+    "name": "熵"
+  },
+  {
+    "tag": "火",
+    "tag_english": "fire",
+    "description": "由火组成，与火关联或者能促成燃烧过程的SCP。",
+    "type": "物理",
+    "name": "火"
+  },
+  {
+    "tag": "气体",
+    "tag_english": "gaseous",
+    "description": "本身为气体或者会排出气体的SCP。",
+    "type": "物理",
+    "name": "气体"
+  },
+  {
+    "tag": "重力影响",
+    "tag_english": "gravity",
+    "description": "影响重力或者受重力额外影响的SCP。",
+    "type": "物理",
+    "name": "重力影响"
+  },
+  {
+    "tag": "不可移动",
+    "tag_english": "immobile",
+    "description": "无法被基金会以任何已知手段移动的SCP。",
+    "type": "物理",
+    "name": "不可移动"
+  },
+  {
+    "tag": "不可摧毁",
+    "tag_english": "indestructible",
+    "description": "无法被基金会以任何已知手段摧毁的SCP。",
+    "type": "物理",
+    "name": "不可摧毁"
+  },
+  {
+    "tag": "无形",
+    "tag_english": "intangible",
+    "description": "无形的SCP，气体不包括在内。",
+    "type": "物理",
+    "name": "无形"
+  },
+  {
+    "tag": "光照影响",
+    "tag_english": "light",
+    "description": "透过可照光触发，激活，传播或与可见光存在与否有关的SCP。",
+    "type": "物理",
+    "name": "光照影响"
+  },
+  {
+    "tag": "液体",
+    "tag_english": "liquid",
+    "description": "本身是或者产生液体的SCP。",
+    "type": "物理",
+    "name": "液体"
+  },
+  {
+    "tag": "磁性",
+    "tag_english": "magnetic",
+    "description": "带有磁性或带有磁荷以及/或吸力特性的。",
+    "type": "物理",
+    "name": "磁性"
+  },
+  {
+    "tag": "气象",
+    "tag_english": "meteorological",
+    "description": "本身是或影响气象现象，或者受气象因素影响的SCP。",
+    "type": "物理",
+    "name": "气象"
+  },
+  {
+    "tag": "微观",
+    "tag_english": "microscopic",
+    "description": "太细小所以裸眼无法观测的SCP。注意分清与微型的区别。",
+    "type": "物理",
+    "name": "微观"
+  },
+  {
+    "tag": "微型",
+    "tag_english": "miniature",
+    "description": "是对应物品的微缩版本的SCP。注意分清与微观的区别。",
+    "type": "物理",
+    "name": "微型"
+  },
+  {
+    "tag": "异常移动",
+    "tag_english": "mobile",
+    "description": "能够以异常方式移动的SCP。一般只用于正常来说无法移动的项目或实体。尽量不要与传送配合使用。",
+    "type": "物理",
+    "name": "异常移动"
+  },
+  {
+    "tag": "门径",
+    "tag_english": "portal",
+    "description": "本身是一个开口或表现出不一致连通性的门径的SCP。常与超维度和空间影响配合使用。",
+    "type": "物理",
+    "name": "门径"
+  },
+  {
+    "tag": "悖论",
+    "tag_english": "paradox",
+    "description": "制造、出现或涉及矛盾的活动或状况的SCP。注意分清与时间影响的区别。",
+    "type": "物理",
+    "name": "悖论"
+  },
+  {
+    "tag": "多面体",
+    "tag_english": "polyhedral",
+    "description": "本身为多面体或具有平面和直边的三维形状的SCP。被立方体替代。",
+    "type": "物理",
+    "name": "多面体"
+  },
+  {
+    "tag": "放射性",
+    "tag_english": "radioactive",
+    "description": "释放辐射或造成放射性影响的SCP。",
+    "type": "物理",
+    "name": "放射性"
+  },
+  {
+    "tag": "现实扭曲",
+    "tag_english": "reality-bending",
+    "description": "能通过异常方式操纵现实（即“现实扭曲”、“本质促动”）的SCP。尽量不要与奇术共同使用，替代反熵。",
+    "type": "物理",
+    "name": "现实扭曲"
+  },
+  {
+    "tag": "自我修复",
+    "tag_english": "self-repairing",
+    "description": "展现了异常的自我修复能力的SCP。",
+    "type": "物理",
+    "name": "自我修复"
+  },
+  {
+    "tag": "自我复制",
+    "tag_english": "self-replicating",
+    "description": "SCP通过生殖以外的方式进行异常复制。尽量不要与生殖性配合使用。",
+    "type": "物理",
+    "name": "自我复制"
+  },
+  {
+    "tag": "阴影",
+    "tag_english": "shadow",
+    "description": "受对象的阴影激活或被影响的SCP。",
+    "type": "物理",
+    "name": "阴影"
+  },
+  {
+    "tag": "球体",
+    "tag_english": "sphere",
+    "description": "球形的SCP。",
+    "type": "物理",
+    "name": "球体"
+  },
+  {
+    "tag": "隔地促动",
+    "tag_english": "telekinetic",
+    "description": "能以异常方式操纵物体，或产生或影响反应的SCP。",
+    "type": "物理",
+    "name": "隔地促动"
+  },
+  {
+    "tag": "传送",
+    "tag_english": "teleportation",
+    "description": "能够在不占据两地之间的空间移动，或能透过不进行正常移动的特殊方式位移自身的SCP。尽量不要与异常移动配合使用",
+    "type": "物理",
+    "name": "传送"
+  },
+  {
+    "tag": "时间影响",
+    "tag_english": "temporal",
+    "description": "影响时间或者与时间流逝相关的SCP。常与空间影响配合使用",
+    "type": "物理",
+    "name": "时间影响"
+  },
+  {
+    "tag": "奇术",
+    "tag_english": "thaumaturgy",
+    "description": "能施展奇术，或跟奇术有关的SCP。尽量不要与现实扭曲共同使用。",
+    "type": "物理",
+    "name": "奇术"
+  },
+  {
+    "tag": "热量影响",
+    "tag_english": "thermal",
+    "description": "受温度改变影响或者通过其传播的SCP。",
+    "type": "物理",
+    "name": "热量影响"
+  },
+  {
+    "tag": "热力学",
+    "tag_english": "thermodynamic",
+    "description": "影响或者明显与热力学定律相关的SCP。",
+    "type": "物理",
+    "name": "热力学"
+  },
+  {
+    "tag": "变形",
+    "tag_english": "transfiguration",
+    "description": "能以异常方式改变受影响物的形状的SCP。",
+    "type": "物理",
+    "name": "变形"
+  },
+  {
+    "tag": "通讯",
+    "tag_english": "transmission",
+    "description": "透过无线电波或其他电磁波方式传递信息的SCP。",
+    "type": "物理",
+    "name": "通讯"
+  },
+  {
+    "tag": "家用物品",
+    "tag_english": "appliance",
+    "description": "本身是，或类似日常用品、家用电器的SCP。常与电力和电子配合使用，替代人造物品，被电脑替代",
+    "type": "器物",
+    "name": "家用物品"
+  },
+  {
+    "tag": "艺术性",
+    "tag_english": "artistic",
+    "description": "本身为艺术品或者展现了艺术特性的SCP。替代人造物品，被音乐性、雕塑替代。",
+    "type": "器物",
+    "name": "艺术性"
+  },
+  {
+    "tag": "人造物品",
+    "tag_english": "artifact",
+    "description": "由人类创造，或曾是人类创造的SCP。被家用物品、艺术性、衣物、电影、电脑、文件、食物、饰品、媒体、工具、载具和武器替代。",
+    "type": "器物",
+    "name": "人造物品"
+  },
+  {
+    "tag": "发条",
+    "tag_english": "clockwork",
+    "description": "主要通过发条运转的SCP，特指由齿轮组成并/或以发条驱动的机械。替代机械。",
+    "type": "器物",
+    "name": "发条"
+  },
+  {
+    "tag": "衣物",
+    "tag_english": "clothing",
+    "description": "主要用来穿着以得到舒适或保护的人造物SCP，包括盔甲和头盔在内。替代人造物品，与饰品有所冲突。",
+    "type": "器物",
+    "name": "衣物"
+  },
+  {
+    "tag": "电脑",
+    "tag_english": "computer",
+    "description": "本身是电子计算机设备或者对其进行影响的SCP。常与电子和机械配合使用，替代人造物品和家用物品。",
+    "type": "器物",
+    "name": "电脑"
+  },
+  {
+    "tag": "货币",
+    "tag_english": "currency",
+    "description": "本身是货币，与货币有关，能影响货币或能透过金钱或其他主要用来作交易媒介的对象激活的SCP。",
+    "type": "器物",
+    "name": "货币"
+  },
+  {
+    "tag": "文件",
+    "tag_english": "document",
+    "description": "包括书籍在内的文件性SCP。替代人造物品和铭文。",
+    "type": "器物",
+    "name": "文件"
+  },
+  {
+    "tag": "电子",
+    "tag_english": "electronic",
+    "description": "本身是或类电子设备的SCP。",
+    "type": "器物",
+    "name": "电子"
+  },
+  {
+    "tag": "食物",
+    "tag_english": "food",
+    "description": "主要作为一种可食用物体或物质的SCP。替代人造物品。",
+    "type": "器物",
+    "name": "食物"
+  },
+  {
+    "tag": "铭文",
+    "tag_english": "inscription",
+    "description": "以书写或者刻画的文字或数字形式存在的铭文SCP。被文件替代。",
+    "type": "器物",
+    "name": "铭文"
+  },
+  {
+    "tag": "饰品",
+    "tag_english": "jewelry",
+    "description": "主要以装饰目的穿戴在身的SCP物品。替代人造物品，与衣物相冲突。",
+    "type": "器物",
+    "name": "饰品"
+  },
+  {
+    "tag": "机械",
+    "tag_english": "mechanical",
+    "description": "本身是机械，或主要以机械的形式运行的SCP。被发条和机器人替代。",
+    "type": "器物",
+    "name": "机械"
+  },
+  {
+    "tag": "媒体",
+    "tag_english": "media",
+    "description": "本身是，或储藏于一个或以上的的固定或可动仿真或数字媒体的SCP，包括磁带、唱片、光盘或硬盘等。替代人造物品。",
+    "type": "器物",
+    "name": "媒体"
+  },
+  {
+    "tag": "音乐性",
+    "tag_english": "musical",
+    "description": "本身为音乐，创造音乐，或透过音乐创作产生的SCP。替代艺术性。",
+    "type": "器物",
+    "name": "音乐性"
+  },
+  {
+    "tag": "线上",
+    "tag_english": "online",
+    "description": "能接上，依赖或利用互联网的SCP。常与电脑和电子配合使用。",
+    "type": "器物",
+    "name": "线上"
+  },
+  {
+    "tag": "表演",
+    "tag_english": "performance",
+    "description": "作为或用于表演艺术的SCP，像舞蹈或演出。替代艺术性。",
+    "type": "器物",
+    "name": "表演"
+  },
+  {
+    "tag": "摄像",
+    "tag_english": "photographic",
+    "description": "作为处理摄像或是相片为主要异常一部分的SCP。",
+    "type": "器物",
+    "name": "摄像"
+  },
+  {
+    "tag": "机器人",
+    "tag_english": "robotic",
+    "description": "本身是用于单独运作的装置或结构的SCP。应用于任何能被描述为“机器人”“自动人形”的东西。尽量不要与自主配合使用，替代机械。",
+    "type": "器物",
+    "name": "机器人"
+  },
+  {
+    "tag": "雕塑",
+    "tag_english": "sculpture",
+    "description": "相关標簽：雕像，该SCP为三维的艺术作品。该项目需已成型、被雕刻或被模塑才能被视为雕塑。替代艺术性。",
+    "type": "器物",
+    "name": "雕塑"
+  },
+  {
+    "tag": "工具",
+    "tag_english": "tool",
+    "description": "本身是，或主要作为工具之用的SCP。替代人造物品。",
+    "type": "器物",
+    "name": "工具"
+  },
+  {
+    "tag": "玩具",
+    "tag_english": "toy",
+    "description": "本身是，或主要作为玩具之用的SCP。替代人造物品。",
+    "type": "器物",
+    "name": "玩具"
+  },
+  {
+    "tag": "载具",
+    "tag_english": "vehicle",
+    "description": "本身是，或主要作为交通工具之用的SCP。替代人造物品。",
+    "type": "器物",
+    "name": "载具"
+  },
+  {
+    "tag": "武器",
+    "tag_english": "weapon",
+    "description": "本身是，或主要作为武器之用的SCP。替代人造物品。",
+    "type": "器物",
+    "name": "武器"
+  },
+  {
+    "tag": "天空",
+    "tag_english": "airborne",
+    "description": "生活在空气中或者通过空气传播/移动的SCP。",
+    "type": "位置",
+    "name": "天空"
+  },
+  {
+    "tag": "水生",
+    "tag_english": "aquatic",
+    "description": "在水中栖息/移动/传播的SCP。",
+    "type": "位置",
+    "name": "水生"
+  },
+  {
+    "tag": "建筑",
+    "tag_english": "building",
+    "description": "本身是建筑或建筑的一部分或与建筑有关或会影响建筑的现象的SCP，专指供人类活动的建筑。在中文Wiki中此标签与structure合并。",
+    "type": "位置",
+    "name": "建筑"
+  },
+  {
+    "tag": "城市",
+    "tag_english": "city",
+    "description": "本身为城市，市镇或其他供人类居住的定居点的SCP。只能在城市的显着部份被认为是异常时使用，替代地点。",
+    "type": "位置",
+    "name": "城市"
+  },
+  {
+    "tag": "超维度",
+    "tag_english": "extradimensional",
+    "description": "来自超维度，能跨维度地移动或传播，又或者能够进行/提供跨维度旅行的SCP。尽量不要与反熵配合使用。",
+    "type": "位置",
+    "name": "超维度"
+  },
+  {
+    "tag": "星际",
+    "tag_english": "extraterrestrial",
+    "description": "起源于太空或者在太空中找到的 SCP， 又或者能够进行/提供星际旅行。",
+    "type": "位置",
+    "name": "星际"
+  },
+  {
+    "tag": "地质",
+    "tag_english": "geological",
+    "description": "属于自然地质结构(洞穴，悬崖，山脉，峡谷，火山等)或者影响其形成的SCP，又或者是重大地质性事件（地震，滑坡，地陷等）。被星球替代。",
+    "type": "位置",
+    "name": "地质"
+  },
+  {
+    "tag": "地点",
+    "tag_english": "location",
+    "description": "该SCP是独特的地理位置。能被城市取代。",
+    "type": "位置",
+    "name": "地点"
+  },
+  {
+    "tag": "月球",
+    "tag_english": "moon",
+    "description": "属于、有关、或影响自然卫星或是月球（可能是或不是我们星球的月球）的SCP。",
+    "type": "位置",
+    "name": "月球"
+  },
+  {
+    "tag": "星球",
+    "tag_english": "planet",
+    "description": "本身是，类似或影响一颗星球的SCP，未必是我们身处的星球。替代地质。",
+    "type": "位置",
+    "name": "星球"
+  },
+  {
+    "tag": "卫星",
+    "tag_english": "satellite",
+    "description": "环绕星体的天然或人造卫星的SCP。",
+    "type": "位置",
+    "name": "卫星"
+  },
+  {
+    "tag": "建筑",
+    "tag_english": "structure",
+    "description": "不供人类活动的天然或人工建筑SCP。在中文Wiki中此标签与building合并。",
+    "type": "位置",
+    "name": "建筑"
+  },
+  {
+    "tag": "地下",
+    "tag_english": "subterranean",
+    "description": "位于地球地表以下或于地下运作的SCP。不包括为安全和方便起见而单纯收容于地下的项目。",
+    "type": "位置",
+    "name": "地下"
+  },
+  {
+    "tag": "恒星",
+    "tag_english": "sun",
+    "description": "本身是一颗恒星或者与恒星关联或能影响恒星的SCP。",
+    "type": "位置",
+    "name": "恒星"
+  },
+  {
+    "tag": "异常事件",
+    "tag_english": "anomalous-event",
+    "description": "这SCP是一个以某种方式改变了现实的异常事件。 应避免跟现象一同使用。",
+    "type": "其他",
+    "name": "异常事件"
+  },
+  {
+    "tag": "概念",
+    "tag_english": "concept",
+    "description": "本身是或会影响某种完全非实质的概念的SCP。不应和描述物理性质的标签一起使用。",
+    "type": "其他",
+    "name": "概念"
+  },
+  {
+    "tag": "企业性",
+    "tag_english": "corporate",
+    "description": "影响企业或公司运作的SCP。",
+    "type": "其他",
+    "name": "企业性"
+  },
+  {
+    "tag": "交换",
+    "tag_english": "exchange",
+    "description": "涉及或通过某种形式的交换实体或无形的商品，包括但不限于以物易物和货币交易触发的SCP。",
+    "type": "其他",
+    "name": "交换"
+  },
+  {
+    "tag": "基金会制",
+    "tag_english": "foundation-made",
+    "description": "由SCP基金会本身有意无意地制造出来的SCP。要注意的是只有明确是因基金会作出的行为的直接结果而产生出来的项目才能算数。并不包括由于曝露于大量已收容异常下而在基金会站点中自然形成的现象。",
+    "type": "其他",
+    "name": "基金会制"
+  },
+  {
+    "tag": "未来",
+    "tag_english": "future",
+    "description": "来自未来或以其他方式被暂时从较后的时间段移到较早时候的SCP。常和时间影响配合使用。",
+    "type": "其他",
+    "name": "未来"
+  },
+  {
+    "tag": "游戏",
+    "tag_english": "game",
+    "description": "该SCP本身是一个游戏或者在游戏中使用，或者是通过游戏激活，或是与一个或以上的游戏有关的SCP，特指以技巧，力量或运气决定胜败的游玩或运动方式 — 尤其带有竞争性的游戏。常与体育配合使用。",
+    "type": "其他",
+    "name": "游戏"
+  },
+  {
+    "tag": "历史性",
+    "tag_english": "historical",
+    "description": "影响历史或者在历史事件中十分突出，或者有重大历史意义的SCP。",
+    "type": "其他",
+    "name": "历史性"
+  },
+  {
+    "tag": "k级情景",
+    "tag_english": "k-class-scenario",
+    "description": "涉及或能够触发一个或多个K级情景的SCP。只有在明确指出了一种K级情景命名的SCP项目中才能使用。",
+    "type": "其他",
+    "name": "k级情景"
+  },
+  {
+    "tag": "循环",
+    "tag_english": "loop",
+    "description": "呈现或进行重复的循环活动的SCP。",
+    "type": "其他",
+    "name": "循环"
+  },
+  {
+    "tag": "数学性",
+    "tag_english": "mathematical",
+    "description": "该SCP是，或会影响一个数字、数字系统、数学公式，或具有数学意义。",
+    "type": "其他",
+    "name": "数学性"
+  },
+  {
+    "tag": "meta",
+    "tag_english": null,
+    "description": "该SCP影响文件或者被其文件影响，又或者其收容措施与其被记录的方式相关。",
+    "type": "其他",
+    "name": "meta"
+  },
+  {
+    "tag": "军事",
+    "tag_english": "military",
+    "description": "本身是军队单位的军用装备，部件或成员之一，或具有军事意义的SCP。注意分清与武器的区别。",
+    "type": "其他",
+    "name": "军事"
+  },
+  {
+    "tag": "叙述性",
+    "tag_english": "narrative",
+    "description": "本身是叙述性信息或文件，或与其有关或透过叙述性信息或文件传播的SCP。",
+    "type": "其他",
+    "name": "叙述性"
+  },
+  {
+    "tag": "概率性",
+    "tag_english": "probability",
+    "description": "能更改或操纵某些活动或结果的概率的SCP。",
+    "type": "其他",
+    "name": "概率性"
+  },
+  {
+    "tag": "现象",
+    "tag_english": "phenomenon",
+    "description": "这SCP是一个跟物理源头没有直接联系，持续进行中的广泛现象。应避免跟异常事件一同使用。",
+    "type": "其他",
+    "name": "现象"
+  },
+  {
+    "tag": "宗教",
+    "tag_english": "religious",
+    "description": "与一个或以上的宗教有关或具有重要意义的SCP。",
+    "type": "其他",
+    "name": "宗教"
+  },
+  {
+    "tag": "仪式性",
+    "tag_english": "ritual",
+    "description": "通过仪式性行为触发或激活的SCP。",
+    "type": "其他",
+    "name": "仪式性"
+  },
+  {
+    "tag": "体育",
+    "tag_english": "sport",
+    "description": "本身是体育活动，或透过体育活动激活，或和一个或多个体育活动有关的SCP。体育活动即涉及体力消耗以及一个或多个个体对抗其他个体或团队的技巧的活动。 体育活动本身应与游戏配合使用，而特别或专门用于体育活动的装备或器械可以与衣服或工具配合使用。注意分清与游戏、衣物和工具的区别。",
+    "type": "其他",
+    "name": "体育"
+  },
+  {
+    "tag": "未收容",
+    "tag_english": "uncontained",
+    "description": "部分或完全未收容的SCP。只适用于尚未收容所有实体的SCP，并不适用于基金会成功收容了一些个体的情况。",
+    "type": "其他",
+    "name": "未收容"
+  },
+  {
+    "tag": "仙人掌",
+    "tag_english": "cactaceous",
+    "description": "本身为仙人掌或仙人掌科植物，或带有其特性的SCP。可以与植物配合使用。",
+    "type": "未分類",
+    "name": "仙人掌"
+  },
+  {
+    "tag": "肉食性",
+    "tag_english": "carnivorous",
+    "description": "肉食性动物或带有相关特性的SCP。",
+    "type": "未分類",
+    "name": "肉食性"
+  },
+  {
+    "tag": "龟类",
+    "tag_english": "chelonian",
+    "description": "本身为龟类或带有龟类特性，或类鳖，陆龟或龟类动物的SCP。可以与动物配合使用。",
+    "type": "未分類",
+    "name": "龟类"
+  },
+  {
+    "tag": "泥土",
+    "tag_english": "clay",
+    "description": "主要或明显由泥土构成的SCP。",
+    "type": "未分類",
+    "name": "泥土"
+  },
+  {
+    "tag": "容器",
+    "tag_english": "container",
+    "description": "能够托着或装着其他物质或物品的SCP，包括花瓶和其他类似的物体。取代人造物品 。",
+    "type": "未分類",
+    "name": "容器"
+  },
+  {
+    "tag": "晶体",
+    "tag_english": "crystalline",
+    "description": "本身是晶体或表现出晶体特性的SCP。",
+    "type": "未分類",
+    "name": "晶体"
+  },
+  {
+    "tag": "立方体",
+    "tag_english": "cube",
+    "description": "SCP是立方体。应只用于整体是立方体或者完全由立方体组成的SCP，而不是用在只有一个或以上的组件是立方体的SCP。",
+    "type": "未分類",
+    "name": "立方体"
+  },
+  {
+    "tag": "印刻",
+    "tag_english": "engraved",
+    "description": "本身是或拥有印刻或雕刻的SCP。",
+    "type": "未分類",
+    "name": "印刻"
+  },
+  {
+    "tag": "家具",
+    "tag_english": "furniture",
+    "description": "本身是或类一件家具的SCP。",
+    "type": "未分類",
+    "name": "家具"
+  },
+  {
+    "tag": "玻璃",
+    "tag_english": "glass",
+    "description": "主要或明显由玻璃构成的SCP。",
+    "type": "未分類",
+    "name": "玻璃"
+  },
+  {
+    "tag": "题写",
+    "tag_english": "inscribed",
+    "description": "题写有铭文的SCP，通常以文字或数字的形式出现。能被印刻和文件取代。",
+    "type": "未分類",
+    "name": "题写"
+  },
+  {
+    "tag": "仪器",
+    "tag_english": "instrument",
+    "description": "该SCP是用于精细测量或科学研究的器械。在主站使用同样标签的乐器及演奏器械应使用乐器标签。",
+    "type": "未分類",
+    "name": "仪器"
+  },
+  {
+    "tag": "钥匙",
+    "tag_english": "key",
+    "description": "本身为标准的钥匙，或用来解开一个或以上的装置或容器的SCP。",
+    "type": "未分類",
+    "name": "钥匙"
+  },
+  {
+    "tag": "地图",
+    "tag_english": "map",
+    "description": "该SCP是一张地图，拥有地图，或以地图形式呈现出来的视觉表现。",
+    "type": "未分類",
+    "name": "地图"
+  },
+  {
+    "tag": "金属",
+    "tag_english": "metallic",
+    "description": "本身是金属，或完全或明显由金属或金属性质的物质构成的SCP。",
+    "type": "未分類",
+    "name": "金属"
+  },
+  {
+    "tag": "杂食性",
+    "tag_english": "omnivorous",
+    "description": "拥有杂食性特性的SCP。",
+    "type": "未分類",
+    "name": "杂食性"
+  },
+  {
+    "tag": "有机",
+    "tag_english": "organic",
+    "description": "具有有机体性质或以有机体构成的SCP。",
+    "type": "未分類",
+    "name": "有机"
+  },
+  {
+    "tag": "羊类",
+    "tag_english": "ovine",
+    "description": "本身为羊类或带有羊类特性，或类羊类动物的SCP。可以与动物配合使用。",
+    "type": "未分類",
+    "name": "羊类"
+  },
+  {
+    "tag": "反物理定律",
+    "tag_english": "physics",
+    "description": "影响或者违背特定物理定律的SCP。一般可以被反熵、电力、磁性等所取代。",
+    "type": "未分類",
+    "name": "反物理定律"
+  },
+  {
+    "tag": "记录",
+    "tag_english": "recording",
+    "description": "本身是或包含音频或图像记录的SCP。不同于媒体。",
+    "type": "未分類",
+    "name": "记录"
+  },
+  {
+    "tag": "感知力",
+    "tag_english": "sentient",
+    "description": "拥有感知能力，诸如自我意识以及认知推理等的SCP。",
+    "type": "未分類",
+    "name": "感知力"
+  },
+  {
+    "tag": "时空",
+    "tag_english": "spacetime",
+    "description": "能翘曲时空，或者违背或影响时空定律的SCP。",
+    "type": "未分類",
+    "name": "时空"
+  },
+  {
+    "tag": "石质",
+    "tag_english": "stone",
+    "description": "主要由以泥土和矿物质组成的石头或岩石组成的SCP。",
+    "type": "未分類",
+    "name": "石质"
+  },
+  {
+    "tag": "时钟",
+    "tag_english": "timepiece",
+    "description": "该SCP是，或其主要部分是一个测量时间的仪器或机械，如闹钟、日晷、手表等。取代人造物品并可以与发条或机械配合使用。",
+    "type": "未分類",
+    "name": "时钟"
+  },
+  {
+    "tag": "狐狸",
+    "tag_english": "vulpine",
+    "description": "本身为狐狸或带有狐狸特性，或类狐狸动物的SCP。可以与动物配合使用。",
+    "type": "未分類",
+    "name": "狐狸"
+  },
+  {
+    "tag": "木质",
+    "tag_english": "wooden",
+    "description": "由木头或者类似木头材料构成的SCP，不能用于形容活的植物。",
+    "type": "未分類",
+    "name": "木质"
+  },
+  {
+    "tag": "异关节目",
+    "tag_english": "xenarthran",
+    "description": "本身为异关节目或带有异关节目特性的SCP，包括食蚁兽、犰狳和树懒。可以与动物配合使用。",
+    "type": "未分類",
+    "name": "异关节目"
+  },
+  {
+    "tag": "乐器",
+    "tag_english": "instrument",
+    "description": "该SCP为乐器或演奏器械，在主站和仪器使用同样标签。",
+    "type": null,
+    "name": "乐器"
+  },
+  {
+    "tag": "中国",
+    "tag_english": null,
+    "description": "出现在中国/与中国关联的SCP，不应用于原创文档上。",
+    "type": null,
+    "name": "中国"
+  },
+  {
+    "tag": "神话传说",
+    "tag_english": null,
+    "description": "涉及到现实世界中的神话及/或传说故事的SCP。",
+    "type": null,
+    "name": "神话传说"
+  },
+  {
+    "tag": "国外収容",
+    "tag_english": null,
+    "description": "非日本分部收容的SCP-JP。不应用于中文翻译作品中。",
+    "type": null,
+    "name": "国外収容"
+  },
+  {
+    "tag": "船舶",
+    "tag_english": null,
+    "description": "与能在水上或水中航行的船舶、潜水艇相关的SCP。不应用于中文翻译作品中。",
+    "type": null,
+    "name": "船舶"
+  },
+  {
+    "tag": "现实扭曲",
+    "tag_english": "現実改変",
+    "description": "以异常方式操纵现实的SCP。",
+    "type": null,
+    "name": "现实扭曲"
+  },
+  {
+    "tag": "贵族",
+    "tag_english": "aristocratic",
+    "description": "与皇室、贵族或类似阶层有关。",
+    "type": null,
+    "name": "贵族"
+  },
+  {
+    "tag": "奥秘植物",
+    "tag_english": "cryptobotanical",
+    "description": "与某种未曾被正式记载或者超自然的植物有关。",
+    "type": null,
+    "name": "奥秘植物"
+  },
+  {
+    "tag": "奥秘动物",
+    "tag_english": "cryptozoological",
+    "description": "与某种未曾被公开记载或者超自然的动物有关。请勿与“异界”混淆，后者代表通过密径连接的其他世界。",
+    "type": null,
+    "name": "奥秘动物"
+  },
+  {
+    "tag": "神灵",
+    "tag_english": "divine",
+    "description": "与神灵起源或能力相关的个体、物体或概念有关。",
+    "type": null,
+    "name": "神灵"
+  },
+  {
+    "tag": "个体",
+    "tag_english": "entity",
+    "description": "与一个超自然的独立个体有关，而不是表现得像一堆有机体的东西。能被“奥秘植物”或“奥秘动物”取代。",
+    "type": null,
+    "name": "个体"
+  },
+  {
+    "tag": "丛林",
+    "tag_english": "forest",
+    "description": "与特定丛林有关，或者发生于丛林的故事。",
+    "type": null,
+    "name": "丛林"
+  },
+  {
+    "tag": "历史",
+    "tag_english": "historical",
+    "description": "与知名的历史重要事件有关。",
+    "type": null,
+    "name": "历史"
+  },
+  {
+    "tag": "地区",
+    "tag_english": "location",
+    "description": "与一个具有特别意义的地理区域有关。已有“设定标签”的区域不再需要“地区”标签。",
+    "type": null,
+    "name": "地区"
+  },
+  {
+    "tag": "军队",
+    "tag_english": "military",
+    "description": "与一支军事力量或者该军事力量的某次行动——例如战争——有关。",
+    "type": null,
+    "name": "军队"
+  },
+  {
+    "tag": "神话",
+    "tag_english": "mythological",
+    "description": "与现有的神话、传说或故事有关。",
+    "type": null,
+    "name": "神话"
+  },
+  {
+    "tag": "物体",
+    "tag_english": "object",
+    "description": "与某种超自然或者具有重要现实意义的物体有关。",
+    "type": null,
+    "name": "物体"
+  },
+  {
+    "tag": "异界",
+    "tag_english": "otherworldly",
+    "description": "与一个或多个其他宇宙世界有关。注意图书馆本身并不能算是一个世界。",
+    "type": null,
+    "name": "异界"
+  },
+  {
+    "tag": "宗教性",
+    "tag_english": "religion",
+    "description": "与某个特定的宗教及其习俗或信仰有关。",
+    "type": null,
+    "name": "宗教性"
+  },
+  {
+    "tag": "仪式",
+    "tag_english": "ritual",
+    "description": "与某种由一个或多个有智力的团体所进行的仪式性且可靠的过程有关。",
+    "type": null,
+    "name": "仪式"
+  },
+  {
+    "tag": "太空",
+    "tag_english": "space",
+    "description": "与被称作“太空”的真空空间有关。",
+    "type": null,
+    "name": "太空"
+  },
+  {
+    "tag": "鬼灵",
+    "tag_english": "spirit",
+    "description": "与被称作“鬼灵”的个体有关，例如鬼魂、幽灵和恶魔。",
+    "type": null,
+    "name": "鬼灵"
+  },
+  {
+    "tag": "部落",
+    "tag_english": "tribal",
+    "description": "与某种由人类或类人生物所组成的、部落形式的、有组织的社会团体。",
+    "type": null,
+    "name": "部落"
+  },
+  {
+    "tag": "密径",
+    "tag_english": "ways",
+    "description": "与一种被称之为“密径”的现象有关。",
+    "type": null,
+    "name": "密径"
+  }
+]

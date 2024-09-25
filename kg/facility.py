@@ -18,8 +18,41 @@ from scrapy.selector import Selector
 from utilities import DIR_WIKIDOT, strip_address, xstr, xhref, save_json
 
 
+
+
+TYPE_ENG2CHI = {
+    'site': '站点',
+    'area': '区域',
+    'outpost': '前哨站',
+    'observation_post': '观察哨',
+    'others': '杂项',
+}
+
+
+def get_type_by_name(dict_facility: dict) -> str | None:
+    t = None
+    if dict_facility['name'].lower().startswith('site'):
+        t = '站点'
+    elif dict_facility['name'].lower().startswith('area'):
+        t = '区域'
+    return t
+
+
+def unify_name(name_original: str) -> str:
+    def keep_last(matched: re.Match) -> str:
+        if matched is not None:
+            return matched.group()[-1]
+    name = name_original.lower()
+    pattern = r'.*-0+[1-9](-[0-9]*)?$'
+    if re.match(pattern, name) is not None:
+        pattern_zero = r'0+[1-9]'
+        name = re.sub(pattern_zero, keep_last, name)
+    return name
+
+
 def parse_facility(
     html_file = DIR_WIKIDOT + 'secure-facilities-locations.html',
+    facility_index: int = 0,
 ) -> list[dict]:
     with open(html_file) as htmlfile:
         htmlhandle = htmlfile.read()
@@ -32,7 +65,9 @@ def parse_facility(
         title = i.css('h1').xpath('string(.)').extract_first()
         title = re.findall(pattern, title, re.I)
         if len(title) > 0:
-            dict_facility['name'] = title[0].lower()
+            dict_facility['name_original'] = title[0].lower()
+            dict_facility['name'] = unify_name(title[0].lower())
+            dict_facility['type'] = get_type_by_name(dict_facility)
         p_text = i.xpath('p').xpath('string(.)').extract()
         location = p_text[0].strip()
         if location.startswith('地点：'):
@@ -44,6 +79,9 @@ def parse_facility(
         dict_facility['object_contained'] = set()
         dict_facility['incident'] = set()
         dict_facility['language'] = '英文站'
+        dict_facility['is_official'] = True
+        dict_facility['facility_index'] = facility_index
+        facility_index += 1
 
         # 被收容在该设施中的项目
         during_object_contained = False
@@ -80,7 +118,8 @@ def parse_facility(
 
 
 def parse_facility_complete(
-    html_file = DIR_WIKIDOT + 'facilities-complete-list.html'
+    html_file = DIR_WIKIDOT + 'facilities-complete-list.html',
+    facility_index: int = 0,
 ) -> list[dict]:
     head2attr = {}
     head2attr['站点'] = 'site'
@@ -92,9 +131,8 @@ def parse_facility_complete(
     head2attr['值得注意的事件'] = 'incident'
     head2attr['已收容项目/值得注意的事件'] = 'object_contained/incidient'
     head_facility_type = set(['站点', '区域', '设施'])
+    head_rename = {'站点': 'site', '区域': 'area'}
 
-
-    
     with open(html_file) as htmlfile:
         htmlhandle = htmlfile.read()
         page_content = Selector(text=htmlhandle).css('div#page-content')[0]
@@ -118,22 +156,64 @@ def parse_facility_complete(
                                 if i in text:
                                     key = 'outpost'
                                     break
-                    dict_row['type'] = key
+                            if key != 'outpost':
+                                key = 'others'
+                    dict_row['type'] = TYPE_ENG2CHI[key]
                     dict_row['number'] = text
                 elif h == '名称':
-                    dict_row['name'] = text
+                    # TODO: unify name by type and number
+                    dict_row['name_original'] = text
+
+                elif h == '描述':
+                    dict_row['description'] = text
+                elif h == '已收容项目/值得注意的事件':
+                    list_scp = []
+                    list_incident = []
+                    for i in link:
+                        if i.startswith('scp-'):
+                            list_scp.append(i)
+                        else:
+                            list_incident.append(i)
+                    dict_row['object_contained'] = list_scp
+                    dict_row['incident'] = list_incident
                 else:
-                    dict_row[key] = {
-                        'text': text,
-                        'link': link,
-                    }
+                    dict_row[key] = link
             if dict_row != {}:
+                # to maintain same structure with official facilities
+                if 'name_original' not in dict_row.keys():
+                    dict_row['name_original'] = dict_row['number']
+                if dict_row['type'] in head_rename.keys():
+                    name = '-'.join([
+                        head_rename[dict_row['type']],
+                        dict_row['number']
+                    ])
+                    dict_row['name'] = unify_name(name)
+                elif dict_row['type'] in ['前哨站', '观察哨', '杂项']:
+                    name = dict_row['name_original'].lower()
+                    name = name.replace(' ', '-')
+                    name = re.sub('.*前哨站', 'outpost', name)
+                    dict_row['name'] = unify_name(name)
+                dict_row.pop('number')
+                if 'object_contained' not in dict_row.keys():
+                    dict_row['object_contained'] = []
+                if 'incident' not in dict_row.keys():
+                    dict_row['incident'] = []
+                
+                dict_row['location'] = None
+                dict_row['dossier'] = None
+                dict_row['object_related'] = []
+                dict_row['language'] = None
+                dict_row['is_official'] = False
+                dict_row['facility_index'] = facility_index
+                facility_index += 1
+
                 list_row.append(dict_row)    
     return list_row
 
 
 def parse_facility_cn(
     html_file = DIR_WIKIDOT + 'secure-facilities-locations-cn.html',
+    facility_index: int = 0,
 ) -> list[dict]:
     with open(html_file) as htmlfile:
         htmlhandle = htmlfile.read()
@@ -154,6 +234,7 @@ def parse_facility_cn(
                             dict_facility[k] = list(v)
                     list_facility.append(dict_facility)
                 dict_facility = {}
+                dict_facility['name_original'] = None
                 dict_facility['name'] = None
                 dict_facility['location'] = None
                 dict_facility['description'] = None
@@ -162,6 +243,9 @@ def parse_facility_cn(
                 dict_facility['object_contained'] = set()
                 dict_facility['incident'] = set()
                 dict_facility['language'] = '中文分部'
+                dict_facility['is_official'] = True
+                dict_facility['facility_index'] = facility_index
+                facility_index += 1
 
                 facility_child_count = 0
                 break
@@ -172,7 +256,9 @@ def parse_facility_cn(
             continue
         # facility name (and dossier)
         elif facility_child_count == 1:
+            dict_facility['name_original'] = xstr(child.css('strong'))
             dict_facility['name'] = xstr(child.css('strong'))
+            dict_facility['type'] = get_type_by_name(dict_facility)
             dict_facility['dossier'] = strip_address(xhref(child))
             facility_child_count += 1
             continue
@@ -199,9 +285,8 @@ def parse_facility_cn(
 
 if __name__ == '__main__':
     list_facility = parse_facility()
-    list_facility += parse_facility_cn()
-    # list_facility_complete = parse_facility_complete()
+    list_facility += parse_facility_cn(facility_index=len(list_facility))
+    list_facility += parse_facility_complete(facility_index=len(list_facility))
     save_json(list_facility, '../data/facility.json')
-    # save_json(list_facility_complete, '../data/facility_complete.json')
     
 

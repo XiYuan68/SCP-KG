@@ -1,0 +1,1 @@
+Data parsed from SCP wikidot webpages, waiting to be filled in the knowledga graph.

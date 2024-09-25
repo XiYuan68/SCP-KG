@@ -13,7 +13,6 @@ import json
 from joblib import Parallel, delayed
 
 from page import Page, XPATH_CONTENT
-from oneke import get_instruction, get_response
 
 
 # TODO: filtering scp and description without common keywords
@@ -53,8 +52,18 @@ class ScpObject():
                 if self.scp is None or self.description is None:
                     self.update_mainpage(i, j, self.scp, self.description)
         self.tag = self.list_page[self.idx_mainpage].tag
+        # self.update_object_class()
         self.item_number = self.list_page[0].address
         self.address = [i.address for i in self.list_page]
+
+
+    # def update_object_class(self) -> None:
+    #     self.object_class = None
+    #     for i in OBJECT_CLASS:
+    #         if i in self.tag:
+    #             self.object_class = i
+    #             break
+    
         
     def update_mainpage(
         self,
@@ -274,159 +283,29 @@ def check(
     return list_no_scp, list_no_description
 
 
-SCHEMA_EXAMPLE_NER = {
-    '安保设施': {
-        'schema': "例如：'Site-33', 'site-cn-71', 'Area-28', 'Area-CN-22', '前哨1699-A', ",
-        'example': [
-            {
-                'input': 'site-122人形收容中心的一个10m x 10m x 10m 的隔间中。',
-                'output': ['site-122']
-            },
-            {
-                'input': '科考站点Research Station-05现已建立在SCP-4431-A上方。',
-                'output': ['科考站点Research Station-05'], 
-            },
-            {
-                'input': 'Site-CN-09生物部负责。',
-                'output': ['Site-CN-09'],
-            },
-            {
-                'input': 'Site-CN-25内应始终存有至少50%的空置收容单元，',
-                'output': ['Site-CN-25'], 
-            },
-            {
-                'input': '前哨站CN-21已于项目中心南面21千米处建立以执行消极收容措施。',
-                'output': ['前哨站CN-21']
-            },
-            {
-                'input': 'Area-CN-07的仓库中。',
-                'output': ['Area-CN-07'], 
-            },
-            {
-                'input': 'Area-12中节肢动物翼区的特制水生动物收容间中，',
-                'output': ['Area-12'], 
-            },
-            {
-                'input': '前哨1699-A已围绕SCP-1699建立，',
-                'output': ['前哨1699-A'], 
-            },
-            {
-                'input': 'MTF Beta-4 (\"Castaways\"-落难) 合作运往 Site-64 收容。',
-                'output': ['Site-64'], 
-            },
-        ]
-    }, 
-    '机动特遣队': {
-        'schema': "例如：'MTF-丁丑-77（“旅行在祂海中的水手们”）', 'MTF Theta-4“园丁”', 'MTF-Omicron-Rho', 'MTF-Gamma-5（“Red Herrings/红鲱鱼”）', '机动特遣队MTF-已酉-7“采菱客”', '机动特遣队Omicron-5（“真爱粉”）', '机动特遣队€-7（螃蟹之王）'",
-        'example':[
-            {
-                'input': 'MTF ZETA-1000 的监视下，',
-                'output': ['MTF ZETA-1000'],
-            },
-            {
-                'input': '机动特遣队Xi-1（“米斯卡塔尼克急件Dispatch from Miskatonic”）进行收容。',
-                'output': ['机动特遣队Xi-1（“米斯卡塔尼克急件Dispatch from Miskatonic”）'],
-            },
-            {
-                'input': '机动特遣队MTF-△-09（“树栖者”）对SCP-CN-2375样本进行回收并存储于A01-28低温组织储存库中。',
-                'output': ['机动特遣队MTF-△-09（“树栖者”）'],
-            },
-            {
-                'input': 'MTF-庚子-5（“刺杀一群想法”）将常驻该站点，',
-                'output': ['MTF-庚子-5（“刺杀一群想法”）'],
-            },
-            {
-                'input': 'MTF U-58只可录用Cohen-Weinberg共情评分中得分-65以下、且坚持严格的反集体主义道德观及价值观的人员。',
-                'output': ['MTF U-58'],
-            },
-            {
-                'input': '机动特遣队无法压制[数据丢失]时，',
-                'output': [],
-            },
-            {
-                'input': 'MTF Beta-4 (\"Castaways\"-落难) 合作运往 Site-64 收容。',
-                'output': ['MTF Beta-4 (\"Castaways\"-落难)'],
-            },
-        ]
-    }
-}
-def get_schema_ner(
-    schema_example_ner: dict = SCHEMA_EXAMPLE_NER,
-    entity: list[str] = None,
-) -> dict:
-    if entity is None:
-        entity = schema_example_ner.keys()
-    schema = dict((i, schema_example_ner[i]['schema']) for i in entity)
-    return schema
-
-def get_example_ner(
-    schema_example_ner: dict = SCHEMA_EXAMPLE_NER,
-    entity: list[str] = None,
-) -> list[dict]:
-    if entity is None:
-        entity = schema_example_ner.keys()
-    example = []
-    example_input = []
-    for e in entity:
-        list_example_e = schema_example_ner[e]['example']
-        for example_e in list_example_e:
-            output_dict = {}
-            for i in entity:
-                if i != e:
-                    output_dict[i] = []
-                else:
-                    output_dict[i] = example_e['output']
-            input = example_e['input']
-            if input not in example_input:
-                example.append({'input': input, 'output':output_dict})
-                example_input.append(input)
-            else:
-                idx = example_input.index(input)
-                example[idx]['output'][e] = example_e['output']
-    return example
-
-
-def ner(
-    input: str,
-    schema: dict,
-    example: list[dict],
-) -> dict:
-    sintruct = get_instruction(task="NER", schema=schema, example=example, input=input)
-    response =  get_response(sintruct)
-    output = json.loads(response)
-    return output
-
-
-
 if __name__ == '__main__':
     address = 'scp-1949'
     html = f'../SCP-CN/scp-wiki-cn.wikidot.com/{address}.html'
 
-    page = Page(html)
-    page.update_link()
-    page.update_text_block()
-    list_page_all = [[page]]
-    for i in list_page_all:
-        scp_object = ScpObject(i)
-        print('特殊收容措施：', scp_object.scp)
-        print('描述：', scp_object.description)
-        print('标签：', scp_object.tag)
-        print('编号：', scp_object.item_number)
-        print('-'*30)
+    # page = Page(html)
+    # page.update_link()
+    # page.update_text_block()
+    # list_page_all = [[page]]
+    # for i in list_page_all:
+    #     scp_object = ScpObject(i)
+    #     print('特殊收容措施：', scp_object.scp)
+    #     print('描述：', scp_object.description)
+    #     print('标签：', scp_object.tag)
+    #     print('编号：', scp_object.item_number)
+    #     print('-'*30)
 
 
-    task = 'NER'
-    schema = get_schema_ner()
-    example = get_example_ner()
-    # sintruct = get_instruction(task=task, schema=schema, example=example, input=scp)
-    # reponse =  get_response(sintruct)
-    # print(reponse)
 
     # main_page = scp_object.list_page[scp_object.idx_mainpage]
     # text_block = main_page.text_block
 
-    # from page import get_page_from_json
-    # list_page_all = get_page_from_json()
-    # result = save_all_scp(list_page_all)
-    # list_no_scp, list_no_description = check(result)
+    from page import get_page_from_json
+    list_page_all = get_page_from_json()
+    result = save_all_scp(list_page_all)
+    list_no_scp, list_no_description = check(result)
 

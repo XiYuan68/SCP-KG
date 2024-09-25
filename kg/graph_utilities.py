@@ -39,11 +39,12 @@ def create_node(
     verb = 'MERGE' if merge else 'CREATE'
     query = """UNWIND $list_property_dict AS data
     %s (n:%s {%s})"""%(verb, label, str_property)
+    # for graph.query(**kwargs) to work, modify the functions as:
+    # def query(self, query: str, params: dict = {}, **kwargs) -> List[Dict[str, Any]]:
+    # ...
+    #             data = session.run(Query(text=query, timeout=self.timeout), params, **kwargs)
+    # ...
     graph.query(query, list_property_dict=list_property_dict)
-    # merging nodes with null values
-    # MERGE (p:Person {name: $name})
-    # ON CREATE SET p.age = $age, p.city = $city
-    # RETURN p;    
 
 
 def print_schema(graph: Neo4jGraph) -> str:
@@ -61,6 +62,14 @@ def delete_all(graph: Neo4jGraph) -> None:
     graph.query('''CALL apoc.schema.assert({},{}) YIELD label, key, action
     RETURN label, key, action;''')
 
+
+def get_node_property(
+    graph: Neo4jGraph,
+    label: str = 'Tag',
+    property: str = 'tag',
+) -> list[str]:
+    list_dict = graph.query(f'MATCH (n:{label}) RETURN COLLECT(n.{property}) AS result')
+    return list_dict[0]['result']
 
 
 def count_node(
@@ -84,6 +93,8 @@ def create_rel_multitail(
     relationship: str = 'HAS_TAG',
     merge: bool = False,
 ) -> None:
+    if len(list_tail_value) == 0:
+        return None
     list_tail_value = [{'value': i} for i in list_tail_value]
     head_value = repr(head_value)
     q_head = 'MATCH (head:%s {%s: %s})'%(head_label, head_property, head_value)
@@ -93,6 +104,30 @@ def create_rel_multitail(
     q_create = '%s (head)-[:%s]->(tail)'%(verb, relationship)
     query = '\n'.join([q_head, q_unwind, q_tail, q_create])
     graph.query(query, list_tail_value=list_tail_value)
+
+
+def create_rel_multihead(
+    graph: Neo4jGraph,
+    head_label: str = 'ScpOject',
+    head_property: str = 'item_number',
+    list_head_value = [],
+    tail_label: str = 'Tag',
+    tail_property: str = 'tag',
+    tail_value: list = '',
+    relationship: str = 'HAS_TAG',
+    merge: bool = False,
+) -> None:
+    if len(list_head_value) == 0:
+        return None
+    list_head_value = [{'value': i} for i in list_head_value]
+    tail_value = repr(tail_value)
+    q_unwind = 'UNWIND $list_head_value AS head_param'
+    q_head = 'MATCH (head:%s {%s: head_param.value})'%(head_label, head_property)
+    q_tail = 'MATCH (tail:%s {%s: %s})'%(tail_label, tail_property, tail_value)
+    verb = 'MERGE' if merge else 'CREATE'
+    q_create = '%s (head)-[:%s]->(tail)'%(verb, relationship)
+    query = '\n'.join([q_unwind, q_head, q_tail, q_create])
+    graph.query(query, list_head_value=list_head_value)
 
 
 def count_rel(

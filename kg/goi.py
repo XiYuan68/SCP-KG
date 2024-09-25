@@ -140,6 +140,30 @@ def parse_goi(
     return list_goi
 
 
+def parse_goi_from_tag(
+    list_goi: list[dict],
+    json_tag: str = '../data/tag.json',
+) -> list[dict]:
+    set_tag = set([i['tag'] for i in list_goi if i['tag'] is not None])
+    with open(json_tag) as f:
+        list_dict_tag = json.load(f)
+    list_goi_from_tag = []
+    for i in list_dict_tag:
+        if ("相关组织" in i['type'] or "次要相关组织" in i['type']) and i['tag'] not in set_tag:
+            dict_goi = {}
+            dict_goi['name'] = i['tag']
+            dict_goi['tag'] = i['tag']
+            dict_goi['address'] = i['address']
+            dict_goi['description'] = i['description']
+            language: list[str] = i['type']
+            for j in ["相关组织", '次要相关组织', "其他语言分部"]:
+                if j in language:
+                    language.remove(j)
+            dict_goi['language'] = language[0]
+            list_goi_from_tag.append(dict_goi)
+    return list_goi_from_tag
+
+
 def parse_goi_complete(
     html_file: str = DIR_WIKIDOT + 'goi-complete-list.html'
 ) -> list[dict]:
@@ -152,4 +176,5 @@ if __name__ == '__main__':
     list_goi = []
     for i in ADDRESS_LANGUAGE:
         list_goi += parse_goi(address2text, DIR_WIKIDOT + f'{i}.html')
+    list_goi += parse_goi_from_tag(list_goi)
     save_json(list_goi, '../data/goi.json')
